@@ -1,0 +1,9 @@
+scrape top 100 colleges - web scraping techniques - done
+find professors from each college - doubt   
+find the professors details - research interests, citations, h1 index - done using google scholar
+ranking agent - rank professors based on their details - use claude 
+recommending agent - use llama, perpexlity
+prediction - train k means algo, cluster into groups, and predict their future citations, based on current research interests 
+ui/ux - django and react
+
+consulting income
