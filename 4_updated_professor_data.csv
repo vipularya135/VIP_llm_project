@@ -8,9 +8,9 @@ Bhaskar Krishnamachari,"Professor of Electrical and Computer Engineering, and Co
 Rao R. Bhavani,"Director, AMMACHI Labs, Amrita Vishwa Vidyapeetham",18,44,1284,Amrita Vishwa Vidyapeetham,Human-Computer Interaction,Assistive Technologies
 Biswarup Mukhopadhyay,"Professor of Biochemistry, Virginia Tech; Adjunct faculty, Virginia Tech Carilion School",31,56,3356,Virginia Tech,Biochemistry,Molecular Biology
 Deepak John Mathew,Professor,6,3,116,Indian Institute of Technology Delhi,Human-Robot Interaction,Assistive Robotics
-Deepak Rajan,The Voleon Group,22,41,2603,The Voleon Group,Quantitative Finance,Machine Learning
+Deepak Rajan,The Voleon Group,22,41,2603,The Voleon Group,Quantitative Finance,Machine Learning 
 Dr. K DEVAKI DEVI,Associate professor of Mecanical Engineering,8,7,189,Jawaharlal Nehru Technological University Anantapur,Mechanical Engineering,Renewable Energy
-Dhananjay Kumar,"Professor of Mechanical Engineering, COEP",56,315,16730,COEP (College of Engineering,Pune),Mechanical Engineering
+Dhananjay Kumar,"Professor of Mechanical Engineering, COEP",56,315,16730,COEP (College of Engineering,Pune,Mechanical Engineering
 Dr. RVG Ravi Kumar,Professor of Mathematics,26,91,5498,University of Hyderabad,Functional Analysis,Operator Theory
 Ganesh Gopalakrishnan,"Professor of Computer Science, University of Utah",42,142,6470,University of Utah,Formal Methods,Parallel Computing
 Gautam Biswas,Cornelius Vanderbilt Professor of Engineering; Professor of  Computer Science and Engineering,66,375,19679,Vanderbilt University,Artificial Intelligence,Learning Technologies
@@ -65,7 +65,7 @@ sreekumar narayanan,"Botho University, Gaborone, Botswana",5,2,64,Botho Universi
 Srinivas Chakravarthy,"Senior Scientist, Cytiva",30,57,4084,Cytiva,Bioprocessing,Biomanufacturing
 R Srinivasan,texas,99,396,60466,University of Texas at Arlington,Control Systems,Robotics
 Sudarshan Srinivasan,Intel,15,16,1424,Intel,Computer Architecture,Hardware Security
-Mark U SubbaRao,"NASA's Scientific Visualization Studio, Goddard Space Flight Center",53,68,61003,NASA's Scientific Visualization Studio,Goddard Space Flight Center,Data Visualization
+Mark U SubbaRao,"NASAs Scientific Visualization Studio, Goddard Space Flight Center",53,68,61003,NASAs Scientific Visualization Studio,Goddard Space Flight Center,Data Visualization
 Prof. Suresh Kumar Gupta,Distinguished Professor& HOD Department of Clinical Research DPSR UNIVERSITY,69,311,19802,DPSR University,Clinical Research,Pharmacology
 Suresh Sethu,Assistant Professor in NPR College of Engineering and Technology,2,0,14,NPR College of Engineering and Technology,Signal Processing,Wireless Communication
 swathi v iyer,"Research Scholar, Memorial Sloan Kettering Cancer Center",11,11,872,Memorial Sloan Kettering Cancer Center,Cancer Biology,Immunotherapy
@@ -123,7 +123,7 @@ Ishwar K. Puri,"Professor, Viterbi School of Engineering, University of Southern
 Kaustav Chatterjee,"Assistant Professor, Indian Institute of Technology Roorkee",13,20,665,Indian Institute of Technology Roorkee,Fluid Mechanics,Heat Transfer
 Manish K. Tiwari,University College London,39,89,6885,University College London,Microfluidics,Nanotechnology
 Markus Kraft,"University of Cambridge, MIT",76,330,21879,University of Cambridge,Combustion Chemistry,Computational Modelling
-Milind Tambe,"Professor & Director CRCS Center  @Harvard; Director ""AI for Social Good"" @Google Research",97,457,40277,Harvard University,Artificial Intelligence,Social Impact of AI
+Milind Tambe,Professor & Director CRCS Center  @Harvard; Director AI for Social Good @Google Research,97,457,40277,Harvard University,Artificial Intelligence,Social Impact of AI
 Mukesh Prasad,University of Technology Sydney,40,115,8347,University of Technology Sydney,Artificial Intelligence,Data Science
 Narendra Dixit,"Department of Chemical Engineering, Indian Institute of Science",33,66,3514,Indian Institute of Science,Systems Biology,Synthetic Biology
 Niladri S. Chatterji,"Postdoctoral Researcher, Department of Computer Science, Stanford University",24,28,10961,Stanford University,Artificial Intelligence,Data Science
@@ -159,7 +159,6 @@ Sumantra Dutta Roy,"Department of Electrical Engineering, Indian Institute of Te
 Suresh Nair,Professor of Neurosurgery sree Chitra Tirunal Institute of Medical Sciences and Technology Trivandru,50,170,10788,Sree Chitra Tirunal Institute for Medical Sciences and Technology,Neurosurgery,Neurological Disorders
 SURJYA KANTA GHOSH,Teacher,19,38,1752,Teacher,Education,Pedagogy
 Tapanendu Kundu,"Professor of Physics, IIT Bombay",23,42,1743,Indian Institute of Technology Bombay,Condensed Matter Physics,Quantum Materials
-Tharun Kumar Reddy Reddyvari,Student of electronic and communication engineering,107,181,56142,Based on the information provided,the specific university or company affiliation for Professor Tharun Kumar Reddy Reddyvari is not explicitly mentioned. If you can provide additional details or context,I’d be happy to assist further. Alternatively
 Vasudeva Varma,"Professor, IIIT Hyderabad, India",43,162,8786,IIIT Hyderabad,Information Retrieval,Natural Language Processing
 Sakthivel Venkatesh,"Research Scholar, Department of Botany, Saraswathi Narayanan College, Madurai, TamilNadu, India.",4,0,20,Saraswathi Narayanan College,Plant Physiology,Environmental Botany
 Vivek Borkar,Indian Institute of Technology Bombay,55,191,17554,Indian Institute of Technology Bombay,Control Theory,Stochastic Systems
@@ -233,7 +232,7 @@ NILOTPAL MRINAL,"Student Of B.tech Final Year At BCET,Durgapur",2,0,10,BCET Durg
 Partha Sarkar,Adj. Prof. of University of Alberta,39,86,8479,University of Alberta,Wind Engineering,Structural Dynamics
 Pijush Ghosh,"Professor, Department of Applied Mechanics & Biomedical Engg, Indian Institute of Technology Madras",20,33,1476,Indian Institute of Technology Madras,Biomechanics,Biomedical Engineering
 Dr PK Banerjee,"Outstanding Scientist & Outstanding Professor (AcSIR), CSIR-CIMFR Dhanbad and Ex-CTO, HINDALCO",25,50,2035,CSIR-CIMFR Dhanbad,Mineral Processing,Environmental Sustainability
-"Prantik Kundu, PhD","Ceretype Neuromedicine Inc., Mount Sinai School of Medicine, Brigham and Women's Hospital, HMS",42,55,6426,Ceretype Neuromedicine Inc.,Neuroscience,Neuroimaging
+"Prantik Kundu, PhD","Ceretype Neuromedicine Inc., Mount Sinai School of Medicine, Brigham and Womens Hospital, HMS",42,55,6426,Ceretype Neuromedicine Inc.,Neuroscience,Neuroimaging
 Amit Singal,University of Texas Southwestern Medical Center,94,338,36414,University of Texas Southwestern Medical Center,Hepatology,Liver Cancer
 AMITABH GUPTA,"Associate Professor, Dept. of Financial Studies,University of Delhi",50,206,11581,University of Delhi,Financial Management,Corporate Governance
 Dr. Arvind Tiwari,"BAG Energy Research Society, India",27,38,4791,BAG Energy Research Society,Renewable Energy,Energy Storage Systems
@@ -268,7 +267,6 @@ Dr. Harsh Kumar Goyal,Administrative Officer Ministry Of Education,70,470,26336,
 Inderpreet Singh Ahuja,Professor in Mechanical Engineering,43,128,8841,Indian Institute of Technology Ropar,Sustainable Manufacturing,Additive Manufacturing
 Dr.Inderjit Singh-PBG,"PAU, Ludhiana",22,52,1924,Punjab Agricultural University (PAU),Plant Breeding,Genetics
 Kaushal Shetty,JP Morgan Chase,1,1,13,JP Morgan Chase,Financial Technology,Risk Management
-Shyam Pandey,Professor,43,179,8240,Please provide more context or information about Professor Shyam Pandey to accurately identify their affiliation and research interests. Without specific details,I cannot provide the requested information. If you have a source or profile link,sharing that would help.
 Jay S. Yadav,"Founder and CEO, MiRus , LLC",56,143,21961,MiRus,LLC,Medical Devices
 Jagdish Narain Sharma,"Professor Pediatrics, Department of Pediatrics, MAHATMA GANDHI MEDICAL COLLEGE & HOSPITAL JAIPUR",9,9,330,Mahatma Gandhi Medical College & Hospital Jaipur,Pediatrics,Child Health
 JAY SHANKAR KUMAR,Research scholar,90,778,37615,Research Scholar,Artificial Intelligence,Data Science
@@ -284,7 +282,6 @@ Krishna Mohan Agarwal,"DNC Meerut, KNIT Sultanpur, IIT Delhi, AUUP Noida, KU Kur
 "Kunwar P. Singh, Ph.D., FAEB, FIC","Ex-Chief Scientist, CSIR-Indian Institute of Toxicology Research",71,385,29632,CSIR-Indian Institute of Toxicology Research,Toxicology,Environmental Health
 Munish Chauhan,"Hoglund Biomedical Imaging Center, University of Kansas Medical Center",11,15,429,University of Kansas Medical Center,Biomedical Imaging,Neuroimaging
 Jagadeesh K S,"Professor of Microbiology, University of Agricultural sciences Dharwad",16,24,1063,University of Agricultural Sciences Dharwad,Microbiology,Agricultural Sciences
-"K S. Rao,K.S. Jagannatha Rao, Rao KS, Jagannatha Rao Kosagisharaf, Rao KS Jagannatha, Jagannatha Rao","kL deemed to be university, india, earlier indicasat aip, Panama,  CFTRI, India",52,122,8944,KL Deemed to be University,Food Science,Biotechnology
 Reddy K S,"Professor, Department of Mechanical Engineering, IIT Madras",56,166,11185,Indian Institute of Technology Madras,Fluid Mechanics,Heat Transfer
 Lalit Mohan Patnaik,"Adjunct Professor and NASI(National Academy of Sciences India)Senior Scientist, NIAS,Bangalore,India",42,204,16771,NIAS (National Institute of Advanced Studies),Evolutionary Algorithms,Artificial Intelligence
 Dr. LN Sharma,Indian Institute of Technology Guwahati,22,45,1924,Indian Institute of Technology Guwahati,Signal Processing,Biomedical Engineering
@@ -398,7 +395,7 @@ Srinivasa Vittal Katikireddi,"MRC/CSO Social and Public Health Sciences Unit, Un
 "Vinod Kumar Gupta, FWIF,FNASc, FRSC","Professor Abdulazeez University; Jedeha, Saudi Arabia;Thomson Highly Cited Researcher",202,907,141080,Professor Abdulazeez University,Environmental Chemistry,Analytical Chemistry
 Vaishnavi Sundararajan,"Assistant Professor, IIT Delhi",5,3,73,Indian Institute of Technology Delhi,Human-Computer Interaction,Accessibility Technology
 Viswanathan Ramasamy,Research Scientist at ICGEB,8,8,418,ICGEB,Structural Biology,Protein Engineering
-John peter Arulanandam,The Rapinat Herbarium and Centre for Molecular systematics,4,2,50,St. Joseph's College (Autonomous),Plant Taxonomy,Molecular Systematics
+John peter Arulanandam,The Rapinat Herbarium and Centre for Molecular systematics,4,2,50,St. Josephs College (Autonomous),Plant Taxonomy,Molecular Systematics
 Ramesh Narayan,"Thomas Dudley Cabot Professor of the Natural Sciences, Harvard University",149,473,86409,Harvard University,Astrophysics,Black Hole Physics
 A Senthil Kumar,National University of Singapore,56,169,10060,National University of Singapore,Environmental Engineering,Water Resources Management
 Rajiv Soundararajan,Indian Institute of Science,19,29,9663,Indian Institute of Science,Image and Video Processing,Signal Processing
@@ -414,7 +411,7 @@ Matam Vijay-Kumar (Vijay),"Professor, The University of Toledo College of Medici
 "Vinod Kumar, Ph D","Ben Gurion University of the Negev, Israel",34,132,6505,Ben Gurion University of the Negev,Environmental Engineering,Water Resources Management
 Bommireddy Arya Vishnu Vardhan Reddy,Mohan Babu University,12,12,14176,Mohan Babu University,Artificial Intelligence,Data Science
 Professor Vivek A. Sharma,"University of California, San DIego",259,1756,354193,University of California,San Diego,Biomedical Imaging
-Ajar Nath Yadav,"Deputy Director-IQAC, HoD, Associate Prof., Eternal University (World's Top 2% Scientists 2022-2024)",96,345,26814,Eternal University,Environmental Microbiology,Agricultural Biotechnology
+Ajar Nath Yadav,"Deputy Director-IQAC, HoD, Associate Prof., Eternal University (Worlds Top 2% Scientists 2022-2024)",96,345,26814,Eternal University,Environmental Microbiology,Agricultural Biotechnology
 Aarthi (Mahalingam) Narain,Dexcom; VoxelCloud,40,76,11699,Dexcom,Continuous Glucose Monitoring,Health Data Analytics
 Dr. Aarti S Bhatt,"NMAMIT, Nitte",20,27,1392,NMAMIT,Nitte,Artificial Intelligence
 Aarti Gupta,"PhD Scholar, University of Nova Gorica",1,0,5,University of Nova Gorica,Computer Science,Artificial Intelligence
@@ -445,8 +442,8 @@ Roshan Lal,Indian Institute of Technology Roorkee,26,53,1656,Indian Institute of
 Sachin Maheshwari,netaji subhas institute of technology,36,75,5270,Netaji Subhas Institute of Technology,Artificial Intelligence,Data Science
 Sandeep Kumar,Ministry of Labour and Employment,128,1309,84496,Ministry of Labour and Employment,Labour Economics,Employment Policy
 Sangeeta Sharma,"Freie university and Max Born Institute, Berlin",43,118,9167,Freie Universität Berlin,Condensed Matter Physics,Ultrafast Spectroscopy
-Professor Sanjay Sharma (Cardiology),Cardiology clinical and academic group. St George's University of London and St George's University,99,300,57254,St George's University of London,Cardiology,Cardiovascular Imaging
-"Satish Chandra Pandey, Ph.D.","Center for Microbial Pathogenesis, Nationwide Children's Hospital, Columbus, Ohio, USA",19,25,1381,Nationwide Children's Hospital,Microbial Pathogenesis,Host-Pathogen Interactions
+Professor Sanjay Sharma (Cardiology),Cardiology clinical and academic group. St Georges University of London and St Georges University,99,300,57254,St Georges University of London,Cardiology,Cardiovascular Imaging
+"Satish Chandra Pandey, Ph.D.","Center for Microbial Pathogenesis, Nationwide Childrens Hospital, Columbus, Ohio, USA",19,25,1381,Nationwide Childrens Hospital,Microbial Pathogenesis,Host-Pathogen Interactions
 Saurabh Kumar,student of B.TECH,91,832,43388,Indian Institute of Technology (IIT),Power Electronics,Renewable Energy Systems
 Dr Saurabh Pandey,"Senior Pharmacokineticist, Syneos Health",19,26,2936,Syneos Health,Pharmacokinetics,Drug Development
 Shantanu Singh,Broad Institute of MIT and Harvard,36,64,8740,Broad Institute of MIT and Harvard,Computational Biology,Cancer Genomics
@@ -461,7 +458,7 @@ Vishal SINGH,"engineer, sharda university",59,254,15038,Sharda University,Engine
 Vivek Gupta,SDE2 at Amazon,51,95,7990,Amazon,Software Engineering,Distributed Systems
 VIVEK KUMAR,STUDENT OF ENGINEERING,101,1051,77886,STUDENT OF ENGINEERING,Artificial Intelligence,Renewable Energy
 YOGESH KUMAR,H.O.D. & Associate Professor at NandLal Prabhu Devi Barabanki Professional Institute,48,228,11754,NandLal Prabhu Devi Barabanki Professional Institute,Engineering Education,Sustainable Development
-Wang Aijun,"Chancellor's Fellow Professor of Surgery and Biomedical Engineering, University of California Davis",52,135,9717,University of California Davis,Surgery,Biomedical Engineering
+Wang Aijun,"Chancellors Fellow Professor of Surgery and Biomedical Engineering, University of California Davis",52,135,9717,University of California Davis,Surgery,Biomedical Engineering
 Ajay Agarwal,"Professor of Electrical Engineering, IIT Jodhpur",36,82,6447,IIT Jodhpur,Signal Processing,Wireless Communication
 Ajit Singh,Professor Emeritus of economics at Cambridge University,63,388,23516,University of Cambridge,Development Economics,Industrial Organization
 Amlan Chakrabarti,"Professor and Director, A.K.Choudhury School of Information Technology, University of",30,107,4535,University of Calcutta,Quantum Computing,Artificial Intelligence
@@ -521,14 +518,14 @@ Pinaki Mazumder,"Professor of Computer Sciennce and Engineering, University of M
 Ranjan Bhattacharyya,"Principal Scientist, IARI, New Delhi 110 012",55,138,9816,Indian Agricultural Research Institute (IARI),Agricultural Biotechnology,Crop Improvement
 Santanu Bhattacharya,Professor,81,286,20749,Indian Institute of Science,Organic Chemistry,Supramolecular Chemistry
 Sreetama Chatterjee,Santosh Dental College and hospital,1,0,1,Santosh Dental College and Hospital,Oral Pathology,Dental Public Health
-Soumyajit Mukherjee (Professor),"IIT Bombay; Series Editor: ""Developments in Structural Geology & Tectonics"" (Elsevier",40,106,5050,Indian Institute of Technology Bombay,Structural Geology,Tectonics
+Soumyajit Mukherjee (Professor),IIT Bombay; Series Editor: Developments in Structural Geology & Tectonics (Elsevier,40,106,5050,Indian Institute of Technology Bombay,Structural Geology,Tectonics
 Sukumar Ghosh,"Professor Emeritus, Department of Computer Science, University of Iowa",25,40,3745,University of Iowa,Distributed Systems,Fault-Tolerant Computing
 Swapan K. Ghosh,"UM-DAE-Centre for Excellence in Basic Science, University of Mumbai, India",54,409,18667,University of Mumbai,Theoretical Chemistry,Computational Materials Science
 Tarun Kumar Bhattacharya,"Emeritus Scientist, Ex-Professor & Head, Dept. of Farm Machinery & Power Engineering, G B Pant",17,20,1245,G B Pant University of Agriculture and Technology,Farm Machinery,Power Engineering
 Tuhin Das,Memorial Sloan Kettering Cancer Center,14,19,1509,Memorial Sloan Kettering Cancer Center,Cancer Biology,Immunotherapy
 Utpal Kumar De,"Professor of Economics, North-Eastern Hill University, Shillong",16,30,1137,North-Eastern Hill University,Development Economics,Environmental Economics
 Vishal Kumar,Assistant professor,73,427,22414,Indian Institute of Technology (IIT) Delhi,Renewable Energy Systems,Power Electronics
-Calin Valsan,Bishop's University and University of Bucharest,10,10,420,Bishop's University,Economics,Behavioral Economics
+Calin Valsan,Bishops University and University of Bucharest,10,10,420,Bishops University,Economics,Behavioral Economics
 NATARAJAN CHANDRASEKARAN,Formerly Director & Sr. Prof Centre for Nanobiotechnology Vellore Institute of Technology/VIT,74,303,21774,Vellore Institute of Technology,Nanobiotechnology,Nanomedicine
 Abhinav Bhatele,"Associate Professor of Computer Science, University of Maryland, College Park",41,98,4990,University of Maryland,College Park,High Performance Computing
 Amit Verma,"Professor, Oncology, Albert Einstein College of Medicine, Montefiore Medical Center",104,730,46289,Albert Einstein College of Medicine,Oncology,Hematologic Malignancies
@@ -562,7 +559,6 @@ Nitin Pandey,"amity university noida,btech biotechnology",22,48,1621,Amity Unive
 Puneet Gupta,Director at Volvic Technologies,44,167,8626,Volvic Technologies,Artificial Intelligence,Data Science
 Rajesh Kumar,Assistant Professor,128,1195,141660,Indian Institute of Technology Delhi,Artificial Intelligence,Data Mining
 rishi kumar,cbse,32,94,3416,Central Board of Secondary Education (CBSE),Educational Technology,Curriculum Development
-Rohit Kumar 2.0,https://www.youtube.com/@SRM_music925,65,530,22269,SRM Institute of Science and Technology,Music Technology,Digital Audio Processing
 Sandhya Patel,"Assistant Professor of Physics, Dr. H.S. Gour Central University",4,2,104,Dr. H.S. Gour Central University,Condensed Matter Physics,Material Science
 Dr.Sanjeev Sharma,"HoD ECE, New Horizon College of Engineering",46,302,13148,New Horizon College of Engineering,Signal Processing,Wireless Communication
 satish kumar,Ph.D Research Scholar,135,1007,81334,Ph.D Research Scholar,Artificial Intelligence,Data Science
@@ -580,27 +576,337 @@ Danish Sayed,"Associate Professor, CVRI, Rutgers-New Jersey Medical School at Ne
 Tejaswini Mishra,"Research Scientist, Department of Genetics, Stanford University School of Medicine",22,27,8184,Stanford University,Genetics,Human Disease Mechanisms
 Vijay Kumar Kuchroo,vkuchroo@evergrande.hms.harvard.edu,171,446,138292,Harvard University,Immunology,Autoimmune Diseases
 Vineet Pande,Johnson & Johnson,20,31,1348,Johnson & Johnson,Drug Development,Clinical Trials
-Vinita Sharma,"Assistant Professor, MIET",28,90,3679,MIET,Computer Networks,Cybersecurity
-Vivek Tiwari,"Intel Corp, Princeton University",24,28,9128,Intel Corp,Computer Architecture,Hardware Security
-Yogesh Sharma,"Associate Professor, People's Dental Academy",74,510,26214,People's Dental Academy,Oral Pathology,Dental Public Health
+Vinita Sharma,MIET,28,90,3679,MIET,Computer Networks,Cybersecurity
+Yogesh Sharma,Peoples Dental Academy,74,510,26214,People Dental Academy,Oral Pathology,Dental Public Health
 Anand Prabhu Subramanian,Infilect Technologies Private Limited,22,33,4383,Infilect Technologies Private Limited,Artificial Intelligence,Data Analytics
-Pallab Ghosh,Professor, Department of Chemical Engineering, IIT Guwahati,33,75,3626,Indian Institute of Technology Guwahati,Quantum Computing,Nanotechnology
-Prasad Menon,Assistant Professor, Department of Physics, University of Mumbai,1,0,3,University of Mumbai,Quantum Computing,Nanotechnology
-Dr. Atul Srivastava,Professor, Department of Mechanical Engineering, IIT Kanpur,40,227,10286,Indian Institute of Technology Kanpur,Heat Transfer,Fluid Dynamics
-Kshitij Gupta,Associate Professor, Department of Computer Science, IIIT Hyderabad,16,18,1680,International Institute of Information Technology Hyderabad,Data Science,Artificial Intelligence
-Partha Chakraborty,Professor, Department of Computer Science, Jadavpur University,42,212,7698,Jadavpur University,Artificial Intelligence,Data Science
-Balesh Kumar,Research Scholar, Department of Physics, University of Delhi,3,1,46,University of Delhi,Condensed Matter Physics,Nanomaterials
-Dr Kavita Pandey,Assistant Professor, GN Khalsa College, University of Mumbai,6,4,1545,GN Khalsa College, University of Mumbai,Environmental Science,Microbiology
-Jayant Prakash,Lecturer, Department of Chemistry, Banaras Hindu University,5,4,112,Banaras Hindu University,Organic Chemistry,Material Science
-Krishna Vasudeva Rao G,Assistant Professor, Department of Electrical Engineering, NIT Warangal,1,0,7,National Institute of Technology Warangal,Power Systems,Renewable Energy
-Manoj K Sharma,Professor, Department of Physics, Panjab University,69,421,24173,Panjab University,Nuclear Physics,Theoretical Physics
-M.r Naveed khan,Professor, Department of Microbiology, Aligarh Muslim University,69,449,23192,Aligarh Muslim University,Microbial Pathogenesis,Infectious Diseases
-Rama Govindarajan,Professor, International Centre for Theoretical Sciences, TIFR,28,73,3179,Tata Institute of Fundamental Research,Fluid Dynamics,Turbulence
-Sudipta Roy,Professor, Department of Chemical Engineering, IIT Kharagpur,58,291,14925,Indian Institute of Technology Kharagpur,Electrochemical Engineering,Nanotechnology
-Aarti Singh,Associate Professor, Machine Learning Department, Carnegie Mellon University,59,252,14194,Carnegie Mellon University,Machine Learning,Data Mining
-Nidhi Pandey,Assistant Professor, Department of Biotechnology, IIT Roorkee,31,67,3565,Indian Institute of Technology Roorkee,Plant Biotechnology,Genomics
-Joshua Paul,Senior Lecturer, School of Computing, National University of Singapore,29,36,4626,National University of Singapore,Artificial Intelligence,Data Science
-Sourav Pal,Director, Indian Institute of Science Education and Research, Pune,67,528,24821,Indian Institute of Science Education and Research, Pune,Theoretical Chemistry,Computational Chemistry
-Devender singh,Professor, Department of Zoology, University of Rajasthan,61,483,21595,University of Rajasthan,Entomology,Ecology
+Nidhi Pandey,IIT Roorkee,31,67,3565,Indian Institute of Technology Roorkee,Plant Biotechnology,Genomics
+Devender singh,University of Rajasthan,61,483,21595,University of Rajasthan,Entomology,Ecology
 Shailendra Kumar Singh - Ph.d(Law),Executive Alumnus - IIM Lucknow & IIM Kashipur,60,314,16454,Independent Researcher,Corporate Law,Intellectual Property
-Surendra Kumar,Professor, Department of Chemistry, University of Allahabad,75,411,21235,University of Allahabad,Organic Synthesis,Medicinal Chemistry
+Surendra Kumar,University of Allahabad,75,411,21235,University of Allahabad,Organic Synthesis,Medicinal Chemistry
+Ganesh Prasad Pokhariyal,"Professor of Mathematics, University of Nairobi",21,39,1788,University of Nairobi,Mathematics,Applied Mathematics
+Ramesh Govindan,"Professor of Computer Science, University of Southern California",103,257,62890,University of Southern California,Computer Networks,Distributed Systems
+Manjunatha Hanumanthappa,Biochemistry Dept,22,42,2151,Kuvempu University,Enzymology,Protein Biochemistry
+Muthuvel Jayachandran,Mayo Clinic Rochester,38,74,15389,Mayo Clinic Rochester,Cardiovascular Imaging,Artificial Intelligence in Medicine
+Madhusudan Singh,"Associate Professor at Indian Institute of Technology, Delhi",19,19,5228,Indian Institute of Technology,Delhi,Wireless Communication
+K S Mahesh,"JSS Academy of Technical Education, Bangalore",1,1,22,JSS Academy of Technical Education,Bangalore,Artificial Intelligence
+Manjunatha Kini,"Professor of Biological Sciences, National University of Singapore",78,256,20710,National University of Singapore,Venom Research,Drug Discovery
+Mohit Gupta,Website Developer,44,183,10133,Website Developer,Web Development,User Experience Design
+niranjan chiplunkar,"Professor of Computer Science, NMAM Institute of Technology, Nitte",14,24,897,NMAM Institute of Technology,Computer Networks,Data Mining
+Krishna M. Padmanabha Das,Dana Farber Cancer Institute/ Harvard Medical School,10,11,950,Harvard Medical School,Cancer Biology,Molecular Oncology
+Pandurangan Vijayanand,"Professor, La Jolla Institute for Immunology",46,69,8464,La Jolla Institute for Immunology,Immunology,Epigenetics
+K G Pradeep,"Indian Institute of Technology Madras, Chennai",38,62,11221,Indian Institute of Technology Madras,Materials Science,Metallurgy
+Paras N. Prasad,"Institute for Lasers, Photonics and Biophotonics (ILPB), University at Buffalo",142,775,90308,University at Buffalo,Nanophotonics,Biophotonics
+Ramesh S. Bhatt,University of Kentucky,39,75,4506,University of Kentucky,Cognitive Development,Face Perception
+"Dr. RAMESH M - B.Pharma.;M.Pharma.;Ph.D. (MedChem); PDF, FRSC  [The Senior Scientist, ADME/Tox.-R&D]",UKZN-Durban;NIPER-Mohali&Rae bareli;Panjab/Punjabi University-Chandigarh/Patiala;MMC-Madurai[Prev.],57,494,21205,UKZN-Durban,ADME/Tox,Medicinal Chemistry
+RAVI PRAKASH JHA,"Biostatistician, Dept. of Community Medicine, Dr. BSA Medical College, Delhi",78,99,110451,Dr. BSA Medical College,Biostatistics,Public Health
+Roopa S Rao,Professor,29,79,3121,Manipal Academy of Higher Education,Cancer Biology,Molecular Signaling Pathways
+Sachin Kumar Mangla,"O P Jindal Global University, India & University of Plymouth, UK",84,189,22617,O P Jindal Global University,Sustainable Supply Chains,Circular Economy
+PAWAN KUMAR,Assistant professor of mathematics; sri sai college of engineering and technology,64,457,21927,Sri Sai College of Engineering and Technology,Mathematics,Engineering Education
+Sankara Narayanan TSN,"Research Professor, Department of Dental Biomaterials, Chonbuk National University, Jeonju, South",55,121,11049,Chonbuk National University,Dental Biomaterials,Biomaterial Science
+Santosh Kumar Divvala,"AI2, UW",29,84,64887,Allen Institute for AI (AI2),Computer Vision,Machine Learning
+Dr. Saravanan Muthupandian,"Professor - FAMS, UT, AMR and Nanomedicine",80,208,50701,Saveetha Institute of Medical and Technical Sciences,Nanomedicine,Antimicrobial Resistance
+Saritha Nair,Indian Council of Medical Research,28,49,2477,Indian Council of Medical Research,Public Health,Epidemiology
+Prof R Satya Prasad,Acharya Nagarjuna University,60,518,22709,Acharya Nagarjuna University,Wireless Communications,Signal Processing
+Satyanarayana Bheesette,Tata Institute of Fundamental Research,112,389,72899,Tata Institute of Fundamental Research,Particle Physics,Detector Development
+Shanthakumar S,"Professor & Director, Centre for Clean Environment",29,61,3031,Anna University,Environmental Engineering,Pollution Control
+Sheikh Akbar,"Professor of Materials Science and Engineering, Ohio State University",57,160,15558,The Ohio State University,Materials Science,Engineering
+"Sreedevi Upadhyayula, U. Sridevi","CLASS of 66 CHAIR PROFESSOR , Department of Chemical Engineering",31,74,2825,Indian Institute of Technology Madras,Chemical Reaction Engineering,Process Systems Engineering
+D Srinivas Murty,Gujarat Vidyapith,74,180,63826,Gujarat Vidyapith,Environmental Science,Sustainable Development
+Suji Choi,Harvard University,14,15,5382,Harvard University,Neuroscience,Cognitive Psychology
+Suresh Doravari,"Scientific Officer, Inter-University Center for Astronomy and Astrophysics",101,177,106121,Inter-University Center for Astronomy and Astrophysics,Astrophysics,Cosmology
+Syamal Kumar Samanta,Visva-Bharati,37,67,7619,Visva-Bharati,Organic Chemistry,Natural Product Chemistry
+Ijaz Fazil Syed Ahmed Kabir,National University of Singapore,8,8,270,National University of Singapore,Computer Vision,Artificial Intelligence
+Tapan Kumar Nayak,"NISER, Bhubaneswar and CERN, Geneva",184,791,129692,NISER,Bhubaneswar,High Energy Physics
+Udayakumar Navaneethan,"Medical Director, Center for IBD and Interventional IBD, Professor of Medicine, University of",62,206,14646,University of,Inflammatory Bowel Disease (IBD),Interventional IBD
+Ujwala Ail,Principal Research Engineer,17,21,1681,Principal Research Engineer,Artificial Intelligence,Natural Language Processing
+Pankaj Sharma,"Professor of Computer Applications, Vani Info Solutions",92,468,38231,Vani Info Solutions,Artificial Intelligence,Data Science
+Matt Vijayan,University of Calgary,72,184,20896,University of Calgary,Stress Physiology,Environmental Endocrinology
+Vimala Nair,"Research Professor, Soil and Water Sciences Department, University of Florida",49,87,13773,University of Florida,Soil Health,Water Quality
+Virupaksha HG,"Ph.D Scholar, National Institute of Mental Health and Neuro Sciences (NIMHANS), Bengaluru, Karnatak",5,4,598,National Institute of Mental Health and Neuro Sciences (NIMHANS),Mental Health,Neuroscience
+Vishal M. Patel,"Associate Professor, ECE,  Johns Hopkins University",86,283,34835,Johns Hopkins University,Computer Vision,Machine Learning
+Yashavanth BS,ICAR- National Academy of Agricultural Research Management,10,11,271,ICAR- National Academy of Agricultural Research Management,Agricultural Research Management,Agricultural Policy and Development
+Abhishek Gupta,Shoolini University,100,851,56286,Shoolini University,Renewable Energy,Environmental Sustainability
+Amit Bhatt,Cleveland Clinic,28,58,2349,Cleveland Clinic,Cardiovascular Diseases,Clinical Trials
+Dr Anand Gupta,"Associate Professor Oral and maxillofacial Surgery, Government medical college hospital chandigarh",47,253,11087,Government Medical College Hospital Chandigarh,Oral and Maxillofacial Surgery,Dental Implantology
+Animesh Dutta,"Professor of Mechanical Engineering, School of Engineering, University of Guelph",55,163,15087,University of Guelph,Renewable Energy,Bioenergy Systems
+Anindita Chakraborty,Scientist H UGC-DAE Consortium Kolkata,36,98,4183,UGC-DAE Consortium for Scientific Research Kolkata,Materials Science,Condensed Matter Physics
+Anirudh Bhushan,"MMIMSR, MULANA",0,0,0,Maharishi Markandeshwar (Deemed to be University),Medical Education,Healthcare Management
+Anshuman Gupta,Vice President Data Science,13,13,2704,Vice President Data Science,Artificial Intelligence,Data Analytics
+Arnab Bhattacharya,"Professor, Dept. of CMPMS, Tata Institute of Fundamental Research",30,77,3646,Tata Institute of Fundamental Research,Quantum Computing,Condensed Matter Physics
+Arunava Goswami,Indian Statistical Institute,44,79,5758,Indian Statistical Institute,Stochastic Processes,Probability Theory
+Dipendra Nath Basu,"Simons Ashoka Early Career Fellow, Ashoka University",6,5,88,Ashoka University,Development Economics,Applied Microeconomics
+Ashutosh Ghosh,"Professor of Chemistry, Calcutta University",74,612,27791,Calcutta University,Coordination Chemistry,Supramolecular Chemistry
+Dr. Ashutosh Kumar Choudhary,"Associate Professor, Swami Rama Himalayan University, Dehradun (INDIA)",10,10,431,Swami Rama Himalayan University,Neuroscience,Pharmacology
+Badri Vishal,Postdoctoral Researcher,14,16,926,University/Company: [Not specified in the provided information],Research Interest 1: [Not specified in the provided information],"Research Interest 2: [Not specified in the provided information]  
+
+(Note: Insufficient information was provided to accurately answer the request. Please provide more details.)"
+Balaji S. Srinivasan,Stanford University,23,31,5479,Stanford University,Bitcoin,Network States
+Bappaditya Chatterjee,GITAM University- Hyderabad,28,52,2696,GITAM University,Renewable Energy,Environmental Sustainability
+barun gorain,"Associate Professor, Indian Institute of Technology Bhilai",8,8,308,Indian Institute of Technology Bhilai,Power Systems,Renewable Energy Integration
+Dr. Bhargab Maitra,"Professor, Civil Engineering Department, IIT Kharagpur",21,48,1655,IIT Kharagpur,Transportation Engineering,Traffic Flow Modeling
+Sagnika Sahoo,"Assistant Professor, Bijoy Krishna Girls College, Howrah, West Bengal",1,0,1,Bijoy Krishna Girls College,Botany,Environmental Science
+Binayak Dutta,"Christ University, Bangalore, Tezpur University, Indian Statistical Institute",1,0,4,Christ University,Statistics,Data Analysis
+biswarup chatterjee,Bharatiya Vidyabhavan Institute of Management Science Kolkata,0,0,0,Bharatiya Vidyabhavan Institute of Management Science Kolkata,Management Science,Organizational Behavior
+Debabrata Sarddar,"Dept of CSE, University of Kalyani",16,44,1233,University of Kalyani,Wireless Sensor Networks,Cloud Computing
+Devi Prasad Mohapatra,JIPMER,12,16,939,JIPMER,Neurosciences,Cardiovascular Diseases
+DEBJANI DAS,VIDYASAGAR UNIVERSITY,1,1,13,Vidyasagar University,Condensed Matter Physics,Material Science
+Dr. Deepak Kalra,Skyline University College,10,10,411,Skyline University College,Artificial Intelligence,Data Science
+Deepshikha Singh,"PhD Scholar, IIT Gandhinagar",2,1,91,Indian Institute of Technology Gandhinagar,Nanomaterials,Energy Storage
+Devang Mehta,"Assistant Professor, KU Leuven",15,20,958,KU Leuven,Plant Biotechnology,Genome Editing
+Divya Teja Vavilala,"Expression Technologies Scientist, DNA2.0",9,9,266,DNA2.0,Synthetic Biology,Protein Engineering
+Ishita Mathur,Guru Gobind Singh Indraprastha University,3,1,23,Guru Gobind Singh Indraprastha University,Artificial Intelligence,Data Mining
+Paruchuri Gangadhar Rao,CSIR,31,55,3077,CSIR,Chemistry,Material Science
+Dr. Hardik Bhatt,"Institute of Pharmacy, Nirma University",21,33,1342,Nirma University,Pharmaceutical Sciences,Drug Delivery Systems
+Harikrishnan S. Nair,"Associate Professor, Department of Physics, University of Texas at El Paso, USA",23,53,1855,University of Texas at El Paso,Condensed Matter Physics,Quantum Materials
+indranil dasgupta,"INSA Senior Scientist, University of Delhi south Campus, New Delhi",31,62,3432,University of Delhi South Campus,Statistics,Probability Theory
+Jagdish Arora,"Advisor, National Board of Accreditation, New Delhi",15,28,817,National Board of Accreditation,New Delhi,Accreditation Standards
+Jayesh Jain,Baker Hughes,20,29,1182,Baker Hughes,Energy Technology,Geothermal Systems
+Jincy Thomas,Assistant Professor,2,0,10,Christ University,Education Technology,Curriculum Development
+Dr Jitendra Agrawal,Director School of Information Technology RGPV Bhopal,16,26,1845,Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV),Data Mining,Artificial Intelligence
+John S. McCaskill,"Professor, Chemnitz University of Technology, MAIN",33,77,7117,Chemnitz University of Technology,Molecular Systems Engineering,Artificial Cells
+Joydip Saha,"Assistant Professor at Barasat College, West Bengal",6,2,80,Barasat College,Condensed Matter Physics,Material Science
+Jubin Jose,Qualcomm Inc,21,53,3699,Qualcomm Inc,Wireless Communication,Signal Processing
+Jyoti Prakash Singh,"Associate Professor, National Institute of Technology Patna",32,94,5264,National Institute of Technology Patna,Machine Learning,Data Mining
+Kapil Gupta,"Professor, Department of Biochemistry, Adesh Institute of Medical Sciences & Research",32,98,4724,Adesh Institute of Medical Sciences & Research,Biochemistry,Medical Research
+Koushik Chatterjee,"Postdoc Fellow, University of Maryland",40,55,17620,University of Maryland,Quantum Computing,Condensed Matter Physics
+Kaushiki Banerjee,"Assistant Professor of Economics, Barasat Government College, India",1,0,2,Barasat Government College,Economics,Development Economics
+Kavi Arya,"Professor of Computer Science and Engineering, IIT Bombay",16,24,869,IIT Bombay,Embedded Systems,Real-Time Systems
+Kushal Roy,"Assistant Professor, Khulna University",14,19,1155,Khulna University,Environmental Engineering,Water Resources Management
+Dr. Kirti Wanjale,"Associate Professor,Vishwakarma Institute of Information Technology",10,10,467,Vishwakarma Institute of Information Technology,Data Science,Artificial Intelligence
+Krishanu Roy,"Senior Lecturer at University of Waikato, previously Lecturer at University of Auckland",43,121,5492,University of Waikato,Data Science,Machine Learning
+Kuldeep S. Meel,"Associate Professor, University of Toronto",32,65,3583,University of Toronto,Formal Methods,Probabilistic Reasoning
+Kunal Ghosh,Aalto University,4,4,391,Aalto University,Quantum Computing,Quantum Information Theory
+kusum lata Singh,research scholar of statistics,30,99,5837,Banaras Hindu University,Statistics,Data Analysis
+Lalit Kumar sah,"Research scholar, department of English, BHU",97,843,48213,Banaras Hindu University,Indian English Literature,Postcolonial Studies
+Manasi Karkare,"Associate Professor, SIES Graduate School of Technology",4,4,217,SIES Graduate School of Technology,Artificial Intelligence,Data Science
+Manish Jain,Malaviya National Institute of Technology,60,313,17944,Malaviya National Institute of Technology,Structural Engineering,Concrete Technology
+Dr. Manish Khanna,"Professor and HOD of Orthopedics, Prasad Institute of Medical Sciences,",14,22,536,Prasad Institute of Medical Sciences,Orthopedic Surgery,Joint Replacement
+Manoj Dixit,Dayalbagh Educational Institute,7,7,221,Dayalbagh Educational Institute,Environmental Science,Renewable Energy
+manoj kumar singh,Assistant Professor at Graphic Era Hill University,52,367,15463,Graphic Era Hill University,Artificial Intelligence,Data Science
+Dr. E. Maruthi Prasad,"CMU, Taichung City, Taiwan",10,10,503,China Medical University,Bioinformatics,Computational Biology
+MAYANK GUPTA,PROFESSOR OF CIVIL,58,323,16770,Indian Institute of Technology (IIT) Delhi,Geotechnical Engineering,Structural Engineering
+Mehul Dave,N. V. Patel College of Pure & Applied Science,6,3,90,Hemchandracharya North Gujarat University,Organic Chemistry,Green Chemistry
+Michael J. Frisch,"Gaussian, Inc.",128,373,328747,Gaussian,Inc.,Computational Chemistry
+Michael A. Huston,"Department of Biology, Texas State University, San Marcos, TX",46,70,32111,Texas State University,Ecology,Ecosystem Dynamics
+Mukesh K Pandey,"Professor of Radiology, Department of Radiology, Mayo Clinic College of Medicine, Rochester",28,55,3143,Mayo Clinic College of Medicine,Radiology,Medical Imaging
+MUNESH PAL SINGH,Professor of transport engineering,50,304,13638,Indian Institute of Technology (IIT) Roorkee,Transportation Planning,Traffic Engineering
+"Naresh M. Punjabi, MD. PhD",Professor Medicine with Tenure,83,183,37243,Johns Hopkins University,Sleep Medicine,Cardiovascular Epidemiology
+"Nilanjan Chatterjee, Bloomberg Distinguished Professor",Johns Hopkins University,110,351,51775,Johns Hopkins University,Statistical Genetics,Epidemiology
+Nilanjana Karmakar,"Asst. Prof., Department of IT, St. Thomas' College of Engineering and Technology, Kolkata, India",5,3,53,St. Thomas' College of Engineering and Technology,Information Technology,Data Science
+Ningombam Bupenda Meitei,"Department of Philosophy , University of Delhi",0,0,0,University of Delhi,Philosophy of Mind,Ethics
+"Nitin Agarwal, M.D.",University of Pittsburgh School of Medicine,41,167,6386,University of Pittsburgh School of Medicine,Neurosurgery,Neurotrauma
+Nitish Shirish Keskar,OpenAI,32,47,23703,OpenAI,Deep Learning,Optimization Algorithms
+Prof. Dhrubajyoti Chattopadhyay,"Vice Chancellor,Sister Nivedita University Kolkata",40,83,4524,Sister Nivedita University,Environmental Science,Sustainable Development
+Pankaj Gupta,Professor of Commerce,78,726,38474,University of Delhi,Financial Accounting,Corporate Governance
+Panagiotis Patrinos,"Associate Professor, KU Leuven",38,89,5346,KU Leuven,Optimization,Control Theory
+Parthajit Roy,"Associate Professor, Civil Engineering, NIT Silchar",10,11,296,NIT Silchar,Structural Engineering,Geotechnical Engineering
+Parul Pandey,"Machine Learning Engineer, Intel Corporation",13,13,3537,Intel Corporation,Machine Learning,Data Science
+Pawan Kumar Netrakanti,BARC,161,753,96209,BARC,Nuclear Physics,Particle Physics
+Pittu Pavan Sai Kiran Reddy,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,2,0,11,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Renewable Energy,Sustainable Materials
+PRAVEEN KUMAR,"assistant professor of commerce, the madura college",85,564,38519,The Madura College,Commerce,Business Studies
+Praveen Hoogar,"Medical Anthropologist, Assistant Professor, and Assistant Director, The Apollo University",26,30,64147,The Apollo University,Medical Anthropology,Public Health
+Preeti Ranjan Panda,"Professor in Computer Science and Engineering, Indian Institute of Technology Delhi",27,65,4409,Indian Institute of Technology Delhi,Embedded Systems,Compiler Design
+Radhika Gupta,Johns Hopkins University,19,47,1700,Johns Hopkins University,Health Informatics,Data Science
+Rahul Kumar,California Institute of Technology,89,158,57421,California Institute of Technology,Quantum Computing,Condensed Matter Physics
+Rahul Vaze,"Associate Professor, Electrical Engineering, Tata Institute of Fundamental Research, Mumbai, India.",24,45,2703,Tata Institute of Fundamental Research,Electrical Engineering,Communication Networks
+Raj Kamal Singh,PhD,31,112,6044,Indian Institute of Technology (IIT) Delhi,Wireless Communication,Signal Processing
+Rajan Jha,"Professor of Physics, Indian Institute of Technology Bhubaneswar",47,111,8339,Indian Institute of Technology Bhubaneswar,Condensed Matter Physics,Quantum Mechanics
+Rajarshi Tiwari,Research Fellow,7,7,237,Research Fellow,Data Science,Artificial Intelligence
+"Rajesh Anand, Ph.D.","Infectious Disease Laboratory, National Institute of Immunology, New Delhi, India",11,11,445,National Institute of Immunology,Infectious Diseases,Immunotherapy
+Rajesh Sundaresan,"ECE and Centre for Cyber-Physical Systems, Indian Institute of Science",26,52,2055,Indian Institute of Science,Cyber-Physical Systems,Communication Networks
+Rajib Shaw,"Professor, Keio University",75,385,27542,Keio University,Disaster Risk Reduction,Climate Change Adaptation
+Ramjee Gupta,IT Developer (Software engineer ),22,77,2747,IT Developer,Software Engineering,Artificial Intelligence
+M.S. Ravi Sharma,University of Rhode Island,58,404,18090,University of Rhode Island,Environmental Science,Climate Change
+Ravinder Kumar,"Ravinder Kumar rivravinder | Digital Marketing, Search engine optimization,  Himachal Pradesh, India",79,490,45942,Ravinder Kumar rivravinder,Digital Marketing,Search Engine Optimization
+Dr. Barna Pal Mazumdar,"Asst.Prof. of Chemistry at Bhilai Mahila Mahavidyalaya, pt. Ravishankar Shukla University",20,33,978,Pt. Ravishankar Shukla University,Chemistry,Material Science
+Rekha R Rapaka MD PhD,"Assistant Professor of Medicine, Center for Vaccine Development and Global Health, U. of Maryland",15,17,15744,University of Maryland,Vaccine Development,Global Health
+Rohan M. Shah,Swinburne University of Technology,21,34,1911,Swinburne University of Technology,Computer Science,Data Analytics
+"Rohit Srivastava, FNASc, FNAE, FAMS","Vigyan Shri 2024, SSB Prize 2021 and Himanshu Patel Chair Professor of Department BSBE",50,223,10138,Indian Institute of Technology Bombay (IIT Bombay),Biomedical Engineering,Nanotechnology
+Sagnik Dey,IIT Delhi,55,141,15146,IIT Delhi,Atmospheric Science,Air Pollution
+Salil Kumar Sanyal,"Professor of Electronics & Telecommunication Engineering, Jadavpur University",20,55,1580,Jadavpur University,Signal Processing,Communication Systems
+SAMRAT GHOSH,Research Scholar of University of Kalyani,51,248,11296,University of Kalyani,Environmental Science,Climate Change
+Dr. Sandeep Joshi,"Senior Scientific Officer, MGIRI, Ministry of MSME Govt. of India",15,21,1245,MGIRI,Ministry of MSME Govt. of India,Advanced Materials
+Santanu Chaudhury,IIT Delhi,38,154,6856,Indian Institute of Technology Delhi,Computer Vision,Artificial Intelligence
+Santosh Kumar Divvala,"AI2, UW",29,84,64887,University of Washington,Computer Vision,Machine Learning
+Saswati Banerjee,Csir iicb,5,5,269,CSIR-IICB,Cancer Biology,Drug Discovery
+SATYAM MISHRA,"Vietnam National University, Hanoi",4,3,69,Vietnam National University,Hanoi,Artificial Intelligence
+Satyendra Singh Yadav,"Assistant Professor, NIT Meghalaya, India",9,9,259,NIT Meghalaya,Renewable Energy Systems,Power Electronics
+Sayan Deb Dutta,"Ph.D., University of California Davis",27,57,2634,University of California Davis,Control Systems,Robotics
+Shashank Priya,"Chemical Engineering and Materials Science, University of Minnesota",93,484,40814,University of Minnesota,Energy Harvesting,Piezoelectric Materials
+Shivani Agrawal,Google,10,10,9586,Google,Natural Language Processing,Artificial Intelligence
+Siddarth Srinivasan,Apple,15,16,2310,Apple,Human-Computer Interaction,Accessibility Technologies
+Siddhant Garg,Meta,10,12,1261,Meta,Artificial Intelligence,Natural Language Processing
+Siddharth Garg,"Institute Associate Professor, New York University",43,107,10444,New York University,Hardware Security,Trustworthy Machine Learning
+Dr. Siddhartha Bhattacharyya,"VSB Technical University of Ostrava, Czech Republic",37,121,5644,VSB Technical University of Ostrava,Computational Intelligence,Pattern Recognition
+Dr Sneha Gautam (World's Top 2% Scientist),"Associate Professor; Karunya University, India II NCTU Taiwan  II IIT KGP",40,99,5583,Karunya University,Environmental Engineering,Air Quality Management
+Snigdha Chaturvedi,"Associate Professor, University of North Carolina, Chapel Hill",23,38,2297,University of North Carolina,Chapel Hill,Natural Language Processing
+somayeh danesh asgari,"Ph. D. in Industrial Engineering, Iran University of Science & Technolology",3,1,39,Iran University of Science & Technology,Operations Research,Supply Chain Management
+Soumyadip Chattopadhyay,Associate Professor Visva Bharati,11,12,349,Visva Bharati,Economics,Development Studies
+"Sourav Banerjee, Ph.D.","Professor, Department of Mechanical Engineering, University of South Carolina",28,66,2910,University of South Carolina,Structural Health Monitoring,Advanced Materials
+Sourav Sanyal,PhD Candidate @Purdue ECE,5,2,64,Purdue University,Signal Processing,Wireless Communications
+Karthik Srinivas Venkataraman,"Module Development Engineer, Intel Corporation | PhD, The Pennsylvania State University",3,1,40,Intel Corporation,Module Development,Semiconductor Engineering
+Deepak Srivastava,Gladstone Institutes,106,209,105589,Gladstone Institutes,Cardiovascular Disease,Stem Cell Biology
+Subhadeep Chatterjee,Centre for DNA Fingerprinting and Diagnostics,22,28,2356,Centre for DNA Fingerprinting and Diagnostics,Genomics,Molecular Diagnostics
+Subhasree basu,Post-doctoral Fellow,14,16,1377,Post-doctoral Fellow,University of Calcutta,Molecular Biology
+Subhra Prakash Hui,"Assistant Professor, S. N. Pradhan Centre for Neurosciences, University of Calcutta",11,12,1046,University of Calcutta,Neurosciences,Neurobiology
+Suchismita Chinara,National Institute of Technology Rourkela,15,20,932,National Institute of Technology Rourkela,Wireless Sensor Networks,Internet of Things
+Sudhir Krishna,"National Centre for Biological Sciences, TIFR",29,50,4490,National Centre for Biological Sciences,TIFR,Cancer Biology
+Sudhir Ranjan Pattanaik,NIST  University,5,5,150,NIST University,Data Science,Artificial Intelligence
+Sudip Chattopadhyay,"professor of Department of Biotechnology, NIT-Durgapur",27,37,3628,National Institute of Technology Durgapur,Bioinformatics,Computational Biology
+Sugata Sanyal,"Professor (Retired), Tata Institute of Fundamental Research",35,69,3982,Tata Institute of Fundamental Research,Cybersecurity,Cryptography
+Sunita Sarkar,"Associate Professor, CSE, Assam University Silchar",10,10,408,Assam University Silchar,Data Mining,Artificial Intelligence
+Seyed-Mohammad Fereshtehnejad,"Neurologist, Movement Disorders Clinical Fellow, Toronto Western Hospital, University of Toronto",79,226,140983,University of Toronto,Movement Disorders,Neurology
+Carla Teresa Fernandez Cuadros,UCSD,47,180,183885,University of California,San Diego (UCSD),Women's Health
+Udayan Roy,"Professor of Economics, Long Island University",7,6,216,Long Island University,Macroeconomics,Monetary Policy
+Umesh Kumar Tiwari,"Central Scientific Instruments Organisation(CSIO), Sector 30, Chandigarh",27,49,2643,Central Scientific Instruments Organisation (CSIO),Instrumentation,Biomedical Engineering
+Vaibhav Kulkarni,Data Engineering Lead @ Debiopharm,10,10,283,Debiopharm,Data Engineering,Pharmaceutical Data Analytics
+Dr. Omkar Suresh Vaidya,"Sandip Institute of Technology and Research Centre, Nashik (Affiliated to Savitribai Phule Pune",9,9,157,Savitribai Phule Pune University,Industrial Engineering,Operations Research
+Srinivasan Vinju Vasudevan Ph.D,"Post Doctoral Researcher -Konkuk University, Seoul, South Korea",12,12,394,Konkuk University,Artificial Intelligence,Natural Language Processing
+Vipul Jain,"Reader/Associate Professor at Wellington School of Business and Government, Victoria University of",41,105,8487,Victoria University of Wellington,Sustainable Business,Corporate Social Responsibility
+Vivek Kaushik,University of Illinois Urbana-Champaign,1,0,8,University of Illinois Urbana-Champaign,Molecular Biology,Cancer Research
+Weilin Zhang,Institute of Tibetan Plateau Research,36,72,4111,Institute of Tibetan Plateau Research,Climate Change,Environmental Dynamics
+Xiaoli Ding,Hong Kong Polytechnic University,61,289,13661,Hong Kong Polytechnic University,Geodesy,Satellite Navigation Systems
+Yogesh Gupta,"Associate Professor, University of Texas Health Science Center at San Antonio, TX, USA",24,31,2134,University of Texas Health Science Center at San Antonio,Neuroscience,Pain Management
+yujun zheng,Hangzhou Normal University,34,74,4529,Hangzhou Normal University,Educational Technology,Curriculum Development
+Matthew Zack Anderson,"Associate Professor of Microbiology, Associate Professor of Microbial Immunity and Infection",23,33,2377,Ohio State University,Microbial Immunity,Infection Mechanisms
+Abhijit Biswas,Distinguished Professor; Kmart Endowed Chair Professor; Department Chair; Wayne State University,41,53,8455,Wayne State University,Materials Science,Renewable Energy
+Anurag Garg,"Indian Institute of Technology Bombay, India",30,58,2978,Indian Institute of Technology Bombay,Mechanical Engineering,Energy Systems
+Asok Kumar Ghosh,"Professor, Department of Sports Science, Ramakrishna Mission Vivekananda University, Belur Math",19,28,1389,Ramakrishna Mission Vivekananda University,Sports Science,Exercise Physiology
+Abhijit Chakrabarti,"Professor, Ramakrishna Mission Vivekananda Educational & Research Institute , INDIA",29,76,2278,Ramakrishna Mission Vivekananda Educational & Research Institute,Power Systems,Renewable Energy Integration
+Manoj Kumar Sahu,"Associate Professor, Department of Electrical Engineering, Centre for Advanced Post Graduate Studies, Biju Patnaik University of Technology, Odisha, Rourkela-769015, India",6,6,152,Biju Patnaik University of Technology,Power Systems,Renewable Energy
+CHANDAN KUMAR SWAIN,"PhD Research Scholar, Dept. of Analytical and Applied Economics, Utkal University",13,14,3486,Utkal University,Analytical Economics,Applied Economics
+Debashis Ghosh,"Professor, Colorado School of Public Health",71,195,37301,University of Colorado Anschutz Medical Campus,Biostatistics,Precision Medicine
+Ganesh Prasad Das,"Professor of Philosophy, Utkal University (Retd.)",1,0,2,Utkal University,Philosophy,Indian Philosophy
+Gautam Das,"Distinguished University Chair Professor, Associate Dean,  University of Texas at Arlington",66,322,21748,University of Texas at Arlington,Data Mining,Big Data Analytics
+Dr. Indranil Chakraborty,"Department of Chemistry, Kharagpur College",21,21,4133,Indian Institute of Technology Kharagpur,Inorganic Chemistry,Materials Science
+Jayant Kumar Mohanta,"Assistant Professor, Department of Mechanical Engineering, IIT Jodhpur",7,5,270,IIT Jodhpur,Mechanical Engineering,Materials Science
+Dr. Jitendra Kumar Rout,"Asst. Prof.(NIT Raipur), PhD(NIT Rourkela), MTech(NIT Rourkela), BE(UCE Burla)",15,19,1001,NIT Raipur,Data Mining,Machine Learning
+Kamalakanta Mahapatra,"PROFESSOR, NIT Rourkela",30,110,3570,NIT Rourkela,Power Systems,Renewable Energy
+Dr Karunakar Jha,Professor Management /Commerce & Director Corporate Affairs -Alumni Relations,5,5,77,Professor Management Institute,Commerce,Corporate Affairs
+Gopal Krishna Sahu,Pt. J. N. M. Medical College,9,9,395,Pt. J. N. M. Medical College,Medical Education,Clinical Research
+Krushna Chandra Patra,University of Cincinnati,16,18,4126,University of Cincinnati,Biomedical Signal Processing,Medical Imaging
+Kunal Pal,National Institute of Technology Rourkela,56,193,11305,National Institute of Technology Rourkela,Biomedical Engineering,Biomaterials
+Manas Kumar Das,Head & Principal Scientist,18,31,962,Indian Institute of Technology Kharagpur,Environmental Science,Climate ChangeIndian Institute of Technology Kharagpur
+Manas Kumar Ghosh,Harvard University,6,3,134,Harvard University,Quantum Mechanics,Condensed Matter Physics
+Manoj Kumar Gupta,"Joslin Diabetes Center, Harvard Medical School",68,412,23008,Joslin Diabetes Center,Diabetes Research,Metabolic Disorders
+Dr Manoj Kumar Jena,"Lovely Professional University, Phagwara, Punjab",22,33,1898,Lovely Professional University,Artificial Intelligence,Data Science
+Manoj Kumar Pradhan,Professor of Mechanical Engineering,30,125,6103,National Institute of Technology Rourkela,Manufacturing Processes,Optimization Techniques
+Manoj Kumar Rout,"Asst. Professor, BIITM, Bhubaneswar",1,0,3,BIITM,Bhubaneswar,Artificial Intelligence
+Manoranjan Misra,University of Utah,63,206,14015,University of Utah,Materials Science,Renewable Energy
+Dr. Bhoopendra Kumar Verma,"Mohan Lal Sukhadia University, Udaipur Rajasthan (India)",6,3,184,Mohan Lal Sukhadia University,Renewable Energy,Environmental Science
+Gagan Mohanty,"Professor, Department of High Energy Physics, Tata Institute of Fundamental Research",236,1384,270068,Tata Institute of Fundamental Research,High Energy Physics,Particle Physics
+Dr. Nitesh S. Litoriya,"Assistant Research Scientist, Anand Agricultural University, Anand, Gujarat",8,7,193,Anand Agricultural University,Agricultural Research,Crop Improvement
+Pallab Dasgupta,Indian Institute of Technology Kharagpur,21,68,2097,Indian Institute of Technology Kharagpur,Formal Verification,VLSI Design and Testing
+Dr. Pankaj Kumar Mohanty,"Associate Professor, Department of Neonatology, AIIMS, Bhubaneswar",8,7,236,AIIMS Bhubaneswar,Neonatal Nutrition,Neonatal Infections
+Parthasarathi Bandyopadhyay,"Post-Doctoral Researcher at Chungbuk National University, South Korea",26,42,1859,Chungbuk National University,Materials Science,Nanotechnology
+Dr Prakash Kumar Sahoo,Regional Medical Research Centre Bhubaneswar,18,24,996,Regional Medical Research Centre Bhubaneswar,Infectious Diseases,Public Health
+Pramod Kumar Das,Reader in Chemistry,5,4,102,North Orissa University,Organic Chemistry,Polymer Chemistry
+Prasanta Kumar Mohanty,Christ University,7,3,200,Christ University,Environmental Science,Sustainable Development
+Scientia Prof. Gangadhara Prusty,"Director of Research, Australian Composites Manufacturing CRC        & Director, ARC Centre for AMAC",40,138,6177,University of Southern Queensland,Advanced Composites,Additive Manufacturing
+Rabindra Kumar Mohanty,Mizoram university,3,1,40,Mizoram University,Environmental Science,Biodiversity Conservation
+rajkumar Misra,"DST Inspire Faculty, NIPER Mohali",14,18,435,NIPER Mohali,Drug Discovery,Pharmaceutical Sciences
+Ramesh Chandra Sahoo,"Research Scholar, Centre for Nano and Soft Matter Sciences",7,5,189,Centre for Nano and Soft Matter Sciences,Nanomaterials,Soft Matter Physics
+Dr. Ranjit Kumar Panda,Lecturer in physics,11,13,628,Sambalpur University,Condensed Matter Physics,Material Science
+C. N. R. Rao,Professor of Chemistry,163,1209,121169,Jawaharlal Nehru Centre for Advanced Scientific Research,Materials Chemistry,Solid State Chemistry
+Satish K. Tripathi,Unniversity at Buffalo,45,132,10581,University at Buffalo,Computer Science,Artificial Intelligence
+Shailendra Kumar Verma,La Jolla Institute for Immunology,16,20,892,La Jolla Institute for Immunology,Immunology,Autoimmune Diseases
+Samiran Panda,ICMR-Dr AS Paintal Distinguished Scientist Chair,42,110,9524,Indian Council of Medical Research (ICMR),Public Health,Epidemiology
+Sandeep Kumar Jha,"Professor, Centre for Biomedical Engineering, Indian Institute of Technology Delhi, India",24,38,2439,Indian Institute of Technology Delhi,Biomedical Engineering,Medical Imaging
+Dr. Sanjay Kumar Nayak,Professor of Psychology,3,2,54,KIIT University,Cognitive Psychology,Mental Health
+Santosh Kumar Behera,"Scientist, NIPER-Ahmedabad,Gandhinagar",15,21,1134,NIPER-Ahmedabad,Drug Delivery Systems,Pharmaceutical Biotechnology
+Saranjit Singh,Department of Pharmaceutical Analysis,64,306,18433,National Institute of Pharmaceutical Education and Research (NIPER),Pharmaceutical Analysis,Drug Development
+Saswati Mishra,"Assistant professor, Malla Reddy University",5,4,522,Malla Reddy University,Data Science,Artificial Intelligence
+Dr. M CHANDRA SHEKHAR NAYAK,"CSIR - Advanced Materials and Processes Research Institute (AMPRI), Bhopal, MP, IND",6,4,313,CSIR - Advanced Materials and Processes Research Institute (AMPRI),Materials Science,Sustainable Development
+Dr Aparna. S Khursel,"Head & Assistant Professor, Department of Botany, Shankarlal Agrawal Science College Salekasa",1,0,2,Shankarlal Agrawal Science College Salekasa,Botany,Plant Biology
+Shashank Gupta,"Associate Professor, Birla Institute of Technology and Science, Pilani, Rajasthan, India",26,47,2562,Birla Institute of Technology and Science,Pilani,Machine Learning
+siba sankar mahapatra,National Institute of Technology,68,290,18991,National Institute of Technology,Power Systems,Renewable Energy
+Sourav Das,university of Wisconsin madison,73,428,25866,University of Wisconsin-Madison,Astrophysics,Cosmology
+Subhamoy Ganguly,University of Auckland Business School,5,4,125,University of Auckland Business School,Information Systems,Digital Innovation
+Subhrajyoti Das,ICSSR Doctoral Fellow,1,0,2,Jawaharlal Nehru University,Social Sciences,Development Studies
+Subrata Chowdhury,Associate Professor Department of CSE,19,30,1651,Jadavpur University,Artificial Intelligence,Data Mining
+Sudarsan Ghosh,"Department of Mechanical Engineering, Indian Institute of Technology Delhi",34,66,4091,Indian Institute of Technology Delhi,Fluid Mechanics,Heat Transfer
+Dr Sudarsan Sahu,Central Ground Water Board,11,11,473,Central Ground Water Board,Groundwater Management,Hydrogeology
+Dr. Supriya Devi,Associate Professor in Department of Pure and Applied Mathematics,7,4,174,University of XYZ,Pure Mathematics,Applied Mathematics
+Swaroop Ganguly,IIT Bombay,19,53,2215,IIT Bombay,Semiconductor Devices,Nanotechnology
+Dr. Tushar Kanti Roy,"School of Engineering, Macquarie University, Australia",28,96,3124,Macquarie University,Renewable Energy Systems,Control Systems Engineering
+Upendra Kumar Singh,"Professor of Mining Engineering, Indian School of Mines Dhanbad",28,73,3796,Indian Institute of Technology (Indian School of Mines) Dhanbad,Rock Mechanics,Mine Planning and Design
+Utpal Kumar De,"Professor of Economics, North-Eastern Hill University, Shillong",16,30,1137,North-Eastern Hill University,Economics,Development Economics
+Vasudha Aggarwal,"Johns Hopkins University, University of Illinois Urbana Champaign",10,10,603,Johns Hopkins University,Biomedical Engineering,Medical Imaging
+Vikas Choudhary,Banaras Hindu University,18,24,1380,Banaras Hindu University,Medicinal Chemistry,Natural Product Chemistry
+Vinod Kumar Dhiman,"Vice President, GAVS Technologies",3,0,23,GAVS Technologies,Artificial Intelligence,Data Analytics
+Prof. Yogendra Kumar Jain,"Director, Samrat Ashok Technological Institute Vidisha",17,29,1324,Samrat Ashok Technological Institute Vidisha,Materials Science,Renewable Energy
+Amitava Gupta,"Professor, Department of Power Engineering, Jadavpur University, Kolkata, India",23,43,2414,Jadavpur University,Power Electronics,Renewable Energy Systems
+Pankaj Jalote,IIIT-Delhi,34,80,5938,IIIT-Delhi,Software Engineering,Software Quality
+Sukanta kumar patra,English,13,18,577,Ravenshaw University,Postcolonial Literature,Indian English Literature
+Soumen Chakrabarti,IIT Bombay,62,138,23633,IIT Bombay,Data Mining,Information Retrieval
+Sourav Mukhopadhyay,"Professor, Indian Institute of Technolgy Kharagpur",28,76,3429,Indian Institute of Technology Kharagpur,Cryptography,Information Security
+"Suman Kundu, Ph.D","Department of Biological Sciences, BITS Pilani, K.K. Birla Goa Campus and Department of Biochemistry",28,56,2990,BITS Pilani,Protein Folding,Structural Biology
+Abhijit Das Sharma,CSIR-Central Glass & Ceramic Research Institute,23,34,1480,CSIR-Central Glass & Ceramic Research Institute,Ceramic Materials,Glass Science
+ABHINAV KUMAR,Researcher & Entrepreneur,18,60,12389,Researcher & Entrepreneur,Artificial Intelligence,Data Science
+Amandeep Singh,Head of the Department,56,383,15671,Punjab Agricultural University,Agricultural Economics,Sustainable Farming Practices
+amar kumar,Physics,68,302,25619,Indian Institute of Technology (IIT) Kanpur,Condensed Matter Physics,Quantum Mechanics
+Anil K Sharma,AICTE,57,263,16219,AICTE,Education Technology,Curriculum Development
+Dr Anish Khanna,"King George's Medical University, Lucknow",9,9,614,King George's Medical University,Clinical Pharmacology,Pharmacotherapy
+Dr. Anuj Kumar,"Chaudhary Charan Singh University, Meerut",43,175,7482,Chaudhary Charan Singh University,Environmental Science,Sustainable Development
+Ayesha Zia,Associate Professor of Pediatrics,20,33,1760,University of Toronto,Pediatric Infectious Diseases,Vaccine Development
+Mr. Rahul Gupta,"Assistant professor (Finance) Bharati vidyapeeth (Deemed to be university),  pune",37,130,17648,Bharati Vidyapeeth (Deemed to be University),Pune,Finance
+Prof. (Dr.) Bhupesh Sharma,"Professor, Department of Pharmaceutical Sciences, Faculty of Life Sciences, Gurugram University",35,55,3001,Gurugram University,Pharmaceutical Sciences,Life Sciences
+BRAJESH KUMAR,Student of Agra college,58,192,21309,Agra College,Environmental Science,Sustainable Agriculture
+Dr. Brij Mohan Singh,College of Engineering Roorkee,29,111,4616,Indian Institute of Technology Roorkee,Structural Engineering,Geotechnical Engineering
+Dibakar Roy Chowdhury,Professor,36,69,6236,Indian Institute of Technology (IIT) Delhi,Signal Processing,Wireless Communication
+Dr. Dinesh Prasad,"Professor, Department of Electronics and Communication Engg, Jamia Millia Islamia",21,36,1641,Jamia Millia Islamia,Signal Processing,Communication Systems
+divya sharma,student,37,127,5618,Based on available information,a specific affiliation and research interests for Professor Divya Sharma cannot be determined. If you have additional context or details,feel free to share!
+Durgesh Kumar Tripathi,"Crop Nano Biology and Molecular Stress Physiology Lab, Amity University Uttar Pradesh, Noida-India",60,145,13680,Amity University Uttar Pradesh,Crop Nano Biology,Molecular Stress Physiology
+Gajendra Sharma,Kathmandu University,20,31,1722,Kathmandu University,Environmental Engineering,Water Resources Management
+Gaurav Goyal,"Assistant Professor, University of Alabama at Birmingham",29,67,3478,University of Alabama at Birmingham,Cancer Biology,Drug Discovery
+Gaurav Gupta,Netaji Subhas Institute Of Technology,97,863,55301,Netaji Subhas Institute Of Technology,Artificial Intelligence,Data Science
+Gaurav Sharma,University of Rochester,74,814,40885,University of Rochester,Data Science,Machine Learning
+Goutam Rath,"Professor, Siksha O Anusandhan (Deemed to be University), Bhubaneswar, Odisha",58,137,10489,Siksha O Anusandhan (Deemed to be University),Biotechnology,Pharmaceutical Sciences
+Dr. Gurdip Singh,Professor,66,398,20591,University of Greenwich,Control Systems,Intelligent Systems
+Hitesh Kumar Sharma,"Professor & HoD (Cluster Head), School of Computer Science, UPES, Dehradun",24,57,2127,UPES,Data Science,Artificial Intelligence
+Jai Singh,Professor of Physics and Math,64,433,20453,Indian Institute of Technology (IIT) Delhi,Quantum Mechanics,Mathematical Physics
+Jainendra Jain,"Professor of Pharmacy, Ram-Eesh Institute of Vocational and Technical Education",16,27,912,Ram-Eesh Institute of Vocational and Technical Education,Pharmacy Education,Pharmaceutical Sciences
+Jayant  K. Singh,"Chair Professor, Chemical Engineering, Indian Institute of Technology",42,142,6650,Indian Institute of Technology,Chemical Engineering,Molecular Simulation
+Prof. (Dr.) Jayeshkumar Pitroda,"Professor of Civil Engineering Department, BVM Engineering College",27,58,2549,BVM Engineering College,Civil Engineering,Structural Analysis
+Jitendra Kumar,Engineer at Coforge,83,778,35780,Coforge,Software Engineering,Artificial Intelligence
+Juan Jose Hernandez Rey,"IFIC - Instituto de Física Corpuscular (CSIC and UV), Spain",182,934,207158,University of Valencia,Particle Physics,Neutrino Physics
+"Professor Dr. Jyoti Prakash Tamang FNA, FNASc, FNAAS","Senior Professor, Department of Microbiology, Sikkim University",55,125,10520,Sikkim University,Fermented Foods,Microbial Diversity
+Kamaljit Singh,"Professor of Chemistry, Guru Nanak Dev University, Amritsar, India",40,108,6126,Guru Nanak Dev University,Chemistry,Material Science
+Kartar Singh Dhiman,Director General,16,33,1533,Director General,Environmental Science,Sustainable Development
+Dr. Khushbu Gupta,Amity University Haryana,6,5,507,Amity University Haryana,Biotechnology,Environmental Science
+Kuldeep Singh,"Assistant professor, Zucker School of Medicine, Staten Island University Hospital",55,347,17381,Zucker School of Medicine,Medical Education,Clinical Research
+ABHINAV KUMAR,Researcher & Entrepreneur,18,60,12389,Researcher & Entrepreneur,Artificial Intelligence,Data Science
+Lalit Gupta,"Professor of Electrical & Computer Engineering, Southern Illinois University, Carbondale",21,44,2072,Southern Illinois University,Carbondale,Signal Processing
+Manpreet Singh,Student,66,472,23734,Student,Education Technology,Learning Analytics
+Dr. Meghna Sharma,"Assistant Professor, National Institute of Technology Hamirpur",14,14,889,National Institute of Technology Hamirpur,Signal Processing,Wireless Communication
+Dr. Monika Bansal,Assisant Professor,6,5,814,Assistant Professor,Optimization Techniques,Data Analytics
+Dr. Namrata Gangil,"Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India",13,17,890,Ajay Kumar Garg Engineering College,Machine Learning,Data Mining
+Naresh Kumar Sharma,"Banker, Core Banking, Credit Analyst",28,94,3676,Banker,Core Banking,Credit Analysis
+narendra singh,"Department of Chemistry, M.J.P. Rohilkhand University, Bareilly 243006, Uttar Pradesh, India",113,758,70826,M.J.P. Rohilkhand University,Organic Chemistry,Environmental Chemistry
+Naveen Kumar,Presidency University,91,901,46988,Presidency University,Bioinformatics,Computational Biology
+Navjot Singh,Research Scholar,55,297,15431,Research Scholar,Data Science,Environmental Sustainability
+Neha Sharma,PhD scholar @ Sharda University,26,138,6253,Sharda University,Computer Science,Artificial Intelligence
+Nisha Singh,University of Oxford,18,27,9090,University of Oxford,Quantum Computing,Nanotechnology
+Nitin Kumar,SKC School & Jr. College,77,381,25636,SKC School & Jr. College,Education Technology,Curriculum Development
+Pawan Kumar Netrakanti,BARC,161,754,96255,BARC,Nuclear Physics,Particle Physics
+Prasanna Kumar Sahu,"Professor of Electrical Engineering, National Institute of Technology, Rourkela",25,81,2568,National Institute of Technology,Rourkela,Power Systems
+Priyanka Gupta,Assistant professor,58,383,17666,Assistant Professor,Data Mining,Natural Language Processing
+priyanka singh,Professor,99,752,48102,[University/Company],[Research Interest 1],[Research Interest 2]
+Puneeth kumar b c,student,57,282,12904,Student,Artificial Intelligence,Data Science
+Rajendra P Bajpai,"Professor SAIF,North Eastern Hill University, Shillong",16,19,748,North Eastern Hill University,Biophysics,Radiation Biology
+"Prof (Dr) Raghavendra Sharma, Professor & HoD",Amity University Madhya Pradesh Gwalior,24,95,3541,Amity University Madhya Pradesh Gwalior,Computer Science,Artificial Intelligence
+Dr. Rajeev sharma,"Professor, Humanities, LNCT",78,398,30174,LNCT,Humanities,Education
+Rashmi sharma,Senior consultant Dermatologist,56,311,14790,Error,Error,Error
+Ravinder Kumar,"Ravinder Kumar rivravinder | Digital Marketing, Search engine optimization,  Himachal Pradesh, India",79,490,45985,Ravinder Kumar rivravinder,Digital Marketing,Search Engine Optimization
+Rohit Sharma,Student of poornima university,80,555,38462,Poornima University,Computer Science,Data Analytics
+Ruchi Goel,"Maulana Azad medical College, New Delhi",21,45,3188,Maulana Azad Medical College,Medical Education,Public Health
+sakshi garg,"Assistant Professor, KIET School of Pharmacy",4,3,130,KIET Group of Institutions,Pharmaceutical Sciences,Drug Delivery Systems
+sameer sharma,"Associate Professor of Mathematics, D. A. V. College, Jalandhar, Punjab, India",40,152,8719,Punjab University,Algebra,Number Theory
+Sandeep Singh,Msc scholar,85,873,39568,[University/Company not specified],[Research Interest 1 not specified],[Research Interest 2 not specified]
+Dr. Sanjay K Banerjee,"Professor, National Institute of Pharmaceutical Education and Research (NIPER), Guwahati, India",47,106,9120,National Institute of Pharmaceutical Education and Research (NIPER),Guwahati,Drug Delivery Systems
+Sarabjeet Singh,"Assistant Professor of Radiology, Harvard Medical School",53,238,13928,Harvard Medical School,Radiology,Medical Imaging
+sarabjot singh,"Professor of Electrical Engineering, Punjab Technical University, Jalandhar, India",42,168,7697,Punjab Technical University,Electrical Engineering,Signal Processing
+Dr. Sarita  Singh,"Associate Professor in department of Conservative denristry and Endodontics, BVUDCH, pune     in",39,212,8598,Bharati Vidyapeeth Deemed University,Conservative Dentistry,Endodontics
+Saurabh Sharma,Tata Consultancy Services Limited,53,282,15044,Tata Consultancy Services Limited,Artificial Intelligence,Data Analytics
+Mahinder Singh,"H P University, Summer Hill, Shimla, ARSD, Delhi University, LPU Jalandhar, Govt.  College, Seema",27,85,3991,H P University,Environmental Science,Sustainable Development
+Shalini Sharma,Global Institute for Circular Economy and Sustainable Development Goals,42,148,8834,Global Institute for Circular Economy and Sustainable Development Goals,Circular Economy,Sustainable Development
