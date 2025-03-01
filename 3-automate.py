@@ -39,8 +39,8 @@ def read_professor_names(file_path):
 
                 if line.endswith(":"):  # Institution name detected
                     institution = line[:-1]  # Remove colon
-                elif line.startswith("- - "):  # Professor name detected
-                    professor_name = line[4:]  # Remove "- - " prefix
+                elif line.startswith("-"):  # Professor name detected
+                    professor_name = line[2:]  # Remove "- - " prefix
                     if institution:
                         professors.append((professor_name, institution))  # Store (professor, institution)
         

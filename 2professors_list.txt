@@ -31,8 +31,8 @@ Indian Institute of Technology Madras:
 - Krishnamoorthy Mohanram
 - Krishnaveni Udayakumar
 - Kutty S. R. Suresh
-- Lalitha Venkatraman
 - Lakshmi Narasimhan
+- Lalitha Venkatraman
 - Madapusi Peraiah
 - Madhavan Swaminathan
 - Manaswini Saha
@@ -56,17 +56,17 @@ Indian Institute of Technology Madras:
 - Pallab Ghosh
 - Panchanathan Ramesh
 - Pandurangan Tamilmani
-- Paramvir Singh Bhatia
 - Parameswaran Sankaranarayanan
+- Paramvir Singh Bhatia
 - Partha Pratim Bhattacharjee
 - Pasupathi M.
 - Periasami Shanmugam
 - Ponnuswamy Sadayappan
 - Prabhu Rajagopal
 - Pradeep Tharakan
-- Prasanna Shastri
 - Prakash M. Ajayan
 - Prasad Menon
+- Prasanna Shastri
 - Preetish Bajaj
 - Radhika Srinivasan
 - Ragunathan Rengaswamy
@@ -107,9 +107,9 @@ Indian Institute of Technology Madras:
 - Sivaramakrishnan Meiyappan
 - Sobha S. Nair
 - Sreekumar Narayanan
+- Srinivasa Chakravarth Srinivasan
 - Srinivasan R.
 - Srinivasan Sudarsan
-- Srinivasa Chakravarth Srinivasan
 - Subba Rao
 - Subburaj Thiagarajan
 - Sudarshan Iyengar
@@ -135,12 +135,12 @@ Indian Institute of Technology Madras:
 - Vinay Kumar Chaurasia
 - Vinod Kumar
 - Vinod Kumar V.
+- Vishwanathan Srinivasan
 - Viswanathan Swaminathan
 - Viswanathan T. V.
-- Vishwanathan Srinivasan
+- Vittal Rao Gundlapalli
 - Vivek Garg
 - Vivek Sundar
-- Vittal Rao Gundlapalli
 - Yogesh K. Divecha
 - Yuvaraj D.
 
@@ -159,7 +159,6 @@ Indian Institute of Technology Delhi:
 - Rajat Moona
 - Rangan Banerjee
 - Saikat Bhattacharyya
-- Satyajit Mayor
 - Shalabh Bhatnagar
 - Shantanu Roy
 - Sudip Misra
@@ -168,8 +167,8 @@ Indian Institute of Technology Delhi:
 - Tarun Kant
 - Utpal Bora
 - V. Ramgopal Rao
-- Vinod K. Gupta
 - Vijay K. Bajpai
+- Vinod K. Gupta
 - Viswanathan Mohan
 - Vivek Bozorgzadeh
 - Yogesh Joshi
@@ -186,7 +185,6 @@ Indian Institute of Technology Bombay:
 - Atul Shrivastava
 - Avijit Ghosh
 - Ayaskanta Sahu
-- Balaji Narasimhan
 - Bharath Balaji
 - Bhaskar Dasgupta
 - Bhrigu Sridhar
@@ -194,9 +192,8 @@ Indian Institute of Technology Bombay:
 - Chitra Kalyanaraman
 - Debasis Mitra
 - Debrupa Lahiri Sarma
-- Dheeraj Sanghi
-- Dipti Srinivasan
 - Dhiren Patel
+- Dipti Srinivasan
 - Djanaguiraman Janardhanan
 - Ezhilmathi Natarajan
 - Faqir Jain
@@ -206,7 +203,6 @@ Indian Institute of Technology Bombay:
 - Guhan Jayaraman
 - Hardik Suthar
 - Hari Hara Gopalrao Kiranagi
-- Harish Karnick
 - Himadri Pakrasi
 - Indumathi T
 - Ishwar K Puri
@@ -224,7 +220,6 @@ Indian Institute of Technology Bombay:
 - Nachiketa Deo
 - Nandakumar Thondanakulam
 - Narendra Dixit
-- Natarajan Gautam
 - Niladri Chatterjee
 - Niranjan Damle
 - Nishant Saurabh
@@ -233,14 +228,13 @@ Indian Institute of Technology Bombay:
 - Partha P Bhattacharyya
 - Partha Sarathi Das
 - Pradeep Chatterjee
-- Preeti Mohan
 - Prashant Jain
+- Preeti Mohan
 - Prerna Tripathy
 - Pritam Parikh
 - Rajat Mittal
 - Rajeev Kumar
 - Ramesh Singh
-- Rangan Banerjee
 - Ravindranath Akolkar
 - Rishikesh Narayanan
 - Rohit Gupta
@@ -262,10 +256,9 @@ Indian Institute of Technology Bombay:
 - Shriram Krishnamurthi
 - Soumitra Velankar
 - Subhasis Chaudhuri
-- Subhasis Chaudhuri
 - Suchitra Balaji
-- Sudipta Sarangi
 - Sudhir Jain
+- Sudipta Sarangi
 - Sumantra Dutta
 - Suresh Kanna
 - Suresh Nair
@@ -278,13 +271,11 @@ Indian Institute of Technology Bombay:
 - Venkatesh Narayanan
 - Vijay Magar
 - Vivek Borkar
-- Vivek Borkar
 - Vivek Farias
 - Vivek Pathak
 - Vivek Subramanian
 
 Indian Institute of Technology Kanpur:
-- Abhay Karandikar
 - Amitabha Mukherji
 - Anshu Suman
 - Balaram Ravindran
@@ -295,56 +286,41 @@ Indian Institute of Technology Kanpur:
 - Jawaharlal Kenneth
 - Mausumi Bora
 - Navakanta Bhat
-- Pallab Ghosh
 - Pawan Hari
-- Rajat Mittal
 - Siddhartha Roy
 - Somak Raychaudhury
 - Soumyo Mukherji
 - Sriram Balasubramanian
-- Subhasis Chaudhuri
 - Sudipta Sarkar
 - Tanmay Basak
 - Uday V. Gaitonde
 - Udayan Guha
 
 Indian Institute of Technology Kharagpur:
-- Anirban Bhattacharyya
-- B. B. Bhowmick
-- Biswanath Mondal
-- Debapratim Dasgupta
-- Dipak Kumar Jana
-- Gautam Biswas
-- Indrajit Chakrabarti
-- Jagannathan Sankar
-- K. K. Ghosh
-- Kalyanmoy Deb
-- Kunal Pal
-- M. K. Tiwari
-- Partha Sarkar
-- Partha Pratim Chakrabarti
-- Pijush Ghosh
-- Pradipta Kumar Banerjee
-- Prantik Kundu
 - Abhirup Sarkar
 - Amit Chakraborty
 - Amitava Mukherjee
 - Anindya Chatterjee
-- Arindam Dey
+- Anirban Bhattacharyya
 - Arijit Sen
+- Arindam Dey
 - Ashok Kumar Mishra
+- B. B. Bhowmick
 - Babita Sharma
 - Basudev Majumdar
 - Bhabani Shankar Bhadoria
 - Bharati Basu
 - Bijan Kumar Ghosh
+- Biswanath Mondal
+- Debapratim Dasgupta
 - Debasish Mondal
 - Debatosh Guha
+- Dipak Kumar Jana
 - Dipankar Sarkar
 - Ganesh Chandra Nayak
 - Gauri Sarfraz
 - Gourab Banerjee
-- Indranil Sen Gupta
+- Indrajit Chakrabarti
 - Jagannathan Sankar
 - Jahangir Alam
 - Jayanta Bhattacharya
@@ -353,10 +329,12 @@ Indian Institute of Technology Kharagpur:
 - K. K. Bharadwaj
 - K. K. Chattopadhyay
 - K. K. Das
+- K. K. Ghosh
 - K. M. Pandey
 - K. N. Das
 - K. N. Rai
 - Kalyan Kumar Das
+- Kalyanmoy Deb
 - Kamalaksha Mukhopadhyay
 - Karabi Biswas
 - Kaustubha Mohanty
@@ -382,163 +360,168 @@ Indian Institute of Technology Kharagpur:
 - N. N. Dutta
 - N. S. Namboothiri
 - Nilotpal Mrinal
+- Partha Pratim Chakrabarti
+- Partha Sarkar
+- Pijush Ghosh
+- Pradipta Kumar Banerjee
+- Prantik Kundu
 
 Indian Institute of Technology Roorkee:
-* Amit Singhal
-* Amitabh Gupta
-* Arvind Tiwari
-* Ashutosh Ambardar
-* Ashutosh Sharma
-* Ashutosh Tiwari
-* Atul Kumar
-* Balesh Kumar
-* Binod Kumar
-* C. S. Kumar
-* D. K. Bhattacharya
-* D. K. Dwivedi
-* D. P. Kothari
-* D. P. Singh
-* D. V. Singh
-* Devendra Chaudhary
-* Devendra Kumar
-* Dharmendra Mishra
-* G. L. Agrawal
-* G. L. Sailaja
-* G. M. Joshi
-* G. N. Das
-* G. N. Pandey
-* G. P. Sastry
-* G. R. Chandak
-* G. R. K. Sastry
-* G. S. Gupta
-* G. S. Pandey
-* G. V. Ratnam
-* H. C. Verma
-* H. K. Verma
-* H. N. Singh
-* H. O. Gupta
-* H. P. Garg
-* Harbhajan Singh
-* Hari Om Gupta
-* Harsh Goel
-* I. S. Ahuja
-* I. S. Chahal
-* I. S. Mann
-* Inderjit Singh
-* J. P. Kaushal
-* J. P. Kesari
-* J. P. Pandey
-* J. S. Yadav
-* Jagdish Narain
-* Jai Kumar
-* Jai Nath
-* Jayant Prakash
-* Jitendra Kumar
-* Joseph George
-* K. C. Agarwal
-* K. C. Goel
-* K. C. Jain
-* K. C. Varshney
-* K. K. Paliwal
-* K. K. Tripathi
-* K. L. Narasimhan
-* K. M. Agrawal
-* K. N. Bhanot
-* K. P. Singh
-* K. R. P. Singh
-* K. S. Bhaskara Rao
-* K. S. Chouhan
-* K. S. Jagadeesh
-* K. S. Rao
-* K. S. Reddy
-* K. V. Krishna Rao
-* K. V. Raghavan
-* L. M. Patnaik
-* L. N. Sharma
-* M. C. Chaturvedi
-* M. C. Joshi
-* M. C. Tiwari
-* M. K. Agrawal
-* M. K. Gaur
-* M. K. Gupta
-* M. K. Jha
-* M. K. Kaushik
-* M. K. Mishra
-* M. K. Mohanty
-* M. K. Pandey
-* M. K. Sharma
-* M. K. Singh
-* M. L. Kansal
-* M. L. Mittal
-* M. L. Munjal
-* M. L. Sharma
-* M. M. Chaturvedi
-* M. M. Gupta
-* M. M. Pandey
-* M. N. Das
-* M. N. Gupta
-* M. N. Jani
-* M. N. Jha
-* M. N. Joshi
-* M. N. Kamle
-* M. N. Khan
-* M. N. Mishra
-* M. N. Mohan
-* M. N. Pandey
-* M. N. Rao
-* M. N. Sastry
-* M. N. Sharma
-* M. N. Singh
-* M. N. Srivastava
-* M. N. Tripathi
-* M. N. Verma
-* M. P. Garg
-* M. P. Gupta
-* M. P. Kaushik
-* M. P. Mishra
-* M. P. Pandey
-* M. P. Rathore
-* M. P. Sharma
-* M. P. Singh
-* M. R. Chandra
-* M. R. Gupta
-* M. R. Jain
-* M. R. Kanwar
-* M. R. Khan
-* M. R. Mishra
-* M. R. Pandey
-* M. R. Rao
-* M. R. Sastry
-* M. R. Singh
-* M. R. Srivastava
-* M. R. Tripathi
-* M. R. Verma
-* M. S. Agrawal
-* M. S. Bhatnagar
-* M. S. Chaudhary
-* M. S. Gaur
-* M. S. Gupta
-* M. S. Jain
-* M. S. Joshi
-* M. S. Kaushik
-* M. S. Khan
-* M. S. Mishra
-* M
+- Amit Singhal
+- Amitabh Gupta
+- Arvind Tiwari
+- Ashutosh Ambardar
+- Ashutosh Sharma
+- Ashutosh Tiwari
+- Atul Kumar
+- Balesh Kumar
+- Binod Kumar
+- C. S. Kumar
+- D. K. Bhattacharya
+- D. K. Dwivedi
+- D. P. Kothari
+- D. P. Singh
+- D. V. Singh
+- Devendra Chaudhary
+- Devendra Kumar
+- Dharmendra Mishra
+- G. L. Agrawal
+- G. L. Sailaja
+- G. M. Joshi
+- G. N. Das
+- G. N. Pandey
+- G. P. Sastry
+- G. R. Chandak
+- G. R. K. Sastry
+- G. S. Gupta
+- G. S. Pandey
+- G. V. Ratnam
+- H. C. Verma
+- H. K. Verma
+- H. N. Singh
+- H. O. Gupta
+- H. P. Garg
+- Harbhajan Singh
+- Hari Om Gupta
+- Harsh Goel
+- I. S. Ahuja
+- I. S. Chahal
+- I. S. Mann
+- Inderjit Singh
+- J. P. Kaushal
+- J. P. Kesari
+- J. P. Pandey
+- J. S. Yadav
+- Jagdish Narain
+- Jai Kumar
+- Jai Nath
+- Jayant Prakash
+- Jitendra Kumar
+- Joseph George
+- K. C. Agarwal
+- K. C. Goel
+- K. C. Jain
+- K. C. Varshney
+- K. K. Paliwal
+- K. K. Tripathi
+- K. L. Narasimhan
+- K. M. Agrawal
+- K. N. Bhanot
+- K. P. Singh
+- K. R. P. Singh
+- K. S. Bhaskara Rao
+- K. S. Chouhan
+- K. S. Jagadeesh
+- K. S. Rao
+- K. S. Reddy
+- K. V. Krishna Rao
+- K. V. Raghavan
+- L. M. Patnaik
+- L. N. Sharma
+- M
+- M. C. Chaturvedi
+- M. C. Joshi
+- M. C. Tiwari
+- M. K. Agrawal
+- M. K. Gaur
+- M. K. Gupta
+- M. K. Jha
+- M. K. Kaushik
+- M. K. Mishra
+- M. K. Mohanty
+- M. K. Pandey
+- M. K. Sharma
+- M. K. Singh
+- M. L. Kansal
+- M. L. Mittal
+- M. L. Munjal
+- M. L. Sharma
+- M. M. Chaturvedi
+- M. M. Gupta
+- M. M. Pandey
+- M. N. Das
+- M. N. Gupta
+- M. N. Jani
+- M. N. Jha
+- M. N. Joshi
+- M. N. Kamle
+- M. N. Khan
+- M. N. Mishra
+- M. N. Mohan
+- M. N. Pandey
+- M. N. Rao
+- M. N. Sastry
+- M. N. Sharma
+- M. N. Singh
+- M. N. Srivastava
+- M. N. Tripathi
+- M. N. Verma
+- M. P. Garg
+- M. P. Gupta
+- M. P. Kaushik
+- M. P. Mishra
+- M. P. Pandey
+- M. P. Rathore
+- M. P. Sharma
+- M. P. Singh
+- M. R. Chandra
+- M. R. Gupta
+- M. R. Jain
+- M. R. Kanwar
+- M. R. Khan
+- M. R. Mishra
+- M. R. Pandey
+- M. R. Rao
+- M. R. Sastry
+- M. R. Singh
+- M. R. Srivastava
+- M. R. Tripathi
+- M. R. Verma
+- M. S. Agrawal
+- M. S. Bhatnagar
+- M. S. Chaudhary
+- M. S. Gaur
+- M. S. Gupta
+- M. S. Jain
+- M. S. Joshi
+- M. S. Kaushik
+- M. S. Khan
+- M. S. Mishra
 
 Indian Institute of Technology Guwahati:
-• Manish Bhuyan
-• Satyajit Gupta
-• Soumendra Nath Das
-• Chandan Mahanta
-• Mihir Kumar Mishra
-• Ramesh Chandra Deka
-• Anupam Baruah
-• Amritava Chatterjee
-• Debasish Das
-• Himanshu Garg
-• Joydeep Dutta
-• Manas Kumar Baruah
-• Nilotpalan Dipak
+- • Amritava Chatterjee
+- • Anupam Baruah
+- • Chandan Mahanta
+- • Debasish Das
+- • Himanshu Garg
+- • Joydeep Dutta
+- • Manas Kumar Baruah
+- • Manish Bhuyan
+- • Mihir Kumar Mishra
+- • Nilotpalan Dipak
+- • Ramesh Chandra Deka
+- • Satyajit Gupta
+- • Soumendra Nath Das
 
 Indian Institute of Technology Hyderabad:
 - Badarinath Roysam
@@ -560,15 +543,14 @@ Indian Institute of Technology Hyderabad:
 - Kshitij Mohan Tripathi
 - Mukesh Ranjan
 - Nagabhushan Jodha
-- Navakanta Bhat
 - Nizamuddin Khan
 - Paritosh Pandya
 - Partha Pratim Ray
 - Pushpak Bhattacharyya
-- Rajalakshmi Dasari
-- Rama Govindarajan
 - Raghu Prakash
 - Rahul Nair
+- Rajalakshmi Dasari
+- Rama Govindarajan
 - Ramanathan Subramanian
 - Ramesh Loganathan
 - Ramesh Sitaraman
@@ -589,10 +571,9 @@ Indian Institute of Technology Hyderabad:
 - Shibdas Banerjee
 - Shobhan Babu Nannapaneni
 - Shubhajit Roy
-- Sriram Ganapathi Subramanian
 - Srinivasaraghavan Kannan
+- Sriram Ganapathi Subramanian
 - Sudarshan Sampath
-- Sudip Misra
 - Sudipta Roy
 - Suhas Joshi
 - Sujatha Srinivasan
@@ -668,7 +649,6 @@ Indian Institute of Technology (Banaras Hindu University) Varanasi:
 - Pradipta Banerjee
 - Pritam Singh
 - Rajeev Agrawal
-- Rajeev Kumar
 - Rajeev Tiwari
 - Ranjeev Pant
 - Ravi Prakash
@@ -686,11 +666,9 @@ Indian Institute of Technology (Banaras Hindu University) Varanasi:
 - Soumendra Karmakar
 - Subir Sarkar
 - Sujoy Chatterjee
-- Suresh Kumar
 - Umesh Kumar
 - V. K. Pandey
 - Vikas Kumar
-- Vinod Kumar
 - Vipin Tyagi
 - Vishal Singh
 - Vivek Gupta
@@ -797,15 +775,12 @@ Jadavpur University:
 - Vishal Kumar
 
 S.R.M. Institute of Science and Technology:
+-  C. Valson
 -  Natarajan Chandrasekaran
 -  Porur Venkatachalapathy Ramasamy
--  C. Valson
 
 Anna University:
-Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
-
-Indian Institute of Technology (Indian School of Mines) Dhanbad:
-Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+- Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
 
 Indian Institute of Technology Indore:
 - Abhinav Bhatele
@@ -842,14 +817,10 @@ Indian Institute of Technology Indore:
 - Nitin Pandey
 - Pawan Sharma
 - Puneet Gupta
-- Rajeev Kumar
 - Rajesh Kumar
-- Ramesh Singh
-- Ravi Prakash
 - Rishi Kumar
 - Rohit Kumar
 - Rojalin Mathew
-- Sandeep Kumar
 - Sandhya Patel
 - Sanjeev Sharma
 - Satish Kumar
@@ -860,31 +831,26 @@ Indian Institute of Technology Indore:
 - Shraddha Gupta
 - Shruti Singh
 - Sibendu Das
-- Soumya Singh
 - Sonal Gulati
+- Soumya Singh
 - Sreekanth Mallapragada
 - Srinivasan Venkitachalam
-- Sudipta Roy
 - Sudhir Kumar
 - Sugandha Prakash
 - Sunil Kumar
 - Surendra Kumar
 - Syed Danish
 - Tanmaya Jena
-- Tarun Kumar
 - Tejaswini Mishra
 - Vijay Kumar
-- Vikas Kumar
 - Vineet Pandey
 - Vineeta Sharma
-- Vishal Singh
 - Vivek Tiwari
 - Yogesh Sharma
 
 National Institute of Technology Karnataka, Surathkal:
 - Anand Prabhu
 - Anoop Pai
-- Ashok Kumar
 - Ganesh Prasad
 - Govindan Ramesh
 - Hanumanthappa
@@ -900,20 +866,18 @@ National Institute of Technology Karnataka, Surathkal:
 - Panduranga
 - Pradeep G.
 - Prasad
-- Ramesh Babu
 - Ramesh Bhat
 - Ramesh D.
 - Ravi
 - Roopa S.
+- Sachin Kumar
 - Sai Sree
+- Sankara Narayanan
 - Santhosh Kumar
 - Saravanan
 - Saritha
-- Sachin Kumar
-- Sankara Narayanan
 - Sathya Prasad
 - Satyanaryana
-- Senthil Kumar
 - Shanthakumar
 - Sheik Akbar
 - Sreedevi
@@ -936,13 +900,6 @@ National Institute of Technology Karnataka, Surathkal:
 - Yashavanth
 
 Indian Institute of Technology Gandhinagar:
-- Rahul Vaze
-- Sarthak Seth
-- Ramjee Gupta
-- Sudipta Chatterjee
-- Snigdha Chaturvedi
-- Nimay Kumar
-- Adwait Dixit
 - Abhishek Gupta
 - Amith Bhat
 - Anand Gupta
@@ -964,7 +921,6 @@ Indian Institute of Technology Gandhinagar:
 - Barun Gorain
 - Bhargab Maitra
 - Bhargavi Sathuluri
-- Bhaskar Dasgupta
 - Bhavesh Parab
 - Bidyut Baran Goswami
 - Bijoy Krishna Sahoo
@@ -974,13 +930,13 @@ Indian Institute of Technology Gandhinagar:
 - Brahmadev Singh
 - Buddha Chandrasekhar
 - Chandrasekhar Dwarkadas
-- Deepak Kalra
 - Debabrata Sarddar
 - Debaditya Das
-- Debjani Mailk
 - Debi Prasad Mahapatra
+- Debjani Mailk
 - Debjani Sinha
 - Debolina Dash
+- Deepak Kalra
 - Deepshikha Singh
 - Devang Mehta
 - Divya Teja
@@ -993,8 +949,6 @@ Indian Institute of Technology Gandhinagar:
 - Hardik Bhatt
 - Harikrishnan S Nair
 - Indranil Dasgupta
-- Indrajit Saha
-- Ishwar K Puri
 - Jagdish Arora
 - Jalaj Khunti
 - Jaydeep Bardalai
@@ -1010,9 +964,9 @@ Indian Institute of Technology Gandhinagar:
 - Kanchana Kasthurirangan
 - Kapil Gupta
 - Kartik Bhat
+- Kaushik Chatterjee
 - Kaushiki Banerjee
 - Kavi Arya
-- Kaushik Chatterjee
 - Kesava Swaminathan
 - Khushal Roy
 - Kirti Vishwakarma
@@ -1027,9 +981,7 @@ Indian Institute of Technology Gandhinagar:
 - Madhumati Kapoor
 - Manasi Karkare
 - Manish Jain
-- Manish Jain
 - Manish Khanna
-- Manish Kumar
 - Manoj Dixit
 - Manoj Singh
 - Maruthi Prasad
@@ -1041,13 +993,14 @@ Indian Institute of Technology Gandhinagar:
 - Mukesh Pandey
 - Munesh Singh
 - Naresh M
-- Nitish Shirish Keskar
+- Nilanjan Chatterjee
 - Nilanjana Karmakar
 - Nilotpal Mandal
-- Nilanjan Chatterjee
+- Nimay Kumar
 - Ningombam Bupenda Meitei
 - Nishikant Potti
 - Nitin Agrawal
+- Nitish Shirish Keskar
 - Nivedita Chatterjee
 - Omprakash Singh
 - Pankaj Gupta
@@ -1057,23 +1010,24 @@ Indian Institute of Technology Gandhinagar:
 - Parul Pandey
 - Pavan Kumar
 - Pavan Rangaraj
-- Pradeep Kumar
 - Pratik Latthe
-- Pravin P
 - Pravin Kumar
+- Pravin P
 - Prayas SG
 - Preeti Ranjan
 - Punit A. Narang
 - Radhika Gupta
 - Raghuram Venkatasubramanian
 - Rahul Kumar
+- Rahul Vaze
 - Raj Kamal
-- Rajarshi Tiwari
 - Rajan Jha
+- Rajarshi Tiwari
 - Rajesh Anand
 - Rajesh Sundaresan
 - Rajib Shaw
 - Rajkumar Lad
+- Rakesh Shenoy
 - Ramjee Gupta
 - Ramu Badrinarayanan
 - Ratnajit Chakraborty
@@ -1083,9 +1037,8 @@ Indian Institute of Technology Gandhinagar:
 - Rekha V S
 - Ritankar Das
 - Robinder Kaur
-- Rohit Srivastava
 - Rohan Shah
-- Rakesh Shenoy
+- Rohit Srivastava
 - Rumki Majumdar
 - Sagnik Dey
 - Salil Kumar
@@ -1095,8 +1048,8 @@ Indian Institute of Technology Gandhinagar:
 - Santosh Kumar
 - Sarthak Seth
 - Saswati Banerjee
-- Satyandra Yadav
 - Satyam Mishra
+- Satyandra Yadav
 - Sayan Dutta
 - Sebastian Poitz
 - Shaik Md. Anisuzzaman
@@ -1105,7 +1058,6 @@ Indian Institute of Technology Gandhinagar:
 - Sharvari Ubale
 - Shashank Priya
 - Shaveta Kundu
-- Shibdas Banerjee
 - Shiladitya Saha
 - Shivani Agrawal
 - Shraddha B
@@ -1115,32 +1067,31 @@ Indian Institute of Technology Gandhinagar:
 - Shuvra Shome
 - Siba Dasgupta
 - Siddarth Srinivasan
-- Siddhartha Bhattacharya
-- Siddharth Garg
 - Siddhant Garg
 - Siddhant Mahajan
+- Siddharth Garg
+- Siddhartha Bhattacharya
 - Siladitya Mukherjee
 - Sneha Gautam
+- Snigdha Chaturvedi
 - Somayeh Asgari
+- Soumyadip Chattopadhyay
 - Sourav Banerjee
 - Sourav Sanyal
 - Sourav Suchak
-- Soumyadip Chattopadhyay
 - Srinath Puranam
 - Srinivas Vehkataramani
 - Srinivas Venkataramani
 - Srivastava
-- Subhasree Basu
 - Subhadip Chatterjee
+- Subhasree Basu
 - Subhra Prakash
 - Suchismita Chinara
-- Suchismita Chinara
 - Sudhir Krishna
-- Sudip Chattopadhyay
-- Sudipti Mukerjee
 - Sudhir Pattnaik
+- Sudip Chattopadhyay
 - Sudipta Chatterjee
-- Sudipta Roy
+- Sudipti Mukerjee
 - Sugata Sanyal
 - Sujay Bhandarkar
 - Sumesh Sridharan
@@ -1157,8 +1108,8 @@ Indian Institute of Technology Gandhinagar:
 - Tirtha Chakraborty
 - Trailokya Vijay
 - Tridib Bapsi
-- Uddara Suresh
 - Udayan Roy
+- Uddara Suresh
 - Umashankar Dwivedi
 - Unmesh Tiwari
 - Upasana Roy Chaudhary
@@ -1214,7 +1165,6 @@ National Institute of Technology Rourkela:
 - Prof. Kailash Chandra Sahoo
 - Prof. Kalyan Kumar Ghoshal
 - Prof. Kamalakanta Mahapatra
-- Prof. Kamalakanta Mahapatra
 - Prof. Kapileswar Mishra
 - Prof. Karunakar Jha
 - Prof. Kashinath Jayanarayanan
@@ -1237,9 +1187,9 @@ National Institute of Technology Rourkela:
 - Prof. Manoj Kumar Pradhan
 - Prof. Manoj Kumar Rout
 - Prof. Manoranjan Mishra
-- Prof. Mohanty
 - Prof. Mohan Lal Verma
 - Prof. Mohan Laxminarayan Sharma
+- Prof. Mohanty
 - Prof. Mukul Chandra Trivedi
 - Prof. Murali Mohan Prusty
 - Prof. Nabin Chandra Sahu
@@ -1259,7 +1209,6 @@ National Institute of Technology Rourkela:
 - Prof. Prasanta Kumar Biswal
 - Prof. Prasanta Kumar Mohanty
 - Prof. Pravindra Kumar Agnihotri
-- Prof. Pravindra Kumar Agnihotri
 - Prof. Pritam Deo
 - Prof. Prusty
 - Prof. Rabindra Kumar Mohanty
@@ -1270,9 +1219,7 @@ National Institute of Technology Rourkela:
 - Prof. Ramesh Chandra Panda
 - Prof. Ramesh Chandra Sahu
 - Prof. Ranjit Kumar Panda
-- Prof. Ranjit Kumar Panda
 - Prof. Rao
-- Prof. S. K. Tripathy
 - Prof. S. K. Tripathy
 - Prof. Sadananda Mishra
 - Prof. Saheb Pati Samal
@@ -1287,21 +1234,16 @@ National Institute of Technology Rourkela:
 - Prof. Sarat Kumar Nayak
 - Prof. Saswati Mishra
 - Prof. Saurabh Komar Dash
-- Prof. Saurabh Komar Dash
 - Prof. Savitri Rai
 - Prof. Sekhar Chandra Nayak
 - Prof. Shankar Lal Das
 - Prof. Shashank Raj
-- Prof. Sibashis Banerjee
 - Prof. Siba Shankar Mahapatra
-- Prof. Sidhartha Sankar Sahoo
+- Prof. Sibashis Banerjee
 - Prof. Sidhartha Sankar Sahoo
 - Prof. Sitansu Sekhar Satpathy
 - Prof. Sourabh Kumar Barik
-- Prof. Sourabh Kumar Barik
 - Prof. Sourav Das
-- Prof. Sourav Das
-- Prof. Subhamoy Ganguly
 - Prof. Subhamoy Ganguly
 - Prof. Subhendu Kumar Patra
 - Prof. Subhrajyoti Das
@@ -1309,7 +1251,6 @@ National Institute of Technology Rourkela:
 - Prof. Suchita Mohanty
 - Prof. Sudarsan Ghosh
 - Prof. Sudarshan Sahoo
-- Prof. Sujit Kumar Sarangi
 - Prof. Sujit Kumar Sarangi
 - Prof. Sukhendu Sankar Dash
 - Prof. Sukriti Ranjan Biswal
@@ -1320,11 +1261,9 @@ National Institute of Technology Rourkela:
 - Prof. Tushar Kanti Roy
 - Prof. Uday Narayan Mohanty
 - Prof. Uday Shankar Rout
-- Prof. Uday Shankar Rout
 - Prof. Udayanandan Dash
 - Prof. Umamaheshwari Chodisetti
 - Prof. Upendra Kumar Singh
-- Prof. Utpal Kumar De
 - Prof. Utpal Kumar De
 - Prof. Uttam Kumar Rana
 - Prof. Vaidyanathan Rajendran
@@ -1336,61 +1275,34 @@ National Institute of Technology Rourkela:
 - Prof. Yogendra Kumar Jain
 
 Birla Institute of Technology and Science, Pilani:
-- Pankaj Jalote
-- Sourav Mukhopadhyay
-- Partha Pratim Chakrabarti
-- Dheeraj Sanghi
-- Subhash Kak
-- Anil Sahai
-- Suman Kundu
-- Soumen Chakrabarti
-- Pradipta Mukhopadhyay
 - Amitava Gupta
-- Partha Pratim Das
+- Anil Sahai
+- Pankaj Jalote
+- Pradipta Mukhopadhyay
+- Soumen Chakrabarti
+- Sourav Mukhopadhyay
+- Subhash Kak
+- Suman Kundu
 
 National Institute of Technology Warangal:
-This context does not mention the names of professors from National Institute of Technology Warangal, so I cannot extract the requested data from the provided context.
+- This context does not mention the names of professors from National Institute of Technology Warangal, so I cannot extract the requested data from the provided context.
 
 Indian Institute of Technology Ropar:
-- Sudesh Kumar
-- Amit Vij
 - Abhijit Sharma
-- Goutam Rath
-- R. P. Bajpai
-- Pradeep Kumar
-- Sandeep Dhanuka
-- Harpreet Singh
-- Anish Khanna
-- Naresh Sharma
-- Vikrant Bhalla
-- Bharti Gupta
-- Tapas Samanta
-- Ambrish Ranjan
-- Srabani Bhattacharyya
-- Subhojit Som
-- Sidharth Talwar
-- Vivek Kumar
-- Shuvendu Das
-- Jai Singh
-- Aviral Joshi
-- Sanjay K. Banerjee
-- Jatinder Kumar
-- Shubhra Bhardwaj
-- Sidharth Arora
-- Anuj Singh
-- Prasanna Kumar Sahoo
-- Sameer Sharma
-- Hitesh Kumar Sharma
-- Janak Ramakrushna Parate
-- Anil K. Sharma
 - Abhinav Kumar
-- Amar Kumar
 - Amandeep Singh
+- Amar Kumar
+- Ambrish Ranjan
+- Amit Vij
+- Anil K. Sharma
+- Anish Khanna
 - Ankit Kumar
+- Anuj Singh
 - Anup Kumar
+- Aviral Joshi
 - Ayesha Zia
-- Balaji Narasimhan
 - Benita Gupta
+- Bharti Gupta
 - Bhupesh Sharma
 - Brajesh Kumar
 - Brij Mohan Singh
@@ -1399,7 +1311,6 @@ Indian Institute of Technology Ropar:
 - Deepak Kumar
 - Deepak Singh
 - Deepanshu Sircar
-- Deepti Gupta
 - Dibakar Roy
 - Dinesh Prasad
 - Divya Sharma
@@ -1410,10 +1321,15 @@ Indian Institute of Technology Ropar:
 - Gaurav Goel
 - Gaurav Gupta
 - Gaurav Sharma
+- Goutam Rath
 - Gurdeep Singh
 - Hitesh Kumar
+- Hitesh Kumar Sharma
 - Jagriti Nigam
+- Jai Singh
 - Jainendra Jain
+- Janak Ramakrushna Parate
+- Jatinder Kumar
 - Jayant Singh
 - Jayesh Kumar
 - Jitendra Kumar
@@ -1427,11 +1343,11 @@ Indian Institute of Technology Ropar:
 - Kumar Abhinav
 - Lalit Gupta
 - Lalita Singh
-- Manish Kumar
 - Manpreet Singh
 - Meghna Sharma
 - Monica Bansal
 - Namrata Garg
+- Naresh Sharma
 - Narinder Singh
 - Naveen Kumar
 - Navjot Kaur
@@ -1440,146 +1356,142 @@ Indian Institute of Technology Ropar:
 - Nitin Kumar
 - Pawan Kumar
 - Pooja Rani
-- Prabhat Kumar
-- Pradeep Kumar
+- Prasanna Kumar Sahoo
 - Prashant Kumar
 - Pratap Singh
 - Priyanka Gupta
 - Priyanka Singh
 - Puneet Kumar
+- R. P. Bajpai
 - Raghavendra Sharma
 - Rajeev Sharma
 - Rakesh Kumar
-- Ramesh Kumar
 - Rashmi Sharma
 - Ravinder Kumar
 - Rohit Sharma
 - Ruchi Goyal
-- Sachin Kumar
 - Sakshi Garg
 - Sameer Sharma
-- Sandeep Kumar
+- Sandeep Dhanuka
 - Sandeep Singh
 - Sandhya Grover
+- Sanjay K. Banerjee
 - Sanjeev Kumar
-- Sanjeev Sharma
-- Sarabjot Singh
 - Sarabjeet Singh
+- Sarabjot Singh
 - Sarita Singh
-- Saurabh Kumar
 - Saurabh Sharma
 - Seema Singh
 - Shailendra Kumar
 - Shalini Sharma
 - Shantanu Sharma
 - Shashank Kumar
-- Shivani Gupta
 - Shivangi Gupta
+- Shivani Gupta
+- Shubhra Bhardwaj
+- Shuvendu Das
 - Shweta Singh
 - Siddharth Sharma
+- Sidharth Arora
+- Sidharth Talwar
 - Sidhique Hussain
 - Sonu Sharma
 - Sonu Singh
+- Srabani Bhattacharyya
+- Subhojit Som
+- Sudesh Kumar
 - Sudhanshu Sharma
 - Sumit Kumar
-- Sunil Kumar
 - Sunil Sharma
-- Suresh Kumar
 - Tabassum Khan
-- Tarun Kumar
-- Umesh Kumar
+- Tapas Samanta
 - Vaibhav Gupta
 - Vandana Sharma
 - Varun Kumar
 - Vibhuti Sharma
-- Vikas Kumar
 - Vikas Singh
-- Vinod Kumar
+- Vikrant Bhalla
 - Vinod Sharma
-- Vivek Kumar
 - Vivek Singh
-- Yogesh Kumar
-- Yogesh Sharma
 
 Amrita Vishwa Vidyapeetham:
-- Srinivasan
-- Sujatha
-- Rajasekharan
-- Ramesh
-- Parameswaran
-- Poongothai
-- Kannan
-- Girija
-- Geetharani
-- Geetha
-- Gayathri
-- Ganesh
-- Dhanasekeran
-- Dhamodharan
-- Devasena
-- Devi
-- Dasarathy
-- Damodaran
-- Chandrasekaran
-- Chandramohanan
-- Bhuvaneswaran
-- Balachandran
-- Ashokkumar
-- Arunachalam
-- Anusha
-- Annamma
-- Anitha
-- Anand
-- Ambika
-- Ajitha
-- Ajay
 - Adithya
 - Aditi
+- Ajay
+- Ajitha
+- Ambika
+- Anand
+- Anitha
+- Annamma
+- Anusha
+- Arunachalam
+- Ashokkumar
+- Balachandran
+- Bhuvaneswaran
+- Chandramohanan
+- Chandrasekaran
+- Damodaran
+- Dasarathy
+- Devasena
+- Devi
+- Dhamodharan
+- Dhanasekeran
+- Ganesh
+- Gayathri
+- Geetha
+- Geetharani
+- Girija
+- Kannan
+- Parameswaran
+- Poongothai
+- Rajasekharan
+- Ramesh
+- Srinivasan
+- Sujatha
 
 Jamia Millia Islamia:
-- Mushirul Hasan
+- Abul Kalam Azad
+- Afzal Iqbal
 - Aqil Ahmed
+- Habibur Rahman
 - Iqtidar Hussain Siddiqui
-- Mohammad Manzoor Alam
-- Syed Ainul Hasan
-- Mohammad Shafi
-- Masood Alam Falahi
-- Shafey Kidwai
-- Mohsin Wali
 - Jameel Jalibi
-- Raisuddin Ansari
-- Mohd. Miyan
 - Khaliq Ahmad Nizami
 - Mahmud Husain
-- Afzal Iqbal
-- Mufti Atiqur Rahman Usmani
-- Syed Abul Hasan Ali Nadwi
-- Syed Abdul Latif
-- Habibur Rahman
-- Abul Kalam Azad
+- Masood Alam Falahi
+- Mohammad Manzoor Alam
+- Mohammad Shafi
 - Mohammed Mujeeb
+- Mohd. Miyan
+- Mohsin Wali
+- Mufti Atiqur Rahman Usmani
+- Mushirul Hasan
+- Raisuddin Ansari
+- Shafey Kidwai
+- Syed Abdul Latif
+- Syed Abul Hasan Ali Nadwi
+- Syed Ainul Hasan
 - Zakir Husain
 
 National Institute of Technology Calicut:
 - Abdeesh K. Tiwari
-- Aravind Nair
-- Arun M.S.
-- Ajith P.T.
-- Akhilesh K. Jana
-- Anil K.S.
-- Aravind Dasari
-- Aswathy V.G.
 - Abhishek K. Pathak
-- Ajit Kumar Dubey
-- Akhil Mohan
 - Ajay Kumar Tyagi
+- Ajit Kumar Dubey
+- Ajith P.T.
+- Akhil Mohan
+- Akhilesh K. Jana
 - Amalendu Misra
-- Anis Alam
+- Anil K.S.
 - Anirban Bhattacharya
+- Anis Alam
 - Anu Kuttan
 - Anuja Rajkumar
+- Aravind Nair
+- Arun M.S.
 - Arvind Kumar
 - Ashokkumar Chokkalingam
+- Aswathy V.G.
 - Balu A.S.
 - Bhabani S. Biswal
 - Bijesh T.
@@ -1587,45 +1499,45 @@ National Institute of Technology Calicut:
 - C. Chellappan
 - C. Sangeetha
 - Chetan A.
+- Deekshitha K.
+- Deepu Mariam George
 - Deepu S.
 - Dinesh P.
-- Deepu Mariam George
-- Deekshitha K.
 - Divya KG
 - Ganesh Panangatt Raveendran
+- Geetha R.
 - George Varghese
 - Gokul Das
 - Gopalakrishna K.
 - Gosh B.
-- Geetha R.
-- Harish R.M.
 - Harikumar L.S.
-- Harish R.
 - Harinarayanan V.
+- Harish R.
+- Harish R.M.
 - Harish S.
 - Haseena Jaffer
 - Hemamalini Kini
 - Indu Sharma
 - Jagathy R.K.
 - Jahnavi Karve
-- Jithin K.R.
 - Jibu P.K.
-- Jojes Mathew
+- Jithin K.R.
 - Johnson Cherian
+- Jojes Mathew
 - Joshy M.A.
 - Karthick Ramaswamy
-- Karthik M.K.
 - Karthick S.
+- Karthik M.K.
 - Karthik V.
 - Kavitha K.
 - Khadarani R.
 - Kiran S.
 - Kishore M.
-- Krishnan B.
 - Krishna U.
 - Krishnakumar K.R.
 - Krishnakumar V.
 - Krishnamoorthy S.
+- Krishnan B.
 - Lalitha N.
 - Laxmi Narayanan K.
 - Madhu S.
@@ -1648,8 +1560,8 @@ National Institute of Technology Calicut:
 - Moorthy V.K.
 - Muraleedharan Nair N.N.
 - Murthy J.V.R.
-- Narayanan Unnithan
 - Narayana S.R.
+- Narayanan Unnithan
 - Neha Idnani
 - Nidhin Mohan
 - Ninan Mathew
@@ -1662,7 +1574,6 @@ National Institute of Technology Calicut:
 - Padmanabhan M.
 - Pal A.
 - Parameswaran K.
-- Parameswaran K.
 - Paul C.J.
 - Prabhu T.V.
 - Pradip Kumar Das
@@ -1671,26 +1582,24 @@ National Institute of Technology Calicut:
 - Prasad P.M.
 - Prasad R.
 - Prasanna Kumar S.
-- Preethy R.
 - Preetha Mohan
 - Preetha Nair
+- Preethy R.
 - Prijayan V.P.
 - Priya S.
 - Rajalakshmi G.
 - Rajamohan P.R.
 - Rajani G.R.
-- Rajendran K.
-- Rajesh R.K.
-- Rajesh R.
-- Rajesh S.
 - Rajesh Kumar T.
+- Rajesh R.
+- Rajesh R.K.
+- Rajesh S.
 - Rajib Biswas
 - Rajib Das
 - Rajkumar R.
 - Ramakrishnan P.
 - Raman N.
 - Ramesh R.
-- Ramesh T.
 - Ramesh T.
 - Ramkumar K.R.
 - Ravi Kumar R.S.
@@ -1704,14 +1613,14 @@ National Institute of Technology Calicut:
 - Sadeeshkumar T.
 - Saleena Beegam
 - Samuel R.
+- Sandeep P.R.
 - Sandhya K.
 - Sandhya P.
-- Sandeep P.R.
 - Sanjeev G.
 - Sankar V.R.
-- Santhoshkumar K.
 - Santhosh Kumar S.
 - Santhosh Varughese T.
+- Santhoshkumar K.
 - Saratchandran K.
 - Sarath Kumar V.
 - Sasikala J.
@@ -1722,18 +1631,18 @@ National Institute of Technology Calicut:
 - Sethu B.
 - Shabina Beevi A.K.
 - Shafeeq M.
-- Shaju K.V.
 - Shaji P.V.
+- Shaju K.V.
 - Shalim K.
 - Shameer S.
 - Shanmugam K.
 - Sharafudheen K.M.
 - Sharath Govindan
 - Sharon R.
-- Sheela J.
 - Sheeba K.S.
-- Sheena. S
 - Sheeba S.S.
+- Sheela J.
+- Sheena. S
 - Shihabudheen K.S.
 - Shinu Jacob
 - Shivaraj Kumar M.
@@ -1742,8 +1651,8 @@ National Institute of Technology Calicut:
 - Sidharth V.
 - Sidharth V.S.
 - Sinu V.
-- Soumya A.S.
 - Soumya A.M.
+- Soumya A.S.
 - Soumya S.
 - Sowmiya A.
 - Stalin Philip
@@ -1754,8 +1663,8 @@ National Institute of Technology Calicut:
 - Sumod N.K.
 - Sunita N.
 - Supriya A.
-- Surya Ganesh V.
 - Suresh M.S.
+- Surya Ganesh V.
 - Suseela B.
 - Swapna A.S.
 - Swapna Deepthi N.
@@ -1778,14 +1687,14 @@ National Institute of Technology Calicut:
 - Vinod Kumar P.G.
 - Vinodhini G.
 - Vishakha M.P.
-- Vivek V.
+- Vishnu Kumar B.
 - Vishnu R.
 - Vishnu S.
 - Vishnu Sreedhar
 - Vishnu Varma B.S.
 - Vishnupriya Jayan
 - Vivek R.
-- Vishnu Kumar B.
+- Vivek V.
 - Vyshnavi K.M.
 - Yamuna K.N.
 - Yogesh T.
@@ -1796,7 +1705,6 @@ Siksha `O` Anusandhan:
 - Debapriya Dhar
 - Debasis Samanta
 - Falguni Banerjee
-- Jayanta Bhattacharya
 - Kashinath Bhattacharya
 - Kaushik Deka
 - Kunal Chakraborty
@@ -1804,7 +1712,6 @@ Siksha `O` Anusandhan:
 - Nilanjana Dasgupta
 - Pankaj Kumar
 - Prateek Jain
-- Rahul Kumar
 - Rajeev Ranjan
 - Sanjay Kumar
 - Santanu Chattopadhyay
@@ -1825,230 +1732,210 @@ Siksha `O` Anusandhan:
 - Vinay Kumar
 
 Delhi Technological University:
-* Amit Kumar
-* Ankush Aggarwal
-* Anuj Kumar
-* Ashwani Kumar
-* Atul Kumar
-* B. K. Mishra
-* B. P. Gupta
-* Bhavesh Kumar
-* C. L. Dhamija
-* Chandan Singh
-* D. K. Gupta
-* D. N. Reddy
-* Deepak Kumar
-* Deepanshu Sharma
-* Devendra Kumar
-* Dharmendra Kumar
-* G. K. Arora
-* Gagan Deep
-* Gautam Kumar
-* Hemant Kumar
-* Himanshu Gupta
-* I. P. Singh
-* Jagbir Singh
-* K. K. Sharma
-* Kapil Kumar
-* Karan Singh
-* L. M. Goyal
-* M. K. Gupta
-* M. M. Rana
-* Manish Kumar
-* Namrata Chhabra
-* Nitish Kumar
-* Pankaj Kumar
-* Pardeep Kumar
-* Parveen Kumar
-* Piyush Kumar
-* Praveen Kumar
-* Pravin Kumar
-* Punit Kumar
-* R. C. Gupta
-* R. K. Sharma
-* R. P. Singh
-* Rachit Mohan
-* Rahul Kumar
-* Rajeev Kumar
-* Rajesh Kumar
-* Raman Kumar
-* Ravi Kumar
-* Rohit Kumar
-* S. C. Jain
-* S. K. Gupta
-* S. L. Jain
-* Sajid Ali
-* Saksham Sharma
-* Sandeep Kumar
-* Sanjeev Kumar
-* Sanjiv Kumar
-* Santosh Kumar
-* Sarat Kumar
-* Saurabh Kumar
-* Shailendra Kumar
-* Shashi Kant
-* Shiv Kumar
-* Shruti Gupta
-* Sourabh Kumar
-* Subhash Kumar
-* Sumeet Kumar
-* Sunil Kumar
-* Surendra Kumar
-* T. K. Sharma
-* Tarun Kumar
-* Ujjwal Kumar
-* V. K. Goyal
-* Vipin Kumar
-* Vivek Kumar
-* Y. P. Singh
+- Amit Kumar
+- Ankush Aggarwal
+- Anuj Kumar
+- Ashwani Kumar
+- B. K. Mishra
+- B. P. Gupta
+- Bhavesh Kumar
+- C. L. Dhamija
+- Chandan Singh
+- D. K. Gupta
+- D. N. Reddy
+- Deepak Kumar
+- Deepanshu Sharma
+- Dharmendra Kumar
+- G. K. Arora
+- Gagan Deep
+- Gautam Kumar
+- Hemant Kumar
+- Himanshu Gupta
+- I. P. Singh
+- Jagbir Singh
+- K. K. Sharma
+- Kapil Kumar
+- Karan Singh
+- L. M. Goyal
+- M. M. Rana
+- Manish Kumar
+- Namrata Chhabra
+- Nitish Kumar
+- Pankaj Kumar
+- Pardeep Kumar
+- Parveen Kumar
+- Piyush Kumar
+- Praveen Kumar
+- Pravin Kumar
+- Punit Kumar
+- R. C. Gupta
+- R. K. Sharma
+- R. P. Singh
+- Rachit Mohan
+- Rahul Kumar
+- Rajeev Kumar
+- Rajesh Kumar
+- Raman Kumar
+- Ravi Kumar
+- Rohit Kumar
+- S. C. Jain
+- S. K. Gupta
+- S. L. Jain
+- Sajid Ali
+- Saksham Sharma
+- Sandeep Kumar
+- Sanjeev Kumar
+- Sanjiv Kumar
+- Santosh Kumar
+- Sarat Kumar
+- Saurabh Kumar
+- Shailendra Kumar
+- Shashi Kant
+- Shiv Kumar
+- Shruti Gupta
+- Sourabh Kumar
+- Subhash Kumar
+- Sumeet Kumar
+- Sunil Kumar
+- Surendra Kumar
+- T. K. Sharma
+- Tarun Kumar
+- Ujjwal Kumar
+- V. K. Goyal
+- Vipin Kumar
+- Vivek Kumar
+- Y. P. Singh
 
 Indian Institute of Technology Jodhpur:
-- Sandeep Shukla
-- Arvind Kumar
-- Krishnakant Singh
-- Ritu Rani
-- Bijay Singh
-- Uday Shanker Dixit
-- Pallavi Katiyar
-- Sushil Kumar
-- Tirthankar Ghosh
-- Sarit Kumar Das
-- Manish Mathur
-- Tanmoy Das
-- Neeraj Gupta
-- Sandeep Kumar
-- Shashi Bhushan
-- Vijayendra Singh
-- Sanchit Misra
-- Sachchidanand Singh
-- Sanjay Kumar
-- Pramod Kumar
-- Ranjan Kumar Mandal
-- Akshay Dvivedi
-- Sai Siva Gorthi
-- Abhinav Verma
-- Priyanka Sharma
-- Neeraj Gautam
-- Rahul Jain
-- Sumanta Halder
-- Taniya Mishra
-- Archana Tiwari
-- Banibrata Maity
-- Punit Jain
-- Sourav Mukhopadhyay
-- Lalitesh Gaurav
-- Amit Goyal
-- Shwetali Verma
-- Subrata Debbarma
-- Vivek Kumar
-- Aniket Kate
-- Akash Kumar
-- Rohitash Chandra
-- Pallavi Katiyar
-- Ajay Karakoti
-- Prakriti Tayal
-- Saptarshi Banerjee
-- Manish Kumar
-- Vivek Krishan Sharma
-- Amit Singla
-- Namit Kumar Singh
-- Akash Rastogi
-- Lavanya Ramya Gorantla
-- Debi Prasad Sahu
-- Amit Kumar
-- Ravindra Pratap Singh
-- Suman Dash
-- Jyoti Prakash Singh
-- Arnab Chatterjee
-- Sanjay Kumar Sharma
-- Sunit Kumar
-- Ashwani Gupta
-- Vaibhav Khanna
-- Anirban Banerjee
-- Apurba Banerjee
-- Amit Kumar
-- Srinath Srinivasa
-- Vinay Kumar
-- Abhimanyu Singh Bhati
-- K. G. Chandrakant
-- Gaurav Srivastava
-- Palash Dey
-- Jayakrishnan Nair
-- Ramkumar Ramasamy
-- Sumana Sharma
-- Abhishek Verma
-- Ashish Ranjan
-- Tirthankar Ray Chaudhuri
-- Sathyanadan Eswaran
 - A. N. Jayanthi
-- Dinesh Kumar
-- Nishchay Jain
-- Surya Narayan Patro
-- Shuchi Gupta
-- Nagarajan Umamaheswaran
-- Amit Kumar Verma
-- Debashis Dash
-- T. Aditya Radhakrishnan
-- Tapas Chandra
-- Basanta Kumar Nayak
-- Maneesh Gupta
-- Debasis Mitra
-- Vijay Singh
-- Shilpa Suneja
-- Gaurav Trivedi
-- P. N. Nagarajan
-- V. C. K. Sharma
-- Amit Srivastava
-- Sreejith Vijayakumar
-- Sudhir Kumar
-- Gaurav Kumar
-- Sreejith Vijayaraghavan
-- Rajanish Bharti
-- Ranjit Kumar
-- Pranay Ranjan
-- Arunima Gupta
-- Alok Kumar Sharma
-- Amit Kumar Sharma
-- Ritu Garg
+- Abhimanyu Singh Bhati
+- Abhinav Verma
 - Abhishek Goyal
-- Suvadeep Banerjee
-- Tanaya Sahoo
-- Vivek Patel
-- Vishal Sachdeva
-- Ayan Chattopadhyay
-- Rituparna Ghosh
-- Sahil Agrawal
-- Swati Anand
-- M. S. Moni
+- Abhishek Verma
+- Ajay Karakoti
+- Akash Kumar
+- Akash Rastogi
+- Akshay Dvivedi
+- Alok Kumar Sharma
+- Amit Goyal
+- Amit Kumar
+- Amit Kumar Sharma
+- Amit Kumar Verma
+- Amit Singla
+- Amit Srivastava
+- Aniket Kate
+- Anirban Banerjee
 - Apala Lahiri
+- Apurba Banerjee
+- Archana Tiwari
+- Arnab Chatterjee
+- Arunima Gupta
+- Ashwani Gupta
+- Ayan Chattopadhyay
+- Banibrata Maity
+- Basanta Kumar Nayak
+- Bijay Singh
 - Biraja Ranjan Jena
+- Debashis Dash
+- Debi Prasad Sahu
+- Dinesh Kumar
+- Gaurav Kumar
+- Gaurav Srivastava
+- Gaurav Trivedi
+- Jayakrishnan Nair
+- K. G. Chandrakant
+- Krishnakant Singh
+- Lalitesh Gaurav
+- Lavanya Ramya Gorantla
+- M. S. Moni
+- Maneesh Gupta
+- Manish Mathur
+- Nagarajan Umamaheswaran
+- Namit Kumar Singh
+- Neeraj Gautam
+- Neeraj Gupta
+- Nishchay Jain
+- P. N. Nagarajan
+- Palash Dey
+- Pallavi Katiyar
+- Prakriti Tayal
+- Pramod Kumar
+- Pranay Ranjan
+- Priyanka Sharma
+- Punit Jain
+- Rahul Jain
+- Rajanish Bharti
+- Ramkumar Ramasamy
+- Ranjan Kumar Mandal
+- Ranjit Kumar
+- Ravindra Pratap Singh
+- Ritu Garg
+- Ritu Rani
+- Rituparna Ghosh
+- Sachchidanand Singh
+- Sahil Agrawal
+- Sai Siva Gorthi
+- Sanchit Misra
+- Sandeep Shukla
+- Sanjay Kumar Sharma
+- Saptarshi Banerjee
+- Sarit Kumar Das
+- Sathyanadan Eswaran
+- Shashi Bhushan
+- Shilpa Suneja
+- Shuchi Gupta
+- Shwetali Verma
+- Sreejith Vijayakumar
+- Sreejith Vijayaraghavan
+- Srinath Srinivasa
+- Subrata Debbarma
+- Suman Dash
+- Sumana Sharma
+- Sumanta Halder
+- Sunit Kumar
 - Supriya Khosla
+- Surya Narayan Patro
+- Sushil Kumar
+- Suvadeep Banerjee
+- Swati Anand
+- T. Aditya Radhakrishnan
+- Tanaya Sahoo
+- Taniya Mishra
+- Tapas Chandra
+- Tirthankar Ghosh
+- Tirthankar Ray Chaudhuri
+- Uday Shanker Dixit
+- V. C. K. Sharma
+- Vaibhav Khanna
+- Vijay Singh
+- Vijayendra Singh
 - Vinay Sharma
+- Vishal Sachdeva
+- Vivek Krishan Sharma
+- Vivek Patel
 
 Thapar Institute of Engineering and Technology (Deemed-to-be-university):
-- S. S. Agrawal
-- Pardeep Kumar
-- Amandeep Singh
-- Inderpreet Singh
-- Shikha Mahajan
-- Rajesh Bagga
-- Neelam Sharma
-- Sunita Singh
-- Seema Gupta
-- Mamta Sachdeva
-- Shikha Nanda
-- Ritu Singla
-- Renu Sharma
-- Preeti Singla
-- Monika Singh
-- Manpreet Kaur
-- Jasmeet Kaur
-- Gurpreet Kaur
-- Anju Bala
 - Alka Arora
-- Anjana Chaudhary
-- Anju Kumari
 - Anita Rani
+- Anjana Chaudhary
+- Anju Bala
+- Anju Kumari
+- Gurpreet Kaur
+- Inderpreet Singh
+- Jasmeet Kaur
+- Mamta Sachdeva
+- Manpreet Kaur
+- Monika Singh
+- Pardeep Kumar
+- Preeti Singla
+- Rajesh Bagga
+- Renu Sharma
+- Ritu Singla
+- S. S. Agrawal
+- Seema Gupta
+- Shikha Mahajan
+- Shikha Nanda
+- Sunita Singh
 
 Amity University:
 - Dr. Alka Singh
@@ -2063,8 +1950,8 @@ Amity University:
 - Dr. Bhavana Dixit
 - Dr. Brijesh Kumar
 - Dr. Charu Sharma
-- Dr. Deepesh Gupta
 - Dr. Deepak Gupta
+- Dr. Deepesh Gupta
 - Dr. Devendra Singh
 - Dr. Dheeraj Kumar
 - Dr. Divya Gupta
@@ -2115,8 +2002,8 @@ Amity University:
 - Dr. Shivani Gupta
 - Dr. Shobha Gupta
 - Dr. Shweta Gupta
-- Dr. Sonu Gupta
 - Dr. Sonia Gupta
+- Dr. Sonu Gupta
 - Dr. Sourabh Gupta
 - Dr. Subhash Kumar
 - Dr. Sudhir Gupta
@@ -2148,68 +2035,53 @@ Indian Institute of Technology Mandi:
 - Chetan Arora
 - Debasish Kundu
 - Devender Singh
-- Dheeraj Sanghi
 - Dipti Prakash
-- Gaurav Goel
 - Himanshu Jain
-- Indrajit Chakrabarti
 - Indu Bala
 - Jayashankar Swaminathan
 - Joy Sen
 - Kalidas Muthukumar
-- Kshitij Gupta
 - Kunal Jain
 - Manish Shrivastava
 - Mohan Singh
 - Nabin K. Tiwari
-- Neelam Sharma
 - Nitin Upadhyay
 - Pankaj Biswas
 - Partha Roy
 - Prashant Gupta
-- Prashant Kumar
 - Purnendu Das
 - Raghuvir Singh
-- Rajeev Kumar
 - Rajesh Singh
 - Ranjan Kumar
 - Ravindra Pal Singh
-- Rohit Sharma
 - Rupesh Kumar
 - Samrat Pal
 - Sandeep Kumar Singh
 - Sanjay Ghosh
 - Sarit K. Das
 - Satyajit Banerjee
-- Shailesh Kumar
 - Shashank Shekhar
 - Shekhar Tripathi
 - Shobhit Gupta
 - Soumajit Basu
 - Subhashish Dey
-- Sugata Sanyal
 - Sujit Jha
 - Supriyo Chakraborty
 - Suresh P. Rao
 - Tanujit Dey
 - Tilak Raj
-- Udayan Guha
 - Vinay Vyas
 - Vishal Bhatnagar
-- Vivek Kumar
 - Yogesh Gautam
 
 Chandigarh University:
 - Amarpal Singh
-- Ashok Kumar
 - Avtar Singh
 - Baljit Singh
 - Bhupinder Singh
-- Deepak Kumar
 - Dhiraj Kumar
 - Gurpreet Singh
 - Hardeep Singh
-- Inderpreet Singh
 - Jagdeep Singh
 - Jaspal Singh
 - Jaswinder Singh
@@ -2218,53 +2090,44 @@ Chandigarh University:
 - Mandeep Singh
 - Navdeep Singh
 - Pardeep Singh
-- Ramesh Singh
 - Ravinder Singh
-- Sandeep Singh
 - Sarabjit Singh
 - Surinder Singh
 - Tarsem Singh
-- Vikas Kumar
-- Vinod Kumar
 - Yadwinder Singh
 
 Aligarh Muslim University:
-- Zafarul Islam Khan
-- Sulaiman Nadvi
-- Mohamed Habib
 - Aijazuddin Ahmad
-- Shafique Ali Khan
 - Ali Muhammad Khan
+- Ikram Ahmed
+- Mohamed Habib
+- Muhammad Mujeeb
+- Shafique Ali Khan
+- Sulaiman Nadvi
 - Syed Abid Husain
 - Syed Vahiduddin
-- Muhammad Mujeeb
-- Ikram Ahmed
+- Zafarul Islam Khan
 
 Indian Institute of Technology Patna:
-- S. M. K. Kazmi
-- Sourav Pal
+- Abhijit Chakrabarti
+- Anindya Sarkar
+- Arnab Ghosh
+- Bhanu Pratap Singh
+- Debarshi Sarkar
+- Debashis Dutta
+- Hemant Kumar
+- M. K. Jaiswal
 - Manish Gupta
 - Md. Altaf
-- Arnab Ghosh
-- M. K. Jaiswal
-- Hemant Kumar
-- Abhijit Chakrabarti
-- Debashis Dutta
-- Pawan Kumar
-- Preeti Ranjan
-- Bhanu Pratap Singh
 - Pradeep K. Mishra
-- Debarshi Sarkar
-- Anindya Sarkar
-- Satyajit Banerjee
-- Subhamoy Maitra
+- S. M. K. Kazmi
 - Sourav Sahay
+- Subhamoy Maitra
 - Sumanta Sarkar
 - Tanima Dutta
 - Tanmoy Sarkar
 - Tapas Kumar Das
 - Ujjawal Sinha
-- Vikas Kumar
 - Vivek Kumar Mishra
 - Waman Tiwari
 - Y. S. Mayya
@@ -2289,43 +2152,40 @@ Koneru Lakshmaiah Education Foundation University (K L College of Engineering):
 - Dr. V. N. Sarma
 
 Kalasalingam Academy of Research and Education:
+- Dr. A. Sakthivel
+- Dr. A. Saravanan
+- Dr. G. Ramakrishnan
+- Dr. G. Sivasankaran
+- Dr. K. Esakkirajan
+- Dr. K. Kanagaraj
+- Dr. K. Prabakaran
+- Dr. M. Balakrishnan
 - Dr. M. Karunakaran
+- Dr. M. Saravanakumar
+- Dr. M. Thangavel
+- Dr. N. Rajesh
+- Dr. P. Karthikeyan
+- Dr. P. Vasanthakumari
+- Dr. S. Jayakumar
+- Dr. S. Jothiprakash
+- Dr. S. Kanmani
+- Dr. S. Karunakar
 - Dr. S. Murugaiyan
 - Dr. T. Senthilkumar
-- Dr. K. Kanagaraj
-- Dr. M. Saravanakumar
-- Dr. P. Vasanthakumari
-- Dr. S. Kanmani
-- Dr. G. Ramakrishnan
-- Dr. A. Sakthivel
-- Dr. G. Sivasankaran
-- Dr. A. Saravanan
-- Dr. M. Thangavel
-- Dr. K. Esakkirajan
-- Dr. N. Rajesh
-- Dr. M. Balakrishnan
-- Dr. P. Karthikeyan
-- Dr. S. Jayakumar
-- Dr. K. Prabakaran
-- Dr. S. Jothiprakash
-- Dr. S. Karunakar
 
 Kalinga Institute of Industrial Technology:
+-
 - Ajit K. Chaturvedi
 - Amit Garg
-- Amit Kumar
 - Amit Kumar Yadav
 - Ananth K. Rao
 - Anil Kumar
 - Anil Kumar Panda
 - Anita Singh
-- Anju Kumari
 - Anoop Kumar
 - Anthony Macedo
 - Archana Achary
 - Arindam Roy
-- Arun Kumar
-- Arunava Goswami
 - Ashish K. Garg
 - Ashish K. Pandey
 - Ashutosh Kumar
@@ -2346,21 +2206,20 @@ Kalinga Institute of Industrial Technology:
 - Bodh Ram
 - Brahmeshwar Mishra
 - Buddh Singh
-- Chandra Sekhar Sahoo
 - Chandi Prasad Singh
+- Chandra Sekhar Sahoo
 - D. Das
+- Debashis Kar
+- Debashis Santra
 - Debasis Bhattacharya
 - Debasis Dash
 - Debasis Nayak
-- Debashis Kar
-- Debashis Santra
 - Debendranath Sahoo
 - Deep Kumar
 - Deepti Ranjan Sahu
 - Dharmender Kumar
 - Dipak Kumar
 - Dipayan Paul
-- Dipti Ranjan Sahu
 - Dipti Ranjan Sahu
 - Divakar Mishra
 - Divyani Mohan
@@ -2371,10 +2230,10 @@ Kalinga Institute of Industrial Technology:
 - F. M. Prathibha
 - G. P. Mishra
 - Gaganjot Kaur
-- Ganesh Kumbhar
 - Ganesh Kumar
 - Ganesh Kumar Das
 - Ganesh Kumar Patro
+- Ganesh Kumbhar
 - Gautam K. Das
 - Geeta Mahapatra
 - Geetanjali Panda
@@ -2385,16 +2244,14 @@ Kalinga Institute of Industrial Technology:
 - H. Mohanan
 - H. S. Bhadoria
 - Haradhan Sahoo
-- Haradhan Sahoo
 - Hari Mohan
 - Hari Mohan Mohapatra
-- Hemant Kumar
 - Hemant Kumar Jena
 - Himanshu Mishra
 - Himanshu Shekhar
 - Indrajit Ray
-- Indranil Ghosh
 - Indrani Sarkar
+- Indranil Ghosh
 - Ishwar Prasad
 - J. K. Nayak
 - J. S. Sekhon
@@ -2406,7 +2263,6 @@ Kalinga Institute of Industrial Technology:
 - Janaki Ram Mohanty
 - Jayashree Mohapatra
 - Jaydev Nayak
-- Jitendra Kumar
 - Jitendra Nath Panda
 - Jogen Chandra Mondal
 - Jogesh Chandra Sahu
@@ -2419,7 +2275,6 @@ Kalinga Institute of Industrial Technology:
 - K. P. Sahu
 - K. S. Rao
 - Kalyan Kumar
-- Kalyan Kumar Das
 - Kamal Kumar
 - Kamal Kumar Behera
 - Kamalakanta Mahapatra
@@ -2438,7 +2293,6 @@ Kalinga Institute of Industrial Technology:
 - Krupasindhu Panda
 - Kuldip Singh
 - L. K. Sahu
-- Lalit Kumar
 - Laxman Sahoo
 - Laxmidhar Behera
 - Laxmidhar Sahoo
@@ -2450,20 +2304,17 @@ Kalinga Institute of Industrial Technology:
 - M. M. Panda
 - M. P. Singh
 - M. R. Mohanty
-- Maheswar Nayak
 - Mahesh Kumar
 - Mahesh Kumar Mishra
 - Mahesh Kumar Sahu
 - Maheshwari Sahu
+- Maheswar Nayak
 - Mamata Sahoo
 - Mamta Kumari
 - Manash Ranjan Das
-- Manish Kumar
-- Manish Kumar
 - Manish Kumar Mishra
 - Manjul Kumar
 - Manmohan
-- Manoj Kumar
 - Manoj Kumar
 - Manoj Kumar Garg
 - Manoj Kumar Panda
@@ -2473,11 +2324,10 @@ Kalinga Institute of Industrial Technology:
 - Manoranjan Mishra
 - Manoranjan Nayak
 - Manoranjan Panda
-- Manoranjan Sahu
 - Manoranjan Sahoo
+- Manoranjan Sahu
 - Manu Sharma
 - Mausam Kumar
-- Mayank Kumar
 - Mayank Kumar
 - Mayank Kumar Pandey
 - Meera Gopal
@@ -2487,9 +2337,6 @@ Kalinga Institute of Industrial Technology:
 - Mithun Saha
 - Mrinal Kanti Deb
 - Mruthyunjaya T. H.
-- Mukesh Kumar
-- Mukesh Kumar
-- Mukesh Kumar
 - Mukesh Kumar Yadav
 - N. C. Sahu
 - N. C. Sarma
@@ -2497,10 +2344,6 @@ Kalinga Institute of Industrial Technology:
 - N. R. Garimella
 - N. S. Sahu
 - Naga Raju
-- Naresh Kumar
-- Naresh Kumar
-- Naresh Kumar
-- Narendra Kumar
 - Niladri Sekhar Satpathy
 - Nimisha Dash
 - Nishikant Modi
@@ -2512,8 +2355,8 @@ Kalinga Institute of Industrial Technology:
 - P. K. Kundu
 - P. K. Mohanty
 - P. K. Panda
-- P. K. Sahu
 - P. K. Sahoo
+- P. K. Sahu
 - P. M. Behera
 - P. N. Sahu
 - P. R. Pani
@@ -2522,17 +2365,10 @@ Kalinga Institute of Industrial Technology:
 - Pallabi Das
 - Pallabi Mishra
 - Pallavi Mahapatra
-- Pankaj Kumar
-- Pankaj Kumar
-- Pankaj Kumar
-- Pankaj Kumar
-- Pankaj Kumar
-- Pankaj Kumar
 - Papori Das
 - Parag Sharma
 - Parameshwar Mishra
 - Parameswar Sahoo
-- Partha Pratim Das
 - Partha Pratim Panigrahy
 - Partha Sarathi Sahoo
 - Parul Singh
@@ -2540,115 +2376,29 @@ Kalinga Institute of Industrial Technology:
 - Patan Behera
 - Patit Paban Das
 - Paulomi Banerjee
-- Pradeep Kumar
-- Pradeep Kumar
-- Pradeep Kumar
-- Pradeep Kumar
-- Pradeep Kumar
-- Pradeep Kumar
 - Pradeep Kumar Panda
 - Pradip Kumar
-- Pradip Kumar
-- Pradip Kumar Dash
 - Pradip Kumar Dash
 - Pradip Kumar Jena
 - Pradip Kumar Nayak
 - Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar
-- Prakash Kumar Sahu
-- Prashant Kumar
-- Prashant Kumar
-- Prashant Kumar
-- Prashant Kumar
-- Prashant Kumar
-- Prashant Kumar
-- Prashant Kumar Mishra
-- Prashant Kumar Panda
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashanta Kumar
-- Prashant Kumar
-- Prashanta Kumari
-- Prashant Kumar
-- Prashanta Kumar Panda
-- Prashant Kumar Patnaik
-- Prashant Kumar Sahoo
-- Prashanta Kumar Sahu
 - Prakash Kumar Nayak
 - Prakash Kumar Panda
 - Prakash Kumar Sahu
 - Prakash Kumar Singh
 - Prakash Kumar Yadav
+- Prashant Kumar Mishra
+- Prashant Kumar Panda
+- Prashant Kumar Patnaik
+- Prashant Kumar Sahoo
+- Prashanta Kumar
+- Prashanta Kumar Panda
+- Prashanta Kumar Sahu
+- Prashanta Kumari
 - Pratap Chandra Rout
 - Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratap Kumar
-- Pratigya Patnaik
 - Pratibha Kumari
+- Pratigya Patnaik
 - Preeti Kumari
 - Priyadarshi Dalai
 - Priyadarshi Mohapatra
@@ -2656,24 +2406,23 @@ Kalinga Institute of Industrial Technology:
 - Priyanath Mohapatra
 - Priyanka Kumari
 - Priyanka Mahapatra
--
 
 Shanmugha Arts Science Technology and Research Academy:
+- Dr. D. Ravikumar
+- Dr. K. Manoharan
+- Dr. K. Murugesan
+- Dr. K. Sathishkumar
+- Dr. P. Punniyamurthi
+- Dr. R. Jeyakumar
+- Dr. R. Punniyamurthi
+- Dr. R. Ramesh
 - Dr. R. Saravanakumar
+- Dr. R. Sathishkumar
+- Dr. R. Sivakumar
 - Dr. S. Nagarajan
 - Dr. S. Ravichandran
-- Dr. R. Jeyakumar
-- Dr. R. Sathishkumar
-- Dr. P. Punniyamurthi
 - Dr. T. Manoharan
-- Dr. K. Murugesan
-- Dr. R. Sivakumar
-- Dr. R. Ramesh
-- Dr. K. Manoharan
 - Dr. T. Murugesan
-- Dr. D. Ravikumar
-- Dr. K. Sathishkumar
-- Dr. R. Punniyamurthi
 
 Visvesvaraya National Institute of Technology Nagpur:
 - Prof. Abhijeet S. Deshpande
@@ -2683,9 +2432,9 @@ Visvesvaraya National Institute of Technology Nagpur:
 - Prof. Amarendra K. Panda
 - Prof. Amit K. Dewangan
 - Prof. Amit P. Mishra
-- Prof. Aniruddha G. Marathe
 - Prof. Anil B. Pandit
 - Prof. Anil P. Kadam
+- Prof. Aniruddha G. Marathe
 - Prof. Anjan K. Dawande
 - Prof. Anoop Kumar
 - Prof. Anu Mahajan
@@ -2707,8 +2456,8 @@ Visvesvaraya National Institute of Technology Nagpur:
 - Prof. C. P. Kale
 - Prof. Carlos Rivera
 - Prof. Carolyne A. F. Almeida
-- Prof. Chandradeep B. Bhartiya
 - Prof. Chandi M. Verma
+- Prof. Chandradeep B. Bhartiya
 - Prof. Charudatta R. Pawar
 - Prof. Chhagan Lal
 - Prof. D. N. Gaikwad
@@ -2750,7 +2499,6 @@ Visvesvaraya National Institute of Technology Nagpur:
 
 National Institute of Technology Silchar:
 - Abhijeet Kumar
-- Abhishek Verma
 - Achyutananda Jana
 - Ajay Kumar
 - Ajay Kumar Maurya
@@ -2758,10 +2506,8 @@ National Institute of Technology Silchar:
 - Amitabh Ranjan
 - Anupam Dutta
 - Archana Sharma
-- Arindam Dey
 - Arup Bhattacharya
 - Atul Sharma
-- Biswajit Das
 - Biswajit Saha
 - Dambarudhar Patra
 - Debasish Bhattacharya
@@ -2777,16 +2523,14 @@ National Institute of Technology Silchar:
 - Kanchan Borah
 - Kangkan Bhattacharjee
 - Kingshuk Deka
-- Manish Jain
 - Manas Bhattacharjee
+- Manas Prativa Dutta
 - Manash Chutia
 - Manashjyoti Das
 - Manjunatha B.S.
-- Manas Prativa Dutta
 - Mayur S. Kulkarni
-- Nilanjan Das
 - Nilakshi Bhattacharjee
-- Partha Pratim Das
+- Nilanjan Das
 - Pradip Kumar Singh
 - Pranab Kumar Ghosh
 - Prasanta Ghosh
@@ -2824,35 +2568,33 @@ National Institute of Technology Silchar:
 - Tushar Kanti Bhattacharjee
 - Uttiya Bhattacharya
 - V.K. Singh
-- Vivek Pathak
 - Y.R. Yadav
 
 Institute of Chemical Technology:
-- Ravi Kumar
-- Srijit Bhattacharyya
+- Amit Harale
+- Ashish Lele
+- B. P. Lade
+- Dipen Shah
 - H. P. Sawai
+- K. J. Pillai
+- M. Subramanian
+- Niket Kalansuriya
+- P. C. Jha
+- P. N. Saraf
+- P. R. Gogate
 - Prakash Randive
 - R. S. Waghmare
-- Niket Kalansuriya
-- P. R. Gogate
-- Ashish Lele
-- U. S. Sridhar
-- Amit Harale
-- P. C. Jha
-- M. Subramanian
-- K. J. Pillai
-- Dipen Shah
-- U. P. Mulik
-- B. P. Lade
+- Ravi Kumar
 - S. D. Kulkarni
 - S. N. Sapkal
-- P. N. Saraf
+- Srijit Bhattacharyya
+- U. P. Mulik
+- U. S. Sridhar
 
 UPES:
-- Ravi Shankar
 - Alok Prakash
-- Archana Singh
 - Amitabh Tripathi
+- Archana Singh
 - Ashish Singh
 - Ashutosh Pandey
 - Atulya Deshpande
@@ -2873,211 +2615,185 @@ UPES:
 - M.K. Jha
 - Madhu Trivedi
 - Mahendra Nath
-- Manish Jain
-- Mukesh Kumar
 - Naresh Chandra
 - P.K. Gupta
 - P.P. Singh
-- Pradeep Kumar
-- Pramod Kumar
-- Rakesh Kumar
 - Rakesh Pandey
 - Rakesh Singh
 - Ram Chandra
 - Ram Prakash
-- Ranjan Kumar
-- Ravindra Kumar
-- Ravi Prakash
+- Ravi Shankar
 - Reetu Kala
 - Rita Ahuja
-- Rohit Sharma
-- Sachin Kumar
-- Sanjay Kumar
-- Santosh Kumar
 - Saurabh Jain
 - Shalini Singh
 - Shashikant Mishra
 - Shiv Kumar
 - Shyam Kumar
 - Sudama Singh
-- Suresh Kumar
 - T.P. Sharma
 - Teerath Kumar
-- Umesh Kumar
 - Vandana Singh
-- Vikas Kumar
-- Vijay Kumar
-- Vishal Kumar
-- Yogesh Sharma
 
 Malaviya National Institute of Technology:
+- A. K. Agarwal
+- A. K. Sharma
+- A. K. Singh
+- A. K. Suresh
+- A. K. Tiwari
 - C. K. Jha
+- D. K. Sharma
+- D. K. Singh
 - K. K. Paliwal
 - M. M. Pant
-- S. N. Pandey
-- R. K. Gupta
-- V. K. Katiyar
 - N. K. Agrawal
-- S. K. Agrawal
-- A. K. Suresh
-- D. K. Sharma
-- P. K. Jain
-- A. K. Agarwal
-- S. K. Dubey
-- S. K. Suman
-- S. K. Singh
-- R. K. Singh
 - P. K. Singh
-- A. K. Singh
-- D. K. Singh
-- V. K. Singh
+- R. K. Gupta
 - R. K. Sharma
-- A. K. Sharma
-- S. K. Sharma
+- R. K. Singh
 - R. K. Tiwari
-- A. K. Tiwari
+- S. K. Agrawal
+- S. K. Dubey
+- S. K. Sharma
+- S. K. Singh
+- S. K. Suman
 - S. K. Tiwari
+- S. N. Pandey
+- V. K. Katiyar
+- V. K. Singh
 - V. K. Tiwari
 
 National Institute of Technology Durgapur:
-- Siddhartha Bhattacharya
-- Santanu Bhattacharya
-- Anindya Biswas
-- Kalpana Borse
-- Sukanta Chaudhuri
-- Rajib Chowdhury
-- Alok Das
-- Parthasarathi Das
-- Partha Pratim Das
-- Debjani Datta
-- Amitava Dey
-- Swarup Dey
-- Anupam Dutta
-- Swarnava Ghosh
-- Susmita Goswami
-- Debabrata Goswami
-- Somnath Gupta
-- Aniruddha Haldar
-- Ajay Kumar Jana
-- Soumen Kumar Jana
-- Sayan Kar
-- Utpal Kumar
-- Rupa Kumar
-- Bidyut Kumar
-- Prasenjit Kumar
-- Arun Kumar Maity
-- Dinesh Kumar Maity
-- Hemanta Kumar Maiti
-- Nilanjan Maiti
-- Prasanta Kumar Mandal
-- Nirmal Kumar Mishra
-- Vinod Kumar Mishra
-- Joydeep Mitra
-- Jayeeta Mitra
-- Akhilendu Mukherjee
-- Soumitra Mukherjee
-- Subhabrata Mukhopadhyay
-- Tanmoy Mukherjee
-- Indranil Nag
-- Ranjit Kumar Pal
-- Suddhendu Patranabis
-- Anirban Patra
-- Goutam Patra
-- Prosenjit Patra
-- Jayanta Kumar Ray
-- Ananta Sadhu
-- Sourav Saha
 - Abhijit Sarkar
-- Sudebendu Sarkar
-- Biswadip Satpati
-- Indrajit Sen
-- Subimal Sen
-- Tapas Kumar Sham
+- Ajay Kumar Jana
+- Akhilendu Mukherjee
+- Alok Das
 - Amitabha Sinha
-- Dipankar Sinha
+- Amitava Dey
+- Ananta Sadhu
+- Anindya Biswas
+- Anirban Patra
+- Aniruddha Haldar
 - Arnab Sinha Roy
+- Arun Kumar Maity
 - Asish Sural
-- Indranil Talapatra
-- Debasis Tripathi
+- Bidyut Kumar
+- Biswadip Satpati
 - Buddhadeb Upadhyaya
+- Debabrata Goswami
+- Debasis Tripathi
+- Debjani Datta
+- Dinesh Kumar Maity
+- Dipankar Sinha
+- Goutam Patra
+- Hemanta Kumar Maiti
+- Indrajit Sen
+- Indranil Nag
+- Indranil Talapatra
+- Jayanta Kumar Ray
+- Jayeeta Mitra
+- Joydeep Mitra
+- Kalpana Borse
+- Nilanjan Maiti
+- Nirmal Kumar Mishra
+- Parthasarathi Das
+- Prasanta Kumar Mandal
+- Prasenjit Kumar
+- Prosenjit Patra
+- Rajib Chowdhury
+- Ranjit Kumar Pal
+- Rupa Kumar
+- Sayan Kar
+- Somnath Gupta
+- Soumen Kumar Jana
+- Soumitra Mukherjee
+- Sourav Saha
+- Subhabrata Mukhopadhyay
+- Subimal Sen
+- Suddhendu Patranabis
+- Sudebendu Sarkar
+- Sukanta Chaudhuri
+- Susmita Goswami
+- Swarnava Ghosh
+- Swarup Dey
+- Tanmoy Mukherjee
+- Tapas Kumar Sham
+- Utpal Kumar
+- Vinod Kumar Mishra
 - Vyacheslav Volkov
 
 National Institute of Technology Delhi:
-- Hemant Kumar
-- Anurag Bhardwaj
-- Sourangsu Banerji
-- Anirban Chakrabarti
-- Kallol Roy
-- Amit Kumar
-- Ruchira Parekh
 - Abhishek Shukla
-- M. Vijaya
-- M. L. Deb
+- Anirban Chakrabarti
+- Anurag Bhardwaj
 - Atul Dubey
-- S. P. Singh
-- J. Srinivasan
-- Emandi Venkata Rao
 - Dhaval Jitendra Shah
-- V. K. Jain
-- Tanmoy Chakraborty
-- Sudhir Ranjan
-- P. V. Rao
+- Emandi Venkata Rao
+- J. Srinivasan
+- Kallol Roy
 - M. K. Mishra
+- M. L. Deb
+- M. Vijaya
+- Ruchira Parekh
 - S. K. Dube
+- S. P. Singh
+- Sourangsu Banerji
+- Sudhir Ranjan
+- V. K. Jain
 
 Sri Sivasubramaniya Nadar College of Engineering:
-* C. S. Shankar
-* P. C. Innocent
-* A. Srinivasan
-* K. Natarajan
-* M. Srinivasan
-* R. Murugesan
-* S. Saravanan
-* S. Balasubramanian
-* S. Soundararajan
-* T. Pradeepkumar
-* T. Venkatesan
-* V. Balasubramanian
-* V. Jayakumar
-* V. Sundar
-* V. Vijayakumar
+- A. Srinivasan
+- C. S. Shankar
+- K. Natarajan
+- M. Srinivasan
+- P. C. Innocent
+- R. Murugesan
+- S. Balasubramanian
+- S. Saravanan
+- S. Soundararajan
+- T. Pradeepkumar
+- T. Venkatesan
+- V. Balasubramanian
+- V. Jayakumar
+- V. Sundar
+- V. Vijayakumar
 
 International Institute of Information Technology Hyderabad:
-* Prof. Ramesh Loganathan
-* Prof. Ashok Joshi
-* Prof. Anoop M. Namboodiri
-* Prof. Kalyanmoy Deb
-* Prof. Amitabha Mukerjee
-* Prof. Rajeev Alur
-* Prof. C. Pandu Rangan
-* Prof. Deepak Khemani
-* Prof. Sreejith Balasubramanian
-* Prof. Amitabha Das
-* Prof. Santanu Chattopadhyay
-* Prof. Srinivas Aluru
-* Prof. Ashish Jajoo
-* Prof. Dipti Srinivasan
-* Prof. Sumeet Dua
-* Prof. B. Ravindran
-* Prof. Suresh Purini
-* Prof. Jateen Agrawal
-* Prof. Ajith Abraham
-* Prof. Prof. Amit P. Sheth
-* Prof. B. Vijayakumar
-* Prof. Meenakshi D'Souza
-* Prof. Madhu Sudan
-* Prof. Umesh Vazirani
-* Prof. David Dobkin
-* Prof. Cynthia Dwork
-* Prof. Kurt Mehlhorn
-* Prof. Jeff Ullman
-* Prof. Michael Rabin
-* Prof. Noga Alon
-* Prof. Avi Wigderson
-* Prof. Leslie Valiant
-* Prof. Terry Winograd
-* Prof. Barbara Liskov
-* Prof. Daniel Jackson
+- Prof. Ajith Abraham
+- Prof. Amitabha Das
+- Prof. Amitabha Mukerjee
+- Prof. Anoop M. Namboodiri
+- Prof. Ashish Jajoo
+- Prof. Ashok Joshi
+- Prof. Avi Wigderson
+- Prof. B. Ravindran
+- Prof. B. Vijayakumar
+- Prof. Barbara Liskov
+- Prof. C. Pandu Rangan
+- Prof. Cynthia Dwork
+- Prof. Daniel Jackson
+- Prof. David Dobkin
+- Prof. Deepak Khemani
+- Prof. Dipti Srinivasan
+- Prof. Jateen Agrawal
+- Prof. Jeff Ullman
+- Prof. Kalyanmoy Deb
+- Prof. Kurt Mehlhorn
+- Prof. Leslie Valiant
+- Prof. Madhu Sudan
+- Prof. Meenakshi D'Souza
+- Prof. Michael Rabin
+- Prof. Noga Alon
+- Prof. Prof. Amit P. Sheth
+- Prof. Rajeev Alur
+- Prof. Ramesh Loganathan
+- Prof. Santanu Chattopadhyay
+- Prof. Sreejith Balasubramanian
+- Prof. Srinivas Aluru
+- Prof. Sumeet Dua
+- Prof. Suresh Purini
+- Prof. Terry Winograd
+- Prof. Umesh Vazirani
 
 Birla Institute of Technology:
 - Anand Mohan
@@ -3093,8 +2809,8 @@ Birla Institute of Technology:
 
 Indian Institute of Engineering Science and Technology, Shibpur:
 - Prof. Arijit De
-- Prof. Biman Bandyopadhyay
 - Prof. Bimal Kumar Bose
+- Prof. Biman Bandyopadhyay
 - Prof. Debapriya Das
 - Prof. Goutam Chattopadhyay
 - Prof. Jayanta Kumar Das
@@ -3114,20 +2830,20 @@ Indian Institute of Engineering Science and Technology, Shibpur:
 - Prof. Viswanath Chakrapani Sharma
 
 Lovely Professional University:
-1. Dr. Monica Gulati
-2. Dr. Sanjay Modi
-3. Dr. Vijay Singh
-4. Dr. Navdeep Singh
-5. Dr. Amitabh Singh
-6. Dr. Sunil Kumar
-7. Dr. Amardeep Singh
-8. Dr. Mandeep Singh
-9. Dr. Jaspreet Singh
-10. Dr. Pardeep Singh
+- 1. Dr. Monica Gulati
+- 10. Dr. Pardeep Singh
+- 2. Dr. Sanjay Modi
+- 3. Dr. Vijay Singh
+- 4. Dr. Navdeep Singh
+- 5. Dr. Amitabh Singh
+- 6. Dr. Sunil Kumar
+- 7. Dr. Amardeep Singh
+- 8. Dr. Mandeep Singh
+- 9. Dr. Jaspreet Singh
 
 Indian Institute of Space Science and Technology:
-- Ashwin Sreekumar
 - A. V. Mohan
+- Ashwin Sreekumar
 - B. K. Chadha
 - C. V. Jawahar
 - D. S. Mehendale
@@ -3151,105 +2867,73 @@ Indian Institute of Space Science and Technology:
 Graphic Era University:
 - Ashutosh Sharma
 - Ashutosh Tandon
-- Chandrashekhar
 - Chander Kumar
+- Chandrashekhar
 - Hari Mohan Vishwakarma
 - Lalit Mohan Dimri
 - Nidhi Sharma
 - Nikhil Pradhan
-- Pankaj Kumar
 - Parul Chauhan
 - Rajnish Sharma
 - Ritu Gupta
 - Sarvesh Agrawal
 - Saurabh Saxena
-- Shailesh Kumar
 - Simmi Singhal
-- Sunil Kumar
-- Surendra Kumar
 - Tarun Jain
 - Udit Agarwal
 - Ujjwal Sharma
 - Vikas Aggarwal
 - Vikas Chauhan
-- Vipin Kumar
-- Vishal Singh
 - Vivek Sethi
 
 Saveetha Institute of Medical and Technical Sciences:
-- Dr. S. Suresh
-- Dr. S. Ponnusamy
-- Dr. K. Arulmozhi
-- Dr. G. Dinesh
-- Dr. V. Kanimozhi
-- Dr. C. Tamilselvi
-- Dr. A. Kavitha
-- Dr. R. Rajeshkumar
-- Dr. M. Arun Kumar
-- Dr. T. Ganesh
-- Dr. S. Chandrasekaran
-- Dr. R. Vinoth
-- Dr. S. Jayakumar
-- Dr. A. Arun
-- Dr. K. Mohan
-- Dr. R. Thiyagarajan
-- Dr. M. Panneerselvam
-- Dr. S. Saravanan
-- Dr. A.R. Usha
-- Dr. S. Vanaja
-- Dr. R. Meenakshi
-- Dr. J. Kanaga Jothi
-- Dr. P. Sathishkumar
-- Dr. S. Ramesh
 - Dr. A. Arulraj
-- Dr. R. Saravanakumar
-- Dr. S. Umamaheswaran
+- Dr. A. Arun
+- Dr. A. Kavitha
+- Dr. A.R. Usha
+- Dr. C. Tamilselvi
+- Dr. G. Dinesh
+- Dr. J. Kanaga Jothi
+- Dr. K. Arulmozhi
+- Dr. K. Mohan
+- Dr. M. Arun Kumar
 - Dr. M. Ilavarasan
+- Dr. M. Panneerselvam
 - Dr. M.S. Shanmugam
+- Dr. P. Sathishkumar
+- Dr. R. Meenakshi
+- Dr. R. Rajeshkumar
+- Dr. R. Thiyagarajan
+- Dr. R. Vinoth
+- Dr. S. Chandrasekaran
+- Dr. S. Ponnusamy
+- Dr. S. Ramesh
+- Dr. S. Saravanan
+- Dr. S. Suresh
+- Dr. S. Umamaheswaran
+- Dr. S. Vanaja
 - Dr. S.D. Sivakumar
+- Dr. T. Ganesh
+- Dr. V. Kanimozhi
 
 Indian Institute of Technology Bhubaneswar:
-- Rajendra Prasad Padhy
-- Sujit Kumar Bisoyi
-- Sangram Keshari Mohapatra
-- Siva Prasad Sahoo
-- Sandeep Kumar Rout
-- Sudarshan Rout
-- Md Sarifuddin
-- Gopal Krishna Dash
-- Barsha Mishra
-- Siba Sankar Mahapatra
-- Pradyumn Kumar Sahoo
-- Chittaranjan Pradhan
-- Debi Prasanna Dash
-- Niranjan Sahoo
-- Ashok Kumar Panda
-- Sasmita Bose
-- Akash Kumar Sahoo
-- Biswa Ranjan Rout
-- Sasmita Mishra
 - Abhijit Dash
-- Bibhu Prasad Sahu
-- Saurabh Singh Kushwaha
+- Akash Kumar Sahoo
+- Ashok Kumar Panda
+- Barsha Mishra
 - Bholanath Sahoo
-- Rajendra Prasad Swain
+- Bibhu Prasad Sahu
+- Biswa Ranjan Rout
 - Brunda Mishra
-- Sudipta Saha
-- Sanjay Kumar
-- Sampad Kumar Sahoo
-- Sunil Kumar Singh
-- Snehashis Chattopadhyay
-- Susanta Kumar Pratihar
-- Sujit Kumar Sahoo
-- Sumedha Samantray
-- Swati Ranjan Dash
-- Tathagat Kumar Das
-- Tushar Ranjan Rout
-- Vinayaka Rao Komaragiri
+- Debi Prasanna Dash
 - Dibyendu Chatterjee
+- Gopal Krishna Dash
 - Manish Samal
+- Md Sarifuddin
+- Niranjan Sahoo
 - Pawan Kapur
 - Pradipta Kishore Sahu
+- Pradyumn Kumar Sahoo
 - Pramod Kumar Ray
 - Rajendra Prasad Padhy
 - Rajendra Prasad Swain
@@ -3273,16 +2957,19 @@ Indian Institute of Technology Bhubaneswar:
 - Sachitananda Sahu
 - Sadhana Dash
 - Saikat Das
+- Saikat Kumar Halder
 - Sailesh Keshari
 - Sailesh Kumar Naik
 - Sailesh Kumar Sahu
-- Saikat Kumar Halder
 - Sairuhee Nikhil
 - Saket Kumar Patel
 - Salil Kumar Sahu
 - Samanta Jagat Rath
 - Sameer Kumar Kar
 - Samik Basu
+- Sampad Kumar Sahoo
+- Sandeep Kumar Rout
+- Sangram Keshari Mohapatra
 - Sanjay Kumar Behera
 - Sanjay Kumar Nayak
 - Sanjay Kumar Sahoo
@@ -3293,16 +2980,16 @@ Indian Institute of Technology Bhubaneswar:
 - Sarbeswar Gouda
 - Saroj Kumar Sahoo
 - Sasmita Behera
+- Sasmita Bose
 - Sasmita Das
-- Satish Kumar
+- Sasmita Mishra
 - Satpathy Asok Kumar
 - Satyabrata Jena
-- Saurabh Kumar Kar
 - Saumya Ranjan Nayak
+- Saurabh Kumar Kar
+- Saurabh Singh Kushwaha
 - Seema Mishra
 - Sekhar Chandra Panda
-- Shailesh Kumar
-- Shailendra Kumar
 - Shambhu Nath Sahoo
 - Shankar Lal
 - Shantanu Kumar Behera
@@ -3317,25 +3004,33 @@ Indian Institute of Technology Bhubaneswar:
 - Shreeprakash Pathak
 - Shreyansh Kumar
 - Shyam Sundar Panigrahi
-- Sibasis Mishra
+- Siba Sankar Mahapatra
 - Sibaram Khuntia
+- Sibasis Mishra
 - Siddhartha Das
 - Siddhartha Kumar
+- Siva Prasad Sahoo
+- Snehashis Chattopadhyay
 - Subash Chandra Rout
 - Subash Chandra Sahoo
 - Subhamay Ganguly
 - Subhramita Ghosal
+- Sudarshan Rout
 - Sudhakar Pradhan
 - Sudhir Kumar Jena
 - Sudhir Kumar Sahoo
 - Sudhir Ranjan Das
 - Sudhir Ranjan Sahoo
 - Sujata Dash
+- Sujit Kumar Bisoyi
+- Sujit Kumar Sahoo
 - Sumant Kumar Gupta
 - Sumanta Sekhar Khuntia
+- Sumedha Samantray
 - Sumerita Sharma
 - Sunil Chandra Mohapatra
 - Sunil Kumar Behera
+- Sunil Kumar Singh
 - Sunil Kumar Swain
 - Surajit Das
 - Surendra Kumar Behera
@@ -3349,33 +3044,28 @@ Indian Institute of Technology Bhubaneswar:
 - Syed Aziz Anwar
 - Tapan Kumar Dash
 - Tarun Kumar Sahoo
+- Tathagat Kumar Das
 - Tathagata Saha
 - Tathagata Sarkar
 - Tushar Ranjan Behera
 - Tushar Ranjan Rout
 - Udayanath Nayak
-- Udayanath Nayak
 - Uma Sankar Sahoo
 - Upendra Kumar Sahoo
 - Urmila Lenka
-- Uttam Kumar Sahoo
 - Utkarsh Jain
+- Uttam Kumar Sahoo
 - Vaishali Dixit
 - Vanita Kumari
-- Varun Kumar
 - Venu Madhav
 - Vibhuti Nandan Singh
-- Vijay Kumar
-- Vinay Kumar
+- Vinayaka Rao Komaragiri
 - Vinod Kumar Gupta
 - Vinod Kumar Verma
-- Vishal Kumar
 - Vishal Singla
 - Vishant Goel
 - Vivekanand Sahoo
-- Vivek Kumar
 - Yogesh Gosai
-- Yogesh Kumar
 - Yogesh Kumar Mehta
 - Yogesh Kumar Sahu
 - Yogesh Kumar Verma
@@ -3384,446 +3074,384 @@ Indian Institute of Technology Bhubaneswar:
 
 National Institute of Technology Patna:
 - Abhishek Kumar Singh
-- Rajesh Kumar
-- Vikas Kumar Singh
-- Rahul Kumar
-- Arun Kumar
-- Sandeep Kumar
-- Prakash Kumar
 - Amit Kumar Pandey
-- Santosh Kumar
 - Dilip Kumar
+- Vikas Kumar Singh
 
 Manipal Institute of Technology:
-- Vivek Gopal Baliga
-- Rajender
-- Ajay Gupta
-- M S Narasimhan
-- Avinash Kamalakar
-- C N Babu
-- N Bharath Kumar
-- Sreenivasarao Manam
-- M B Krishna
-- H K Kushal
 - Aicko Narayanan
-- P C Naik
+- Akshata
+- Amitha
+- Amruth
+- Ashutosh
+- Avinash
+- Avinash Kamalakar
+- Bharath
+- C N Babu
+- Deepti
+- Divya
+- H K Kushal
+- H N Narayanan
+- Harish
+- Jayaram
 - K Rajagopal
 - K S Rajan
-- P S Ravindra
-- M Hiremath
-- Umesh T M
-- Vishnu Bhat
-- Amruth
-- Prashanth
-- Shivananda
-- Suresh K M
-- Manjunatha
+- Kailash
 - Lohit
+- M B Krishna
+- M Hiremath
+- M S Narasimhan
+- N Bharath Kumar
+- Neeta Bhandari
+- P C Naik
+- P S Ravindra
+- Pdeep
+- Prashant
+- Prashanth
+- Rajender
+- Ramanand
 - Santhosh
 - Saroj
-- Ramanand
-- H N Narayanan
-- Neeta Bhandari
-- Pdeep
+- Shivananda
 - Siddique
-- Divya
-- Sudhir
-- Prasad
+- Sreenivasarao Manam
 - Sudarshan
-- Amitha
-- Prashant
-- Deepti
-- Harish
+- Sudhir
 - Sunanda
-- Ashutosh
-- Anusha
-- Akshata
-- Avinash
-- Jayaram
-- Bharath
-- Kailash
+- Suresh K M
+- Umesh T M
+- Vishnu Bhat
+- Vivek Gopal Baliga
 
 Netaji Subhas University of Technology (NSUT):
-- Amit K. Jaiswal
-- Anand Mohan
-- Vikas Sindhwani
-- P C Jha
 - Amit Chaturvedi
+- Amit K. Jaiswal
+- P C Jha
+- Vikas Sindhwani
 
 Dr. B R Ambedkar National Institute of Technology Jalandhar:
-- Dr. Kanwardeep Singh
-- Dr. Sandeep Sharma
-- Dr. Navneet Gupta
-- Dr. Vikas Chawla
-- Dr. Deepti Gupta
-- Dr. Monica Sharma
-- Dr. Arun Kumar
-- Dr. Raman Kumar
 - Dr. Amit Kumar
-- Dr. Sanjeev Kumar
-- Dr. Neha Gupta
+- Dr. Arun Kumar
 - Dr. Ashwani Kumar
-- Dr. Rituparna Chakarbarti
-- Dr. Supreet Kaur
-- Dr. Priyanka Sharma
-- Dr. Mandeep Kaur
-- Dr. Harmeet Singh
-- Dr. Kuldeep Singh
-- Dr. Gurpreet Singh
-- Dr. Manish Kumar
-- Dr. Pradeep Kumar
 - Dr. Deepak Kumar
-- Dr. Rajeev Kumar
-- Dr. Vikas Kumar
-- Dr. Manjeet Singh
+- Dr. Deepti Gupta
 - Dr. Gurpreet Kaur
+- Dr. Gurpreet Singh
 - Dr. Harmeet Kaur
+- Dr. Harmeet Singh
+- Dr. Kanwardeep Singh
+- Dr. Kuldeep Singh
 - Dr. Mandeep Kaur
-- Dr. Navdeep Kaur
-- Dr. Surbhi Sharma
-- Dr. Neha Sharma
-- Dr. Priyanka Sharma
-- Dr. Sunaina Sharma
-- Dr. Swati Sharma
-- Dr. Ruchika Sharma
+- Dr. Manish Kumar
 - Dr. Manisha Sharma
+- Dr. Manjeet Singh
+- Dr. Monica Sharma
+- Dr. Navdeep Kaur
+- Dr. Navneet Gupta
+- Dr. Neha Gupta
+- Dr. Priyanka Sharma
 - Dr. Rachna Sharma
+- Dr. Rituparna Chakarbarti
+- Dr. Ruchika Sharma
+- Dr. Sandeep Sharma
+- Dr. Sanjeev Kumar
+- Dr. Sunaina Sharma
+- Dr. Supreet Kaur
+- Dr. Surbhi Sharma
+- Dr. Swati Sharma
+- Dr. Vikas Chawla
+- Dr. Vikas Kumar
 
 Sardar Vallabhbhai National Institute of Technology:
-- Ashwani Kumar
-- D.K. Chaturvedi
-- C.N. Patel
-- B.P. Nandwani
-- Somnath Basu
-- P.P. Rathod
-- V.N. Patel
-- R.B. Shah
-- Mukesh Zaveri
-- Kamayani Naik
-- R.K. Gera
-- D.P. Shukla
-- N.K. Handa
-- B.K. Roy
-- R.K. Mishra
-- T.V.R. Murty
-- S.K. Bose
-- M.K. Choudhary
-- R.C. Dhamija
-- S.R. Sharma
-- H.C. Verma
-- L.M. Gupta
-- V.K. Jain
 - A.K. Jain
-- R.K. Jain
-- S.K. Jain
-- V.K. Jain
-- V.P. Jain
-- R.K. Jha
+- B.K. Roy
+- B.P. Nandwani
 - C.K. Joshi
-- H.C. Joshi
-- M.C. Joshi
-- N.K. Joshi
-- R.C. Joshi
-- S.K. Joshi
-- V.K. Joshi
 - C.L. Kedia
-- R.K. Kedia
-- S.K. Kedia
-- V.K. Kedia
-- P.C. Khandelwal
-- P.K. Khandelwal
-- R.K. Khandelwal
-- S.K. Khandelwal
-- V.K. Khandelwal
+- C.N. Patel
+- D.K. Chaturvedi
 - D.P. Kohli
-- G.P. Kohli
-- M.K. Kohli
-- R.K. Kohli
-- S.K. Kohli
-- V.K. Kohli
-- H.C. Kumar
-- M.C. Kumar
-- R.C. Kumar
-- S.K. Kumar
-- V.K. Kumar
-- P.C. Lahoti
-- P.K. Lahoti
-- R.K. Lahoti
-- S.K. Lahoti
-- V.K. Lahoti
-- H.C. Maheshwari
-- M.C. Maheshwari
-- R.C. Maheshwari
-- S.K. Maheshwari
-- V.K. Maheshwari
-- M.C. Malpani
-- R.C. Malpani
-- S.K. Malpani
-- V.K. Malpani
-- P.C. Mandalia
-- P.K. Mandalia
-- R.K. Mandalia
-- S.K. Mandalia
-- V.K. Mandalia
-- H.C. Mehta
-- M.C. Mehta
-- R.C. Mehta
-- S.K. Mehta
-- V.K. Mehta
-- P.C. Mishra
-- P.K. Mishra
-- R.K. Mishra
-- S.K. Mishra
-- V.K. Mishra
-- R.C. Modi
-- S.K. Modi
-- V.K. Modi
-- M.C. Mutha
-- R.C. Mutha
-- S.K. Mutha
-- V.K. Mutha
-- P.C. Nagpal
-- P.K. Nagpal
-- R.K. Nagpal
-- S.K. Nagpal
-- V.K. Nagpal
-- H.C. Nanavati
-- M.C. Nanavati
-- R.C. Nanavati
-- S.K. Nanavati
-- V.K. Nanavati
-- P.C. Narang
-- P.K. Narang
-- R.K. Narang
-- S.K. Narang
-- V.K. Narang
-- M.C. Nishchal
-- R.C. Nishchal
-- S.K. Nishchal
-- V.K. Nishchal
-- P.C. Patel
-- P.K. Patel
-- R.K. Patel
-- S.K. Patel
-- V.K. Patel
 - D.P. Paul
+- D.P. Shukla
+- G.P. Kohli
 - G.P. Paul
-- M.C. Paul
-- R.C. Paul
-- S.K. Paul
-- V.K. Paul
+- H.C. Joshi
+- H.C. Kumar
+- H.C. Maheshwari
+- H.C. Mehta
+- H.C. Nanavati
 - H.C. Prajapati
-- M.C. Prajapati
-- R.C. Prajapati
-- S.K. Prajapati
-- V.K. Prajapati
-- P.C. Purohit
-- P.K. Purohit
-- R.K. Purohit
-- S.K. Purohit
-- V.K. Purohit
-- M.C. Raghuwanshi
-- R.C. Raghuwanshi
-- S.K. Raghuwanshi
-- V.K. Raghuwanshi
-- P.C. Rathi
-- P.K. Rathi
-- R.K. Rathi
-- S.K. Rathi
-- V.K. Rathi
-- P.C. Raval
-- P.K. Raval
-- R.K. Raval
-- S.K. Raval
-- V.K. Raval
 - H.C. Rawal
-- M.C. Rawal
-- R.C. Rawal
-- S.K. Rawal
-- V.K. Rawal
-- P.C. Roy
-- P.K. Roy
-- R.K. Roy
-- S.K. Roy
-- V.K. Roy
-- M.C. Sanghavi
-- R.C. Sanghavi
-- S.K. Sanghavi
-- V.K. Sanghavi
-- P.C. Shah
-- P.K. Shah
-- R.K. Shah
-- S.K. Shah
-- V.K. Shah
 - H.C. Sharma
+- H.C. Verma
+- Kamayani Naik
+- L.M. Gupta
+- M.C. Joshi
+- M.C. Kumar
+- M.C. Maheshwari
+- M.C. Malpani
+- M.C. Mehta
+- M.C. Mutha
+- M.C. Nanavati
+- M.C. Nishchal
+- M.C. Paul
+- M.C. Prajapati
+- M.C. Raghuwanshi
+- M.C. Rawal
+- M.C. Sanghavi
 - M.C. Sharma
-- R.C. Sharma
-- S.K. Sharma
-- V.K. Sharma
-- P.C. Shukla
-- P.K. Shukla
-- R.K. Shukla
-- S.K. Shukla
-- V.K. Shukla
 - M.C. Singhal
-- R.C. Singhal
-- S.K. Singhal
-- V.K. Singhal
-- P.C. Singh
-- P.K. Singh
-- R.K. Singh
-- S.K. Singh
-- V.K. Singh
-- P.C. Soni
-- P.K. Soni
-- R.K. Soni
-- S.K. Soni
-- V.K. Soni
-- P.C. Srivastava
-- P.K. Srivastava
-- R.K. Srivastava
-- S.K. Srivastava
-- V.K. Srivastava
-- P.C. Swain
-- P.K. Swain
-- R.K. Swain
-- S.K. Swain
-- V.K. Swain
 - M.C. Thakker
-- R.C. Thakker
-- S.K. Thakker
-- V.K. Thakker
-- P.C. Trivedi
-- P.K. Trivedi
-- R.K. Trivedi
-- S.K. Trivedi
-- V.K. Trivedi
 - M.C. Vaishnav
-- R.C. Vaishnav
-- S.K. Vaishnav
-- V.K. Vaishnav
+- M.K. Choudhary
+- M.K. Kohli
+- Mukesh Zaveri
+- N.K. Handa
+- N.K. Joshi
+- P.C. Khandelwal
+- P.C. Lahoti
+- P.C. Mandalia
+- P.C. Mishra
+- P.C. Nagpal
+- P.C. Narang
+- P.C. Patel
+- P.C. Purohit
+- P.C. Rathi
+- P.C. Raval
+- P.C. Roy
+- P.C. Shah
+- P.C. Shukla
+- P.C. Singh
+- P.C. Soni
+- P.C. Srivastava
+- P.C. Swain
+- P.C. Trivedi
 - P.C. Vasani
-- P.K. Vasani
-- R.K. Vasani
-- S.K. Vasani
-- V.K. Vasani
 - P.C. Verma
-- P.K. Verma
-- R.K. Verma
-- S.K. Verma
-- V.K. Verma
 - P.C. Vyas
+- P.K. Khandelwal
+- P.K. Lahoti
+- P.K. Mandalia
+- P.K. Mishra
+- P.K. Nagpal
+- P.K. Narang
+- P.K. Patel
+- P.K. Purohit
+- P.K. Rathi
+- P.K. Raval
+- P.K. Roy
+- P.K. Shah
+- P.K. Shukla
+- P.K. Singh
+- P.K. Soni
+- P.K. Srivastava
+- P.K. Swain
+- P.K. Trivedi
+- P.K. Vasani
+- P.K. Verma
 - P.K. Vyas
+- P.P. Rathod
+- R.B. Shah
+- R.C. Dhamija
+- R.C. Joshi
+- R.C. Kumar
+- R.C. Maheshwari
+- R.C. Malpani
+- R.C. Mehta
+- R.C. Modi
+- R.C. Mutha
+- R.C. Nanavati
+- R.C. Nishchal
+- R.C. Paul
+- R.C. Prajapati
+- R.C. Raghuwanshi
+- R.C. Rawal
+- R.C. Sanghavi
+- R.C. Sharma
+- R.C. Singhal
+- R.C. Thakker
+- R.C. Vaishnav
+- R.K. Gera
+- R.K. Jain
+- R.K. Jha
+- R.K. Kedia
+- R.K. Khandelwal
+- R.K. Kohli
+- R.K. Lahoti
+- R.K. Mandalia
+- R.K. Mishra
+- R.K. Nagpal
+- R.K. Narang
+- R.K. Patel
+- R.K. Purohit
+- R.K. Rathi
+- R.K. Raval
+- R.K. Roy
+- R.K. Shah
+- R.K. Shukla
+- R.K. Singh
+- R.K. Soni
+- R.K. Srivastava
+- R.K. Swain
+- R.K. Trivedi
+- R.K. Vasani
+- R.K. Verma
 - R.K. Vyas
+- S.K. Bose
+- S.K. Jain
+- S.K. Joshi
+- S.K. Kedia
+- S.K. Khandelwal
+- S.K. Kohli
+- S.K. Kumar
+- S.K. Lahoti
+- S.K. Maheshwari
+- S.K. Malpani
+- S.K. Mandalia
+- S.K. Mehta
+- S.K. Mishra
+- S.K. Modi
+- S.K. Mutha
+- S.K. Nagpal
+- S.K. Nanavati
+- S.K. Narang
+- S.K. Nishchal
+- S.K. Patel
+- S.K. Paul
+- S.K. Prajapati
+- S.K. Purohit
+- S.K. Raghuwanshi
+- S.K. Rathi
+- S.K. Raval
+- S.K. Rawal
+- S.K. Roy
+- S.K. Sanghavi
+- S.K. Shah
+- S.K. Sharma
+- S.K. Shukla
+- S.K. Singh
+- S.K. Singhal
+- S.K. Soni
+- S.K. Srivastava
+- S.K. Swain
+- S.K. Thakker
+- S.K. Trivedi
+- S.K. Vaishnav
+- S.K. Vasani
+- S.K. Verma
 - S.K. Vyas
+- S.R. Sharma
+- Somnath Basu
+- T.V.R. Murty
+- V.K. Jain
+- V.K. Joshi
+- V.K. Kedia
+- V.K. Khandelwal
+- V.K. Kohli
+- V.K. Kumar
+- V.K. Lahoti
+- V.K. Maheshwari
+- V.K. Malpani
+- V.K. Mandalia
+- V.K. Mehta
+- V.K. Mishra
+- V.K. Modi
+- V.K. Mutha
+- V.K. Nagpal
+- V.K. Nanavati
+- V.K. Narang
+- V.K. Nishchal
+- V.K. Patel
+- V.K. Paul
+- V.K. Prajapati
+- V.K. Purohit
+- V.K. Raghuwanshi
+- V.K. Rathi
+- V.K. Raval
+- V.K. Rawal
+- V.K. Roy
+- V.K. Sanghavi
+- V.K. Shah
+- V.K. Sharma
+- V.K. Shukla
+- V.K. Singhal
+- V.K. Soni
+- V.K. Srivastava
+- V.K. Swain
+- V.K. Thakker
+- V.K. Trivedi
+- V.K. Vaishnav
+- V.K. Vasani
+- V.K. Verma
 - V.K. Vyas
+- V.N. Patel
+- V.P. Jain
 
 Motilal Nehru National Institute of Technology:
-- Jayant Kumar Dixit
 - Amit Gupta
-- Dheeraj Sanghi
-- Dhiraj Laheri
-- Mayank Patel
-- Rashmi Jain
-- Pradeep Kumar Jain
-- Sudhir Kumar
-- Tathagata Bandyopadhyay
-- Viswambhar Nath Sharma
-- Vikas Kumar Singh
-- Deepanjan Chatterjee
-- Pankaj Kumar
-- Prashant Patel
-- Rajesh Kumar Sharma
-- Satya Prakash Singh
-- Shashi Bhushan Upadhyay
-- Shiva Pratap Singh
-- Suhail Ahmad Khan
-- Amit Kumar
-- Arun Kumar
 - Ashish Kumar
 - Avichal Kumar
 - Brijesh Kumar
 - Chandra Shekhar
+- Deepanjan Chatterjee
+- Dhiraj Laheri
 - Dhirendra Pratap Singh
-- Dinesh Kumar
 - Gourab Chatterjee
 - Gulshan Kumar
 - Indramani Mishra
-- Jayant Kumar
-- Jitendra Kumar
+- Jayant Kumar Dixit
 - Kapil Kumar
-- Manish Kumar
 - Manohar Lal
-- Mayank Kumar
-- Narendra Kumar
+- Mayank Patel
 - Navneet Kumar
 - Neeraj Kumar
 - Padmanabhan S
 - Partha Pratim Roy
 - Piyush Kumar
+- Pradeep Kumar Jain
 - Pradhyumn Kumar
-- Rajesh Kumar
-- Rajeev Kumar
-- Ramesh Kumar
-- Ranjan Kumar
-- Ravi Kumar
+- Prashant Patel
+- Rajesh Kumar Sharma
+- Rashmi Jain
 - Rohini Kumar
 - Ruchi Kumar
-- Sandeep Kumar
-- Sanjeev Kumar
-- Sanjay Kumar
-- Saurabh Kumar
-- Shailesh Kumar
-- Shiv Kumar
+- Shashi Bhushan Upadhyay
+- Shiva Pratap Singh
 - Sonali Kumar
-- Suresh Kumar
-- Umesh Kumar
+- Suhail Ahmad Khan
+- Tathagata Bandyopadhyay
 - Vandana Kumar
-- Vikas Kumar
 - Vineet Kumar
-- Yogesh Kumar
+- Viswambhar Nath Sharma
 
 Indian Institute of Technology Tirupati:
-- P. Dakshinamurthy
-- G. V. Siva Rama Krishna
-- Ch.V. Mohan
-- K. V. S. Sairam
-- T. Sreekanth
-- S. K. Aithal
-- K. V. S. Krishna
-- Madhubabu Narasimham
-- K. Sunitha
-- S. P. Gorthi
-- P. A. V. Prasad
-- V. Ramakrishna
-- T. S. K. Reddy
-- Oktay Karatas
-- G. Siva Prasad
-- M. Karunakar
-- K. V. BhanuSree
-- V. V. S. S. Karthik
 - A. Vijayaraghavan
-- V. Srinivas
+- Ch.V. Mohan
+- G. Siva Prasad
+- G. V. Siva Rama Krishna
+- K. Sunitha
+- K. V. BhanuSree
+- K. V. S. Krishna
+- K. V. S. Sairam
+- M. Karunakar
 - M. Satish Babu
+- Madhubabu Narasimham
+- Oktay Karatas
+- P. A. V. Prasad
+- P. Dakshinamurthy
+- S. K. Aithal
+- S. P. Gorthi
+- T. S. K. Reddy
+- T. Sreekanth
+- V. Ramakrishna
+- V. V. S. S. Karthik
 
 Indian Institute of Technology Jammu:
-- Sachin Kumar
-- Sandeep Kumar
-- Somnath Paul
-- Vijay Kumar
-- Sunil Kumar
-- Gaurav Gupta
-- Sumedha Bagla
-- Umesh Gupta
-- Shalini Sharma
-- Neeraj Kumar
-- Vinay Kumar
 - Achal Kumar
 - Alok Kumar
-- Amit Kumar
-
-Defence Institute of Advanced Technology:
-Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+- Somnath Paul
+- Sumedha Bagla
+- Umesh Gupta
 
 Indian Institute of Technology Palakkad:
 - Arijit Deb
@@ -3839,8 +3467,8 @@ Indian Institute of Technology Palakkad:
 - Pushparaj Pushparaj
 - R. I. Sujith
 - R. Rajkumar
-- Rajdeep Ghosh
 - Rajan Amit
+- Rajdeep Ghosh
 - Rajendran B
 - Ramesh P.
 - Rashmi Rana
@@ -3871,7 +3499,6 @@ Indian Institute of Technology Palakkad:
 - Shaiju K. S.
 - Shaiju P. V.
 - Shamna P.
-- Shashank Priya
 - Shivendra Vikram Singh
 - Shraddha Agarwal
 - Shreya Ramakrishnan
@@ -3886,240 +3513,217 @@ Indian Institute of Technology Palakkad:
 - Sudhendu KumarSahoo
 - Sujit K. Ghosh
 - Sujit Kumar
-- Suneetha M. S.
 - Suneel P.
+- Suneetha M. S.
 - Suresh C. P.
 - T. Sreejith
 - T. Suresh Kumar
 - T. V. Mani
 - Tamilarasi R.
-- Tapanendu Kundu
 - Tejaswi Bajpai
 - Thulasiraman K.
 - U. V. Murthy
+- V. Srinivas Chakravarthy
 - Vaibhav Gandhi
 - Venkat R.
 - Vinod Kumar Yata
 - Vishnu Mohan
 - Vivek U.
-- V. Srinivas Chakravarthy
 - Vysakh G.
 - Yashwant S.
 - Yogeshwaran Sankar
 
+
 Manipal University, Jaipur:
-- Dr. Lalit Upadhyaya
-- Dr. Jitendra Singh Tanwar
-- Dr. Mohd Musthafa Khan
-- Dr. Sameer Pareek
-- Dr. Balasubramanian Rajaram
-- Dr. Krishna Mohan Pandey
-- Dr. Santosh Kumar Patel
-- Dr. Katta Satyanarayana
-- Dr. Chintu Singh
-- Dr. Himanshu Pandey
 - Dr. A. Venkateswara Reddy
-- Dr. K. Narasimha Murthy
-- Dr. Chintada Ramachandra Reddy
-- Dr. M. Srinivasa Reddy
-- Dr. P. V. Ramana Reddy
-- Dr. P. N. Sai Srinivas
-- Dr. K. Rama Krishna
-- Dr. Chennakesavulu Ravinder
-- Dr. D. Nageswara Rao
-- Dr. K. Srinivasa Rao
-- Dr. K. Ramakrishna Rao
-- Dr. K. Srinivas Rao
-- Dr. G. Nageswara Rao
 - Dr. B. Srinivasa Rao
-- Dr. M. Srinivasa Rao
+- Dr. Balasubramanian Rajaram
 - Dr. C. Ramachandra Reddy
+- Dr. Chennakesavulu Ravinder
+- Dr. Chintada Ramachandra Reddy
+- Dr. Chintu Singh
+- Dr. D. Nageswara Rao
+- Dr. G. Nageswara Rao
+- Dr. Himanshu Pandey
+- Dr. Jitendra Singh Tanwar
+- Dr. K. Narasimha Murthy
+- Dr. K. Rama Krishna
+- Dr. K. Srinivas Rao
+- Dr. K. Srinivasa Rao
+- Dr. Katta Satyanarayana
+- Dr. Krishna Mohan Pandey
+- Dr. Lalit Upadhyaya
+- Dr. M. Srinivasa Rao
+- Dr. M. Srinivasa Reddy
+- Dr. Mohd Musthafa Khan
+- Dr. P. N. Sai Srinivas
+- Dr. P. V. Ramana Reddy
+- Dr. Sameer Pareek
+- Dr. Santosh Kumar Patel
 
 Sathyabama Institute of Science and Technology:
-- Dr. Mariappan N
+- Dr. A. Asokan
+- Dr. A. Balamurugan
 - Dr. A. Balasubramanian
-- Dr. C. Kalaiyarasi
-- Dr. N. Boopathy
-- Dr. R. Manikandan
-- Dr. M. Vanmathi
-- Dr. D. Kavitha
-- Dr. B. Hemalatha
-- Dr. J. Jayakumar
-- Dr. C. Edwin
-- Dr. R. Shanmuga Sundaram
+- Dr. A. Karthikeyan
 - Dr. A. Rajeswari
-- Dr. K. Poornachandran
-- Dr. V. Murugan
+- Dr. A. Ramesh
+- Dr. A. Sivakumar
+- Dr. A. Vijayakumar
+- Dr. B. Hemalatha
+- Dr. C. Edwin
+- Dr. C. Kalaiyarasi
+- Dr. C. Pothiraj
+- Dr. D. Kavitha
 - Dr. G. Ramesh Babu
+- Dr. J. Jayakumar
+- Dr. K. Arunprakash
+- Dr. K. Chandrasekaran
+- Dr. K. Ganesan
+- Dr. K. Gopalakrishnan
 - Dr. K. Jayaprakash
-- Dr. S. Suresh
-- Dr. S. Ravichandran
+- Dr. K. Kannan
+- Dr. K. Karthikeyan
+- Dr. K. Manikandan
+- Dr. K. Mathiazhagan
+- Dr. K. Natarajan
+- Dr. K. Palaniswamy
+- Dr. K. Poornachandran
+- Dr. K. Raja
+- Dr. K. Rajaram
+- Dr. K. Ramamurthy
+- Dr. K. Sekar
+- Dr. K. Senthilkumar
+- Dr. K. Srinivasan
 - Dr. K. Thanushkodi
+- Dr. K. Vinoth Kumar
+- Dr. M. Arokia Mary
+- Dr. M. Jeyakumar
+- Dr. M. Karunanithi
+- Dr. M. Kavinilavu
+- Dr. M. Mohan
+- Dr. M. Nandagopal
+- Dr. M. Rajasekaran
+- Dr. M. Raju
+- Dr. M. Rathinasabapathi
+- Dr. M. Vanmathi
+- Dr. Mariappan N
+- Dr. N. Boopathy
+- Dr. N. Ganesh
+- Dr. N. Padmanaban
+- Dr. N. Seetharaman
+- Dr. N. Sivakumar
+- Dr. N. Sundaravadivelu
+- Dr. N. Suresh
+- Dr. P. Jeyakumar
+- Dr. P. Manikandan
+- Dr. P. Prakasam
+- Dr. P. Rameshwaran
+- Dr. P. Selvathi
+- Dr. P. Senthil Kumar
+- Dr. P. Sivakumar
+- Dr. P. Subramanian
 - Dr. R. Arulmozhi
+- Dr. R. Balamurugan
+- Dr. R. Gokulchandran
+- Dr. R. Kavitha
+- Dr. R. Krishnamurthy
+- Dr. R. Manikandan
+- Dr. R. Muruganantham
+- Dr. R. Murugesan
+- Dr. R. Perumal
+- Dr. R. Ravichandran
+- Dr. R. Sathish Kumar
+- Dr. R. Shanmuga Sundaram
+- Dr. R. Subramanian
+- Dr. S. Balasubramanian
+- Dr. S. Duraisamy
+- Dr. S. Ilaiyarasan
+- Dr. S. Mohan
+- Dr. S. Prabhu
+- Dr. S. Selvakumar
 - Dr. S. Senthil Kumar
 - Dr. S. Srinivasan
-- Dr. P. Senthil Kumar
-- Dr. R. Subramanian
-- Dr. S. Saravanan
-- Dr. V. Karthikeyan
-- Dr. K. Arunprakash
-- Dr. C. Pothiraj
-- Dr. R. Murugesan
-- Dr. S. Selvakumar
-- Dr. M. Mohan
-- Dr. A. Asokan
-- Dr. M. Nandagopal
-- Dr. P. Prakasam
-- Dr. N. Seetharaman
-- Dr. R. Sathish Kumar
-- Dr. K. Vinoth Kumar
-- Dr. M. Jeyakumar
-- Dr. K. Raja
-- Dr. A. Balamurugan
-- Dr. R. Muruganantham
-- Dr. K. Gopalakrishnan
-- Dr. M. Karunanithi
-- Dr. P. Rameshwaran
-- Dr. V. Shanmuga Kumar
-- Dr. K. Natarajan
-- Dr. R. Gokulchandran
-- Dr. S. Balasubramanian
-- Dr. V. Ravi
-- Dr. K. Karthikeyan
-- Dr. A. Vijayakumar
-- Dr. K. Senthilkumar
-- Dr. P. Sivakumar
-- Dr. S. Ilaiyarasan
-- Dr. V. Kesavaprasad
-- Dr. K. Srinivasan
-- Dr. M. Kavinilavu
-- Dr. P. Subramanian
-- Dr. N. Ganesh
-- Dr. R. Kavitha
-- Dr. S. Senthil Kumar
-- Dr. V. Ganesan
-- Dr. K. Rajaram
-- Dr. A. Ramesh
-- Dr. M. Rathinasabapathi
-- Dr. P. Selvathi
-- Dr. N. Padmanaban
-- Dr. R. Balamurugan
-- Dr. K. Sekar
-- Dr. S. Suresh
 - Dr. V. Anand
-- Dr. K. Manikandan
-- Dr. A. Karthikeyan
-- Dr. M. Rajasekaran
-- Dr. P. Jeyakumar
-- Dr. N. Sivakumar
-- Dr. R. Krishnamurthy
-- Dr. K. Ganesan
-- Dr. S. Prabhu
 - Dr. V. Balachandran
-- Dr. K. Kannan
-- Dr. A. Sivakumar
-- Dr. M. Raju
-- Dr. P. Karthikeyan
-- Dr. N. Sundaravadivelu
-- Dr. R. Perumal
-- Dr. K. Ramamurthy
-- Dr. S. Mohan
+- Dr. V. Ganesan
 - Dr. V. Kannan
-- Dr. K. Mathiazhagan
-- Dr. A. Saravanan
-- Dr. M. Arokia Mary
-- Dr. P. Manikandan
-- Dr. N. Suresh
-- Dr. R. Ravichandran
-- Dr. K. Chandrasekaran
-- Dr. S. Duraisamy
+- Dr. V. Karthikeyan
+- Dr. V. Kesavaprasad
 - Dr. V. Kumaran
-- Dr. K. Palaniswamy
+- Dr. V. Murugan
+- Dr. V. Ravi
+- Dr. V. Shanmuga Kumar
 
 PSG College of Technology:
-- Dr. R. Rudramoorthy
-- Dr. K. Palanikumar
-- Dr. K. Iyakutti
-- Dr. R. Ramesh
-- Dr. S. Aswathy
 - Dr. G. Gopinath
-- Dr. R. Saravanakumar
+- Dr. K. Iyakutti
+- Dr. K. Palanikumar
 - Dr. N. Suthanthira Vanitha
 - Dr. P. Rajagopal
 - Dr. P. Venkatachalapathy
 - Dr. P. Vijayakumar
+- Dr. R. Rudramoorthy
 - Dr. R. Vinoth Kumar
+- Dr. S. Aswathy
 - Dr. S. Vijayalakshmi
 
 National Institute of Technology Meghalaya:
-- Sudhendu Mandal
-- Prasanta Debbarma
-- Syamjith Pyngrope
-- Sneh Anand
-- Utpal Bora
-- Mahalaxmi Keerthi
-- P. R. Sreejith
-- Moolam Subramanya Bhat
-- Sandeep Kumar Kar
-- Subir Kumar Das
-- Pawan Kumar Tiwari
-- Suman Singha
-- Anupam Kumar Das
-- Sudeshna Karmakar
-- Prabir Banerjee
-- Jitendra Kr. Samal
-- Rajib Kayal
-- Satya Prakash Singh
-- Mayur Ranjan
-- Anup Kumar
-- Satya Prasad Dey
-- Jharna Das
-- K. K. Dutta
-- Amit Kumar Sahu
-- T. S. Bhat
-- Bidyut Kumar Mohapatra
-- Amit Kumar Mondal
-- Kallol Das
-- Bimal K. Sarma
-- M. D. Borkar
-- Indradeep Bhattacharya
-- S. B. Majumdar
-- Bibek Das
-- Dipak Kr. Das
-- Rajkumar Roychoudhury
-- Ishan Baran Debbarma
-- Sujit Biswas
-- J. B. Mazumdar
-- Purbasha Dutta
 - Aarti Dwivedi
+- Amit Kumar Mondal
+- Amit Kumar Sahu
+- Anupam Kumar Das
+- Bibek Das
+- Bidyut Kumar Mohapatra
+- Bimal K. Sarma
+- Dipak Kr. Das
+- Indradeep Bhattacharya
+- Ishan Baran Debbarma
+- J. B. Mazumdar
+- Jharna Das
+- Jitendra Kr. Samal
+- K. K. Dutta
+- Kallol Das
+- M. D. Borkar
+- Mahalaxmi Keerthi
+- Mayur Ranjan
+- Moolam Subramanya Bhat
+- P. R. Sreejith
+- Pawan Kumar Tiwari
+- Prabir Banerjee
+- Prasanta Debbarma
 - Priyanka Ghosh
+- Purbasha Dutta
+- Rajib Kayal
+- Rajkumar Roychoudhury
+- S. B. Majumdar
+- Sandeep Kumar Kar
+- Satya Prasad Dey
+- Sneh Anand
+- Subir Kumar Das
+- Sudeshna Karmakar
+- Sudhendu Mandal
+- Sujit Biswas
+- Suman Singha
+- Syamjith Pyngrope
+- T. S. Bhat
 
 Visvesvaraya Technological University:
-- Dr. M. S. Seshgiri
-- Dr. S. A. Kori
+- Dr. A. S. Deshpande
+- Dr. B. R. Patil
+- Dr. H. B. Kekre
 - Dr. K. R. Venugopal
-- Dr. P. S. Hiremath
-- Dr. R. H. Kulkarni
-- Dr. A. S. Deshpande
-- Dr. H. B. Kekre
-- Dr. S. A. Angadi
-- Dr. B. R. Patil
-- Dr. P. M. Gundawar
 - Dr. M. B. Chavan
+- Dr. M. S. Seshgiri
+- Dr. P. M. Gundawar
+- Dr. P. S. Hiremath
+- Dr. R. B. Shinde
+- Dr. R. H. Kulkarni
+- Dr. S. A. Angadi
+- Dr. S. A. Kori
 - Dr. S. M. Kulkarni
 - Dr. S. R. Patil
-- Dr. R. B. Shinde
-- Dr. P. S. Hiremath
-- Dr. R. H. Kulkarni
-- Dr. A. S. Deshpande
-- Dr. H. B. Kekre
-- Dr. S. A. Angadi
-- Dr. B. R. Patil
-- Dr. P. M. Gundawar
-- Dr. M. B. Chavan
-- Dr. S. M. Kulkarni
-- Dr. S. R. Patil
-- Dr. R. B. Shinde
+
 
 University of Hyderabad:
 - A. Prabhakar Rao
@@ -4128,8 +3732,8 @@ University of Hyderabad:
 - Bhalchandra Mungekar
 - Biswadip Dey
 - C. Anasuya Devi
-- Dayananda Siddavattam
 - D. Someswara Rao
+- Dayananda Siddavattam
 - Ehtesham Ahmed
 - G. Haragopal
 - G. Padmanabham
@@ -4158,7 +3762,6 @@ University of Hyderabad:
 - M. S. Rao
 - Madhusudan Hegde
 - Manindra Agrawal
-- Manoj Kumar
 - Meenakshi Rohatgi
 - Mridula Ramanna
 - N. Janaki
@@ -4172,7 +3775,6 @@ University of Hyderabad:
 - Nagarjuna G.
 - O. S. Murthy
 - P. Brahmananda Rao
-- P. K. Mohanty
 - P. P. Sharma
 - P. Satyanarayana
 - P. T. Reddy
@@ -4186,12 +3788,11 @@ University of Hyderabad:
 - R. Sreenivasa Murthy
 - R. Subramanian
 - Raghavendra Gadagkar
-- Rajendra Prasad
 - Rajeeva Laxman
+- Rajendra Prasad
 - Ramachandran Balasubramanian
 - Rameshwar P. Ghildiyal
 - Ratna Naidu
-- Ravindra Kumar
 - S. A. Bari
 - S. Aravamudhan
 - S. Chandrasekhar
@@ -4221,7 +3822,6 @@ University of Hyderabad:
 - Subbarao Marisetti
 - Sudhir K. Jain
 - Susmita Choudhury
-- Swapan Kumar Ghosh
 - T. K. Sreekanth
 - T. V. Pradeep
 - U. L. Narasimhan
@@ -4231,7 +3831,6 @@ University of Hyderabad:
 - V. Srinivasa Rao
 - V. Subramanian
 - Venkatesan Seshadri
-- Vijayakumar Bhagavathula
 - Y. S. N. Raju
 - Yellapragada Subbarow
 - Yogesh Dwivedi
@@ -4239,9 +3838,9 @@ University of Hyderabad:
 National Institute of Technology Raipur:
 - Amitava Bhattacharya
 - B. B. V. L. Deepak
+- D. V. Bhujade
 - Debasish Sarkar
 - Dinabandhu Sahoo
-- D. V. Bhujade
 - H. P. Singh
 - Manoj Kumar Pandey
 - Narayana P. Cherukupalli
@@ -4251,286 +3850,165 @@ National Institute of Technology Raipur:
 - Ranjan Singh
 - Ratul Burman
 - Ravi Bhushan
-- Rishi Kumar
 - S. Laxman Singh
 - S. S. Rajput
 - Santosh Kumar Singh
 - Shailendra Kumar Sarangi
 - Shashidhar Ram Sahu
-- Sidharth Singh
 - Siddharth Chattopadhyay
-- Tanmoy Das
+- Sidharth Singh
 - Tathagata Jalan
 - Tulsi Prasad Singh
 - V. K. Agrawal
-- Vijay Kumar
-- Vinod Kumar Mishra
 
 Maulana Azad National Institute of Technology:
-- Pankaj Agrawal
-- Mohammad Farooq
-- Abhishek Gupta
-- Kamlesh Kunti
-- J. P. Mishra
-- Prasoon Dwivedi
-- Alok Ranjan
-- Sanjib Dey
-- Piyush Pandey
-- Umesh Sharma
-- Sanjay Kumar
-- Jyoti Prakash
-- Ashu Sharma
-- Rajiv Misra
-- Ritu Tewari
-- Brajesh Kumar
-- Amitesh Kumar
-- Nagendra Singh
-- Shailendra Gupta
-- Sandeep Srivastava
-- Lal Krishna Gupta
-- Ajay Kumar
-- Vikas Swami
-- Amit Kumar
-- Raja Sekhar
-- Yogesh Kumar
-- Ram Naresh
-- Er Chandan Kumar
-- Ravi Kumar
-- Anil Kumar
-- Prabal Prateek
-- Sunit Srivastava
-- Rakesh Kumar
-- Vikrant Sharma
-- P. K. Srimani
-- P. K. Mishra
-- Mohd. Shahid
-- Laxmi Narayan
-- Ashish Gupta
-- Rajeev Ranjan
-- R. K. Mishra
-- Uday Kumar Shukla
-- S. K. Pandey
-- Niranjan Sahoo
-- Manish Sharma
-- Sushil Kumar
-- Milind Datar
-- Ravi Kant
-- Mukesh Kumar
-- Vikas Dubey
-- Rajesh Kumar
-- Jitendra Patel
-- Sarita Yadav
-- Priyanka Gupta
-- Poonam Gaur
-- Neetu Gupta
-- Neetu Singh
-- Meenakshi Sharma
-- Madhu Bala
-- Jyotsna Sharma
-- Jyoti Singh
-- Indu Bala
-- Harpreet Kaur
-- Geeta Singh
-- Geetika Sharma
-- Garima Gupta
-- Divya Bansal
-- Deepti Gupta
-- Dimple Garg
-- Anjali Singh
-- Anjali Gupta
-- Ankita Gupta
-- Anshul Gupta
-- Anu Gupta
-- Ankur Gupta
-- Amit Gupta
-- Ambuj Gupta
-- Alok Gupta
-- Ajay Gupta
-- Abhishek Gupta
-- Abhijeet Gupta
-- Abhilash Gupta
-- Aashish Gupta
-- Aarti Gupta
 - Aakanksha Gupta
+- Aarti Gupta
 - Aarushi Gupta
+- Aashish Gupta
 - Aashna Gupta
 - Aayushi Gupta
+- Abhijeet Gupta
+- Abhilash Gupta
 - Aishwarya Gupta
+- Alok Gupta
+- Alok Ranjan
+- Ambuj Gupta
+- Amitesh Kumar
+- Anjali Gupta
+- Anjali Singh
+- Ankita Gupta
+- Ankur Gupta
+- Anshul Gupta
+- Anu Gupta
+- Ashu Sharma
+- Dimple Garg
+- Divya Bansal
+- Er Chandan Kumar
+- Garima Gupta
+- Geeta Singh
+- Geetika Sharma
+- Harpreet Kaur
+- J. P. Mishra
+- Jitendra Patel
+- Jyoti Singh
+- Jyotsna Sharma
+- Kamlesh Kunti
+- Lal Krishna Gupta
+- Laxmi Narayan
+- Madhu Bala
+- Manish Sharma
+- Meenakshi Sharma
+- Milind Datar
+- Mohammad Farooq
+- Mohd. Shahid
+- Nagendra Singh
+- Neetu Gupta
+- Neetu Singh
+- P. K. Mishra
+- P. K. Srimani
+- Pankaj Agrawal
+- Piyush Pandey
+- Poonam Gaur
+- Prabal Prateek
+- Prasoon Dwivedi
+- R. K. Mishra
+- Raja Sekhar
+- Rajiv Misra
+- Ram Naresh
+- Ravi Kant
+- Ritu Tewari
+- S. K. Pandey
+- Sandeep Srivastava
+- Sanjib Dey
+- Sarita Yadav
+- Shailendra Gupta
+- Sunit Srivastava
+- Uday Kumar Shukla
+- Umesh Sharma
+- Vikas Dubey
+- Vikas Swami
+- Vikrant Sharma
 
 Indian Institute of Technology Bhilai:
-- Prof. Rajat Moona
+- Prof. Amarda Shekhar
+- Prof. Amit Agrawal
 - Prof. Basab Bandyopadhyay
+- Prof. Bikash Ranjan Das
+- Prof. Pawan Kumar
+- Prof. Pradipta Biswas
+- Prof. Rajat Moona
 - Prof. Rajeev Kumar
 - Prof. Srikumar Banerjee
-- Prof. Amit Agrawal
-- Prof. Bikash Ranjan Das
-- Prof. Pradipta Biswas
 - Prof. Srinivasa Reddy
-- Prof. Amarda Shekhar
-- Prof. Pawan Kumar
 
 International Institute of Information Technology Bangalore:
-* P. Balaram
-* A. N. Rajagopalan
-* A. Vinay
-* M. Narasimha
-* K. Gopinath
-* K. R. Ramakrishnan
-* S. Sudarshan
-* S. Ramesh
-* S. Srinivasan
-* S. Ramaswamy
-* T. Jayakumar
-* R. Ramesh
-* B. Sundar Rajan
-* R. Aravind
-* V. Vinay
-* A. Barathi
-* S. Ramakrishnan
-* S. Sarita
-* R. Sridharan
-* S. Srinivasa
-* T. Jayaraman
-* A. R. Harish
-* A. Barathi
-* K. Srinivasa
-* S. Sarita
-* R. Sridharan
-* S. Srinivasa
-* T. Jayaraman
-* A. R. Harish
-* S. Sudarshan
-* P. Sreenivasa
+- A. Barathi
+- A. N. Rajagopalan
+- A. R. Harish
+- A. Vinay
+- B. Sundar Rajan
+- K. Gopinath
+- K. R. Ramakrishnan
+- K. Srinivasa
+- M. Narasimha
+- P. Balaram
+- P. Sreenivasa
+- R. Aravind
+- R. Ramesh
+- R. Sridharan
+- S. Ramakrishnan
+- S. Ramaswamy
+- S. Ramesh
+- S. Sarita
+- S. Srinivasa
+- S. Srinivasan
+- S. Sudarshan
+- T. Jayakumar
+- T. Jayaraman
+- V. Vinay
 
 M. S. Ramaiah Institute of Technology:
-- Dr. S. Y. Kulkarni
-- Dr. K. N. Balasubramanya Murthy
-- Dr. S. R. Umashankar
-- Dr. S. G. Shiva Shankar
-- Dr. K. R. Venugopal
-- Dr. N. Lakshmi Narayana
-- Dr. C. R. Chandrasekar
-- Dr. G. Ramaswamy
-- Dr. K. S. Sridhar
 - Dr. B. R. Bhat
-- Dr. M. S. Subramanyam
+- Dr. B. R. Srinivas
+- Dr. C. R. Chandrasekar
+- Dr. C. R. Krishna
+- Dr. C. R. Murthy
+- Dr. G. R. Prabhu
+- Dr. G. Ramaswamy
+- Dr. G. S. Sreenivas
+- Dr. K. N. Balasubramanya Murthy
 - Dr. K. N. Ramesh
+- Dr. K. N. Sridhar
+- Dr. K. R. Ananthapadmanabha
+- Dr. K. S. Sreenivasa
+- Dr. K. S. Sridhar
+- Dr. K. V. S. Hari
+- Dr. M. S. Subramanyam
+- Dr. M. S. Vasudeva
+- Dr. N. Lakshmi Narayana
+- Dr. N. R. Shetty
+- Dr. S. G. Shiva Shankar
 - Dr. S. R. Shankar
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
 - Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
-- Dr. K. R. Ananthapadmanabha
-- Dr. N. R. Shetty
-- Dr. C. R. Murthy
-- Dr. G. R. Prabhu
-- Dr. K. S. Sreenivasa
-- Dr. B. R. Srinivas
-- Dr. M. S. Vasudeva
-- Dr. K. N. Sridhar
-- Dr. S. R. Srinivasa
-- Dr. K. V. S. Hari
-- Dr. C. R. Krishna
-- Dr. G. S. Sreenivas
+- Dr. S. R. Umashankar
+- Dr. S. Y. Kulkarni
 
 Sant Longowal Institute of Engineering and Technology:
-1. Dr. Sukhpal Singh
-2. Dr. Manjit Singh
-3. Dr. Rajbir Singh
-4. Dr. Jatinder Singh
-5. Dr. Jasmeet Singh
-6. Dr. Navjot Singh
-7. Dr. Parminder Singh
-8. Dr. Ranjit Singh
-9. Dr. Sanjeev Kumar
-10. Dr. Satnam Singh
-11. Dr. Surinder Singh
-12. Dr. Vikas Sharma
-13. Dr. Vinay Kumar
-14. Dr. Vishal Sharma
+- 1. Dr. Sukhpal Singh
+- 10. Dr. Satnam Singh
+- 11. Dr. Surinder Singh
+- 12. Dr. Vikas Sharma
+- 13. Dr. Vinay Kumar
+- 14. Dr. Vishal Sharma
+- 2. Dr. Manjit Singh
+- 3. Dr. Rajbir Singh
+- 4. Dr. Jatinder Singh
+- 5. Dr. Jasmeet Singh
+- 6. Dr. Navjot Singh
+- 7. Dr. Parminder Singh
+- 8. Dr. Ranjit Singh
+- 9. Dr. Sanjeev Kumar
 
 COEP Technological University:
 - Dr. Anil Deshpande
@@ -4548,9 +4026,9 @@ COEP Technological University:
 - Dr. Pravin Joshi
 - Dr. Rajendra Borgaonkar
 - Dr. Ramesh Kulkarni
+- Dr. Sachin Patil
 - Dr. Sandeep Patil
 - Dr. Sanjay Nagarkar
-- Dr. Sachin Patil
 - Dr. Shrikant Deshpande
 - Dr. Subodh Kulkarni
 - Dr. Suresh Joshi
@@ -4559,63 +4037,61 @@ COEP Technological University:
 - Dr. Vinayak Deshpande
 
 Banasthali Vidyapith:
-- Shruti Vyas
-- Sonali Khanduja
-- Sarita Agrawaal
-- Rati Ram
-- Pragya Sharma
-- Praveena Joshi
-- Poonam Maheshwari
-- Poonam Kumari
-- Priyanka Sood
-- Preeti Khandelwal
-- Pooja Sharma
-- Piyush Mathur
-- Pintu Verma
-- Pinki Devi
-- Niharika Khunteta
-- Nidhi Agrawaal
-- Namrata Singh
-- Namita Soni
-- Mohita Sharma
-- Manjeet Kaur
-- Mamta Kumari
-- Lily Jain
-- Lipika Jain
-- Laxmi Saini
-- Kavita Singh
-- Kavita Joshi
-- Kanchan Gupta
-- Jyoti Meena
-- Jyotsna Verma
-- Jaya Singh
-- Jaipal Singh
-- Ishita Singh
-- Hema Kumari
-- Harshita Sharma
-- Geeta Verma
-- Garima Sharma
-- Falguni Agrawal
-- Ekta Saini
-- Divya Sharma
-- Deepika Singh
-- Dimple Verma
-- Chandni Gupta
-- Bharti Sharma
-- Anupam Singh
+- Aarthi Sharma
+- Aarti Singh
+- Akansha Sharma
+- Alpana Verma
+- Amita Gupta
 - Anita Kumari
 - Ankita Sharma
-- Amita Gupta
-- Alpana Verma
-- Akansha Sharma
-- Aarti Singh
-- Aarthi Sharma
+- Anupam Singh
+- Bharti Sharma
+- Chandni Gupta
+- Deepika Singh
+- Dimple Verma
+- Ekta Saini
+- Falguni Agrawal
+- Garima Sharma
+- Geeta Verma
+- Harshita Sharma
+- Hema Kumari
+- Ishita Singh
+- Jaipal Singh
+- Jaya Singh
+- Jyoti Meena
+- Jyotsna Verma
+- Kanchan Gupta
+- Kavita Joshi
+- Laxmi Saini
+- Lily Jain
+- Lipika Jain
+- Manjeet Kaur
+- Mohita Sharma
+- Namita Soni
+- Namrata Singh
+- Nidhi Agrawaal
+- Niharika Khunteta
+- Pinki Devi
+- Pintu Verma
+- Piyush Mathur
+- Pooja Sharma
+- Poonam Kumari
+- Poonam Maheshwari
+- Pragya Sharma
+- Praveena Joshi
+- Preeti Khandelwal
+- Priyanka Sood
+- Rati Ram
+- Sarita Agrawaal
+- Shruti Vyas
+- Sonali Khanduja
+
 
 National Institute of Technology Srinagar:
-- Prof. Anita Ahlawat
 - Prof. Anil Kumar
 - Prof. Anil Kumar Sharma
 - Prof. Anish Kumar
+- Prof. Anita Ahlawat
 - Prof. Arvind Khajuria
 - Prof. Ashraf Gani Rather
 - Prof. Ashutosh Sharma
@@ -4631,18 +4107,18 @@ National Institute of Technology Srinagar:
 - Prof. K. Akhilesh
 - Prof. K. K. Raina
 - Prof. K. L. Bhatia
-- Prof. Mahendra Kumar
 - Prof. M. A. Rather
 - Prof. M. A. Sheikh
 - Prof. M. M. Bhat
 - Prof. M. R. Rather
+- Prof. Mahendra Kumar
 - Prof. Manju Bala
 - Prof. Manzoor Ahmad Khan
 - Prof. Mehraj ud Din
 - Prof. Mohd. Abubakr
-- Prof. Mohd. Aslam
 - Prof. Mohd. Ashraf Mir
 - Prof. Mohd. Ashraf Rather
+- Prof. Mohd. Aslam
 - Prof. Mohd. Ayoub Bhat
 - Prof. Mohd. Azam
 - Prof. Mohd. Farooq
@@ -4707,353 +4183,274 @@ National Institute of Technology Srinagar:
 - Prof. Tariq Ahmad
 - Prof. Umesh Rai
 - Prof. Venkataramanaiah Koneru
-- Prof. Vijay Kumar
 - Prof. Virpal Singh
 - Prof. Y. K. Saxena
 - Prof. Zafar Ahmad
 - Prof. Zahoor A. Bhat
 
 Rajiv Gandhi Institute of Petroleum Technology:
-- Dr. K. K. Ragesh
-- Dr. A. K. Singh
-- Dr. Masood A. Khan
-- Dr. R. G. Gupta
-- Dr. S. S. Hosmani
-- Dr. A. K. Verma
-- Dr. S. K. Singh
-- Dr. C. S. Biswas
-- Dr. M. S. Panwar
-- Dr. S. K. Gupta
-- Dr. S. C. Gupta
-- Dr. P. K. Sahoo
 - Dr. A. K. Jain
 - Dr. A. K. Mishra
-- Dr. G. S. Patel
-- Dr. M. M. Sharma
-- Dr. M. A. Awasthi
+- Dr. A. K. Pandey
+- Dr. A. K. Singh
+- Dr. A. K. Verma
+- Dr. C. S. Biswas
+- Dr. D. K. Pandey
 - Dr. D. K. Singh
 - Dr. G. K. Gupta
-- Dr. V. K. Singh
-- Dr. R. K. Singh
-- Dr. S. K. Yadav
-- Dr. A. K. Pandey
-- Dr. S. K. Patel
-- Dr. M. K. Mishra
-- Dr. S. K. Singh
-- Dr. A. K. Verma
-- Dr. S. K. Sharma
-- Dr. D. K. Singh
-- Dr. M. A. Khan
-- Dr. N. K. Singh
 - Dr. G. N. Singh
-- Dr. A. K. Pandey
-- Dr. M. K. Sharma
-- Dr. S. K. Gupta
-- Dr. P. K. Sahoo
-- Dr. S. K. Singh
-- Dr. D. K. Pandey
-- Dr. A. K. Mishra
 - Dr. G. S. Patel
+- Dr. K. K. Ragesh
+- Dr. M. A. Awasthi
+- Dr. M. A. Khan
+- Dr. M. K. Mishra
+- Dr. M. K. Sharma
 - Dr. M. M. Sharma
+- Dr. M. S. Panwar
+- Dr. Masood A. Khan
+- Dr. N. K. Singh
+- Dr. P. K. Sahoo
+- Dr. R. G. Gupta
+- Dr. R. K. Singh
+- Dr. S. C. Gupta
+- Dr. S. K. Gupta
+- Dr. S. K. Patel
+- Dr. S. K. Sharma
+- Dr. S. K. Singh
+- Dr. S. K. Yadav
+- Dr. S. S. Hosmani
+- Dr. V. K. Singh
 
 National Institute of Technology Kurukshetra:
-- Amit Kumar
-- Vikas Sharma
-- Savita Yadav
-- Sanjeev Sharma
-- Anil Kumar
 - Neeraj Sharma
-- Nisha Singh
-- Rajeev Kumar
-- Ritu Singh
-- Rajeev Ranjan
 - Rahul Singh
-- Rajesh Kumar
 - Rameshwar Meena
-- Ranjan Kumar
 - Ratnesh Kumar
 - Reena Rani
-- Ritu Rani
-- Rohit Kumar
-- Roshan Lal
+- Ritu Singh
 - Sandeep Garg
 - Sandeep Gupta
 - Sandeep Sharma
-- Sandeep Singh
-- Sanjay Kumar
-- Sanjay Sharma
 - Sapna Rani
 - Sarita Rani
+- Savita Yadav
+- Vikas Sharma
 
 National Institute of Technology Agartala:
-* Abhijit Chatterjee
-* Amit Kumar Das
-* Biplab Deb
-* Goutam Kumar Das
-* Md. Nazrul Islam
-* Prodip Kumar Saha
-* Rajesh Kumar Tiwari
-* Sanjay Kumar
-* Satyendra Nath Alam
-* Soumen Maiti
-* Subodh Kumar
+- Abhijit Chatterjee
+- Amit Kumar Das
+- Biplab Deb
+- Goutam Kumar Das
+- Md. Nazrul Islam
+- Prodip Kumar Saha
+- Rajesh Kumar Tiwari
+- Sanjay Kumar
+- Satyendra Nath Alam
+- Soumen Maiti
+- Subodh Kumar
 
 Sri Krishna College of Engineering and Technology:
-- Dr. T. Rama Rao
-- Dr. K. Murali Krishna
-- Dr. Y. Rajasekhar Reddy
-- Dr. M. Lakshmidevi
-- Dr. A. Jagadeesh
-- Dr. K. Vijayan
 - Dr. A. Devanand
+- Dr. A. Jagadeesh
+- Dr. K. Murali Krishna
+- Dr. K. Vijayan
+- Dr. M. Lakshmidevi
 - Dr. P. Sreekanth
+- Dr. T. Rama Rao
+- Dr. Y. Rajasekhar Reddy
 
 Madan Mohan Malaviya University of Technology:
-* A.K. Dixit
-* A.K. Singh
-* A.K. Tyagi
-* A.N. Pandey
-* A.P. Singh
-* A.R. Chaudhary
-* A.S. Gupta
-* A.S. Kushwaha
-* A.S. Malik
-* A.S. Tripathi
-* A.V. Singh
-* Abha Chauhan
-* Aditi Agnihotri
-* Ajay Kumar
-* Ajay Narayan
-* Akash Kumar
-* Akhilendra Pratap Singh
-* Akshat Kishore
-* Alka Singh
-* Amaresh Chandra
-* Amit Pandey
-* Amit Pathak
-* Amit Sharma
-* Amit Singh
-* Amrita Kaur
-* Anand Kumar
-* Anant Shukla
-* Anchal Yadav
-* Ankit Kumar
-* Ankit Singh
-* Anita Gupta
-* Anil Kumar
-* Anil Kumar Sharma
-* Anil Prakash
-* Anil Rai
-* Anita Rani
-* Anita Singh
-* Anjali Jaiswal
-* Anjali Singh
-* Anjali Verma
-* Anju Gupta
-* Anju Singh
-* Annu Gupta
-* Anu Singh
-* Anurag Dixit
-* Anurag Gulati
-* Anurag Gupta
-* Anurag Katiyar
-* Anurag Kumar
-* Anurag Singh
-* Anupam Agrawal
-* Anupam Gupta
-* Anupam Singh
-* Anupam Srivastava
-* Anupma Singh
-* Anuradha Singh
-* Anuradha Srivastava
-* Anuradha Tiwari
-* Aparna Gupta
-* Aparna Singh
-* Aparna Srivastava
-* Archana Gupta
-* Archana Singh
-* Archana Tiwari
-* Arijit Singh
-* Arijit Srivastava
-* Arindam Bandyopadhyay
-* Arindam Das
-* Arindam Ghosh
-* Arindam Mukherjee
-* Arindam Saha
-* Arindam Sarkar
-* Arindam Singh
-* Arindam Srivastava
-* Arindam Tripathi
-* Arjoo Grover
-* Arnab Banerjee
-* Arnab Chakraborty
-* Arnab Das
-* Arnab Ghosh
-* Arnab Gupta
-* Arnab Karmakar
-* Arnab Kumar
-* Arnab Mukherjee
-* Arnab Roy
-* Arnab Saha
-* Arnab Sarkar
-* Arnab Sen
-* Arnab Singh
-* Arnab Srivastava
-* Arnab Tripathi
-* Arnamoy Bose
-* Arno Ghosh
-* Arpinder Kaur
-* Arpita Gupta
-* Arpita Singh
-* Arpita Srivastava
-* Arunabh Ghosh
-* Arunabh Gupta
-* Arunabh Kumar
-* Arunabh Singh
-* Arunava Banerjee
-* Arunava Das
-* Arunava Ghosh
-* Arunava Gupta
-* Arunava Mitra
-* Arunava Roy
-* Arunava Saha
-* Arunava Sarkar
-* Arunava Sen
-* Arunava Singh
-* Arunava Srivastava
-* Arunava Tripathi
-* Arunima Gupta
-* Arunima Singh
-* Arunima Srivastava
-* Asad Ali
-* Ashfaq Ansari
-* Ashish Agarwal
-* Ashish Agrawal
-* Ashish Ameta
-* Ashish Anand
-* Ashish Arora
-* Ashish Arya
-* Ashish Asthana
-* Ashish Awasthi
-* Ashish Azad
-* Ashish Bhardwaj
-* Ashish Bhatt
-* Ashish Bhushan
-* Ashish Chauhan
-* Ashish Chauhan
-* Ashish Chowdhary
-* Ashish Das
-* Ashish Dixit
-* Ashish Dubey
-* Ashish Garg
-* Ashish Gautam
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-* Ashish Gupta
-*
+-
+- A.K. Dixit
+- A.K. Singh
+- A.K. Tyagi
+- A.N. Pandey
+- A.P. Singh
+- A.R. Chaudhary
+- A.S. Gupta
+- A.S. Kushwaha
+- A.S. Malik
+- A.S. Tripathi
+- A.V. Singh
+- Abha Chauhan
+- Aditi Agnihotri
+- Ajay Kumar
+- Ajay Narayan
+- Akash Kumar
+- Akhilendra Pratap Singh
+- Akshat Kishore
+- Alka Singh
+- Amaresh Chandra
+- Amit Pandey
+- Amit Pathak
+- Amit Sharma
+- Amit Singh
+- Amrita Kaur
+- Anand Kumar
+- Anant Shukla
+- Anchal Yadav
+- Anil Kumar
+- Anil Kumar Sharma
+- Anil Prakash
+- Anil Rai
+- Anita Gupta
+- Anita Rani
+- Anita Singh
+- Anjali Jaiswal
+- Anjali Singh
+- Anjali Verma
+- Anju Gupta
+- Anju Singh
+- Ankit Kumar
+- Ankit Singh
+- Annu Gupta
+- Anu Singh
+- Anupam Agrawal
+- Anupam Gupta
+- Anupam Singh
+- Anupam Srivastava
+- Anupma Singh
+- Anuradha Singh
+- Anuradha Srivastava
+- Anuradha Tiwari
+- Anurag Dixit
+- Anurag Gulati
+- Anurag Gupta
+- Anurag Katiyar
+- Anurag Kumar
+- Anurag Singh
+- Aparna Gupta
+- Aparna Singh
+- Aparna Srivastava
+- Archana Gupta
+- Archana Singh
+- Archana Tiwari
+- Arijit Singh
+- Arijit Srivastava
+- Arindam Bandyopadhyay
+- Arindam Das
+- Arindam Ghosh
+- Arindam Mukherjee
+- Arindam Saha
+- Arindam Sarkar
+- Arindam Singh
+- Arindam Srivastava
+- Arindam Tripathi
+- Arjoo Grover
+- Arnab Banerjee
+- Arnab Chakraborty
+- Arnab Das
+- Arnab Ghosh
+- Arnab Gupta
+- Arnab Karmakar
+- Arnab Kumar
+- Arnab Mukherjee
+- Arnab Roy
+- Arnab Saha
+- Arnab Sarkar
+- Arnab Sen
+- Arnab Singh
+- Arnab Srivastava
+- Arnab Tripathi
+- Arnamoy Bose
+- Arno Ghosh
+- Arpinder Kaur
+- Arpita Gupta
+- Arpita Singh
+- Arpita Srivastava
+- Arunabh Ghosh
+- Arunabh Gupta
+- Arunabh Kumar
+- Arunabh Singh
+- Arunava Banerjee
+- Arunava Das
+- Arunava Ghosh
+- Arunava Gupta
+- Arunava Mitra
+- Arunava Roy
+- Arunava Saha
+- Arunava Sarkar
+- Arunava Sen
+- Arunava Singh
+- Arunava Srivastava
+- Arunava Tripathi
+- Arunima Gupta
+- Arunima Singh
+- Arunima Srivastava
+- Asad Ali
+- Ashfaq Ansari
+- Ashish Agarwal
+- Ashish Agrawal
+- Ashish Ameta
+- Ashish Anand
+- Ashish Arora
+- Ashish Arya
+- Ashish Asthana
+- Ashish Awasthi
+- Ashish Azad
+- Ashish Bhardwaj
+- Ashish Bhatt
+- Ashish Bhushan
+- Ashish Chauhan
+- Ashish Chowdhary
+- Ashish Das
+- Ashish Dixit
+- Ashish Dubey
+- Ashish Garg
+- Ashish Gautam
+- Ashish Gupta
 
 Indraprastha Institute of Information Technology:
-- Nitin Saxena
-- Sagnik Dey
-- Manish K. Gupta
-- T. N. Vijay Kumar
-- Rajat Moona
-- Saswata Shannigrahi
-- P. R. Sahu
-- P. K. Mishra
-- Somnath Paul
-- Mithun Mukherjee
-- Jayant Haritsa
-- Sujoy K. Sikdar
-- Kallol Roy
-- Anuradha Nagar
-- Jayendra P. Verma
-- Shardul Singh
 - Abhishek Anand
-- Sandeep K. Shukla
-- Vinod Chandrasekaran
-- Manas Pratap Singh
-- Mukesh Prasad
-- Hemanta Sahoo
-- Sihem Amer-Yahia
-- Jonathan Katz
 - Ajay Bagai
-- Prahladh Harsha
-- Subhash Kak
-- Lisa Hellerstein
-- Bhuvaneshwari Subramanian
-- Jian Li
-- William H. Sanders
-- Debasis Mukhopadhyay
-- Sudipto Das
-- Gautam Das
-- Radhakrishnan Kannan
-- David Rosenblum
-- Indranath Chatterjee
-- Arun Bansal
-- K. R. Venugopal
-- Vasudevan Kadhiresan
-- Samir Kumar Bandyopadhyay
 - Amitabha Gupta
+- Anuradha Nagar
+- Arun Bansal
+- Bhuvaneshwari Subramanian
+- C. K. Mohan
+- David Rosenblum
 - Deb A. Sadhukhan
-- Partha Pratim Das
+- Debasis Mukhopadhyay
+- Gautam Das
+- Hemanta Sahoo
+- Indranath Chatterjee
+- Jayant Haritsa
+- Jayendra P. Verma
+- Jian Li
+- Jonathan Katz
+- K. G. Narendra
+- K. R. Venugopal
+- K. V. Subramanian
+- Lisa Hellerstein
+- M. N. Hebalkar
+- Manas Pratap Singh
+- Manish K. Gupta
+- Mithun Mukherjee
+- Nitin Saxena
+- P. M. S. Prasad
+- P. R. Sahu
+- Prahladh Harsha
+- Radhakrishnan Kannan
 - Ramesh Chandra Tripathi
+- S. Rangarajan
+- Samir Kumar Bandyopadhyay
+- Sandeep K. Shukla
+- Saswata Shannigrahi
+- Shardul Singh
+- Sihem Amer-Yahia
+- Sudipto Das
+- Sujoy K. Sikdar
+- T. N. Vijay Kumar
 - T. Srinivas
 - V. Srinivasan
-- K. V. Subramanian
-- P. M. S. Prasad
-- C. K. Mohan
-- M. N. Hebalkar
-- K. G. Narendra
-- S. Rangarajan
+- Vasudevan Kadhiresan
+- Vinod Chandrasekaran
+- William H. Sanders
 
 Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology:
-- Umadevi Chinnaswamy
 - Kalaivani Armugam
 - Pooja Ramanathan
+- Umadevi Chinnaswamy
 
 Indian Institute of Information Technology Allahabad:
 - Anantharaman Ganesh
@@ -5075,14 +4472,11 @@ Indian Institute of Information Technology Allahabad:
 - Krishnendu Chakrabarty
 - M. N. Hoda
 - Madhumita Bhattacharyya
-- Manish K. Gupta
 - Mayuri Baba
 - Mitali Gupta
 - Navneet Upadhyay
 - Neeraj Misra
 - Neetesh Saxena
-- Nitin Saxena
-- Pankaj Kumar
 - Parimal Parag
 - Piyush Gupta
 - Raghvendra Kumar
@@ -5090,19 +4484,15 @@ Indian Institute of Information Technology Allahabad:
 - Ramesh Chandra
 - Ramesh Chandra Joshi
 - Ranganath Bhujade
-- Ratnesh Kumar
-- Rishikesh Narayanan
-- Ritankar Das
 - Sajjan Rao
 - Sanjay Kumar Gupta
 - Sanjay Misra
 - Santanu Chaudhury
 - Santu Rani
 - Satyanarayana Sahoo
-- Saurabh Saxena
 - Shamil. M Thomas
-- Sharda Srivastava
 - Sharad Kumar Verma
+- Sharda Srivastava
 - Shashikala Tapaswi
 - Shikha Handa
 - Shivani Surya
@@ -5110,8 +4500,8 @@ Indian Institute of Information Technology Allahabad:
 - Shweta Shrivastava
 - Subhash Chandra Sharma
 - Subhash Kumar
-- Sudhir Kr. Das
 - Sudeept Bhatnagar
+- Sudhir Kr. Das
 - Sumit Ganguly
 - Sutapa Tripathi
 - T. Venkatesh
@@ -5119,50 +4509,43 @@ Indian Institute of Information Technology Allahabad:
 - Vijay Chauhan
 - Vinay Gupta
 - Vivek Pandey
-- Yogesh Singh
 
 Jawaharlal Nehru Technological University:
-- M. Nageswara Rao
-- S. Ramana Murthy
-- T. Venkata Ratnam
+- A. Udaya Bhaskar
+- A.Uday kiran
 - B. V. S. Sai Sudha
-- V. Kama Raju
-- M. Venkat Rao
-- G. V. S. R. Krishna
-- K. Krishna Mohan
+- B.Ravinder Reddy
+- C.Narasimha Rao
 - Ch. Satya Vara Prasad
-- M. Sridhar Rao
-- K. Sreenivasa Rao
 - D.Srinivas Rao
 - D.Udaya Bhaskar
-- A. Udaya Bhaskar
-- K.Rama Krishna
-- R.Sreedhar
-- T.Srinuvas
-- P.Sridhar
-- B.Ravinder Reddy
-- A.Uday kiran
-- K.Hari Narayana
-- N.Mohana Rao
-- M.Srikanth
-- C.Narasimha Rao
+- G. V. S. R. Krishna
 - G.Praveen
-- P.Shiva Shankar
+- K. Krishna Mohan
+- K. Sreenivasa Rao
+- K.Hari Narayana
+- K.Rama Krishna
+- M. Nageswara Rao
+- M. Sridhar Rao
+- M. Venkat Rao
 - M.Prasad
-
-Guru Gobind Singh Indraprastha University:
-I do not have access to real-time data and my knowledge cutoff is April 2023. Therefore, I cannot provide a list of professors from Guru Gobind Singh Indraprastha University. It is recommended to check the university's official website or contact the university directly for the most up-to-date information.
-
-AU College of Engineering (A):
-Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+- M.Srikanth
+- N.Mohana Rao
+- P.Shiva Shankar
+- P.Sridhar
+- R.Sreedhar
+- S. Ramana Murthy
+- T. Venkata Ratnam
+- T.Srinuvas
+- V. Kama Raju
 
 Vignan's Foundation for Science, Technology and Research:
-- Dr. G. V. R. Prasada Raju
 - Dr. B. Ramadevi
 - Dr. C. V. Suresh Babu
 - Dr. Ch. Lakshmanna
 - Dr. D. Kiran Kumar
 - Dr. G. Tirupathi Rao
+- Dr. G. V. R. Prasada Raju
 - Dr. I. Rajasekhar
 - Dr. K. V. V. Satyanarayana
 - Dr. L. Rama Chandra
@@ -5176,99 +4559,97 @@ Vignan's Foundation for Science, Technology and Research:
 - Dr. V. Ravindranath
 - Dr. V. V. S. Murthy
 
-Shoolini University of Biotechnology and Management Sciences:
-I apologize, but I do not have access to real-time data and cannot provide you with a list of professors from Shoolini University of Biotechnology and Management Sciences. It is recommended to check the university's official website or contact the university directly for the most up-to-date information.
 
 Christ University:
-* Dr. P. N. Vinay
-* Dr. A. M. Narasimhamurthy
-* Dr. Ankur Sarin
-* Dr. Asha Kamath
-* Dr. C. G. Venkatesh
-* Dr. D. J. Bakshish
-* Dr. G. Jagadeesh
-* Dr. H. N. Ramaswamy
-* Dr. I. R. Krishna
-* Dr. J. B. Guruswamy
-* Dr. Jyothi Rao
-* Dr. K. M. Chandrashekar
-* Dr. K. N. Prabhu
-* Dr. K. S. Jayaraman
-* Dr. L. S. Ramaiah
-* Dr. M. K. Venkatesh
-* Dr. M. P. Singh
-* Dr. N. L. Rao
-* Dr. P. K. Banerjee
-* Dr. P. K. Vishwanath
-* Dr. R. K. Gupta
-* Dr. R. Ramakumar
-* Dr. S. G. Umesh
-* Dr. S. Jagadeesh
-* Dr. S. K. Singh
-* Dr. S. P. Hiremath
-* Dr. S. R. Ranganathan
-* Dr. T. N. Shreenivasa
-* Dr. U. K. Sudhindra Rao
-* Dr. V. K. Chopra
-* Dr. V. K. Gupta
-* Dr. V. N. Srinivas
-* Dr. V. S. Murthy
-* Dr. Y. S. Rama Krishna
+- Dr. A. M. Narasimhamurthy
+- Dr. Ankur Sarin
+- Dr. Asha Kamath
+- Dr. C. G. Venkatesh
+- Dr. D. J. Bakshish
+- Dr. G. Jagadeesh
+- Dr. H. N. Ramaswamy
+- Dr. I. R. Krishna
+- Dr. J. B. Guruswamy
+- Dr. Jyothi Rao
+- Dr. K. M. Chandrashekar
+- Dr. K. N. Prabhu
+- Dr. K. S. Jayaraman
+- Dr. L. S. Ramaiah
+- Dr. M. K. Venkatesh
+- Dr. M. P. Singh
+- Dr. N. L. Rao
+- Dr. P. K. Banerjee
+- Dr. P. K. Vishwanath
+- Dr. P. N. Vinay
+- Dr. R. K. Gupta
+- Dr. R. Ramakumar
+- Dr. S. G. Umesh
+- Dr. S. Jagadeesh
+- Dr. S. K. Singh
+- Dr. S. P. Hiremath
+- Dr. S. R. Ranganathan
+- Dr. T. N. Shreenivasa
+- Dr. U. K. Sudhindra Rao
+- Dr. V. K. Chopra
+- Dr. V. K. Gupta
+- Dr. V. N. Srinivas
+- Dr. V. S. Murthy
+- Dr. Y. S. Rama Krishna
 
 Chitkara University:
-* Dr. Archana Mantri
-* Dr. Arvind Jha
-* Dr. Ashwani Kumar
-* Dr. Balram Dogra
-* Dr. Bhavna Rao
-* Dr. Deepak Goyal
-* Dr. Dimpal Jain
-* Dr. Divya Singhal
-* Dr. Gaurav Gupta
-* Dr. Gurpreet Singh
-* Dr. Harpreet Singh
-* Dr. Himani Sachdeva
-* Dr. Jagjinder Singh
-* Dr. Jaspreet Singh
-* Dr. Kamal Kumar
-* Dr. Kanika Sharma
-* Dr. Kapil Sharma
-* Dr. Karan Rajpal
-* Dr. Kavita Chauhan
-* Dr. Kuldeep Singh
-* Dr. Manish Kumar
-* Dr. Meenakshi Sharma
-* Dr. Mukesh Kumar
-* Dr. Navdeep Singh
-* Dr. Parvinder Singh
-* Dr. Pooja Kaushik
-* Dr. Prateek Jain
-* Dr. Punam Singh
-* Dr. Rajeev Ranjan
-* Dr. Ramandeep Singh
-* Dr. Ravindra Kumar
-* Dr. Ritu Chawla
-* Dr. Rohit Sharma
-* Dr. Roopali Sharma
-* Dr. Rupinder Singh
-* Dr. Sandeep Kumar
-* Dr. Sanjeev Sharma
-* Dr. Sapna Gupta
-* Dr. Sarabjeet Singh
-* Dr. Sarbjit Singh
-* Dr. Satinderpal Singh
-* Dr. Shaveta Goyal
-* Dr. Shuchi Gupta
-* Dr. Suman Gupta
-* Dr. Sunil Kumar
-* Dr. Surendra Singh
-* Dr. Swetha Singh
-* Dr. Tushar Gupta
-* Dr. Uday Kumar
-* Dr. Vandana Sharma
-* Dr. Vikas Chauhan
-* Dr. Vipul Gupta
-* Dr. Yadwinder Singh
+- Dr. Archana Mantri
+- Dr. Arvind Jha
+- Dr. Ashwani Kumar
+- Dr. Balram Dogra
+- Dr. Bhavna Rao
+- Dr. Deepak Goyal
+- Dr. Dimpal Jain
+- Dr. Divya Singhal
+- Dr. Gaurav Gupta
+- Dr. Gurpreet Singh
+- Dr. Harpreet Singh
+- Dr. Himani Sachdeva
+- Dr. Jagjinder Singh
+- Dr. Jaspreet Singh
+- Dr. Kamal Kumar
+- Dr. Kanika Sharma
+- Dr. Kapil Sharma
+- Dr. Karan Rajpal
+- Dr. Kavita Chauhan
+- Dr. Kuldeep Singh
+- Dr. Manish Kumar
+- Dr. Meenakshi Sharma
+- Dr. Mukesh Kumar
+- Dr. Navdeep Singh
+- Dr. Parvinder Singh
+- Dr. Pooja Kaushik
+- Dr. Prateek Jain
+- Dr. Punam Singh
+- Dr. Rajeev Ranjan
+- Dr. Ramandeep Singh
+- Dr. Ravindra Kumar
+- Dr. Ritu Chawla
+- Dr. Rohit Sharma
+- Dr. Roopali Sharma
+- Dr. Rupinder Singh
+- Dr. Sandeep Kumar
+- Dr. Sanjeev Sharma
+- Dr. Sapna Gupta
+- Dr. Sarabjeet Singh
+- Dr. Sarbjit Singh
+- Dr. Satinderpal Singh
+- Dr. Shaveta Goyal
+- Dr. Shuchi Gupta
+- Dr. Suman Gupta
+- Dr. Sunil Kumar
+- Dr. Surendra Singh
+- Dr. Swetha Singh
+- Dr. Tushar Gupta
+- Dr. Uday Kumar
+- Dr. Vandana Sharma
+- Dr. Vikas Chauhan
+- Dr. Vipul Gupta
+- Dr. Yadwinder Singh
 
 Jain University, Bangalore:
 - Dr. Ajith Kumar
@@ -5329,9 +4710,8 @@ Jain University, Bangalore:
 - Dr. Vivek Ragur
 - Dr. Y.N. Narayana Rao
 
+
 C.V. Raman Global University, Odisha:
-- M. R. Nayak
-- Ashok Kumar Panda
 - Bijay Kumar Sahoo
 - Bijay Sankar Mohapatra
 - Chiranjib Chaki
@@ -5358,7 +4738,6 @@ C.V. Raman Global University, Odisha:
 - Priyabrata Das
 - Rajendra Prasad Mohapatra
 - Ramakanta Rout
-- Ranjan Kumar Behera
 - Ranjit Kumar Pathak
 - Ratikanta Bal
 - Ratikanta Rout
@@ -5371,11 +4750,11 @@ C.V. Raman Global University, Odisha:
 - Sibasish Das
 - Sidhartha Sankar Mishra
 - Soumendra Kumar Jena
-- Subash Chandra Patra
 - Subas Chandra Mohapatra
+- Subash Chandra Patra
 - Subhrakanta Maharana
-- Sudananda Panda
 - Subrat Kumar Sasmal
+- Sudananda Panda
 - Suresh Chandra Nayak
 - Suresh Chandra Satapathy
 - Susil Kumar Mishra
@@ -5385,293 +4764,260 @@ C.V. Raman Global University, Odisha:
 - Umesh Kumar Dalai
 - Umesh Kumar Mishra
 - Vijay Kumar Giri
-- Vishal Kumar
 
 National Institute of Technology Puducherry:
-* Sanjib Bhattacharyya
-* S. Meenakshi Sundaram
-* L. Selvarani
-* M. Sathiya Narayanan
-* N. Rajakumar
-* R. Kannan
-* V. Lakshmanan
-* V. Saminathan
-* T. Jayaraman
-* T. Vasantha Kumar
-* S. Karthick
-* S. Renganathan
-* M. Parthasarathy
-* K. Selvakumar
-* R. Paramasivan
-* S. Santhosh Kumar
-* B. Ramakrishnan
-* M. Ram Mohan
-* S. Nandhini
-* A. Emmanuel Selvaraj
-* K. Hamsapriya
-* S. Srinivasan
-* S. Sathish
-* S. Suresh
-* R. Vinoth Kumar
-* S. Dhanapandiyan
-* V. Durairaj
-* S. Ramesh
-* S. Subbiah
-* P. Dillibabu
-* S. Manikandan
-* K. S. Oviya
-* S. Kiruthika
-* V. Karthik
-* D. Ajith
-* M. Ranjith
-* A. Vignesh
-* R. Rajkumar
-* S. Ajay
-* T. Arul Prakash
-* N. Vigneshwaran
-* M. Gowtham
-* S. Malathi
-* K. Venkatesan
-* R. Rajeshkannan
-* S. Sivakumar
-* T. Arulselvi
-* D. Sudharsan
-* M. Vetrivel
-* P. Ramakrishnan
-* S. Nagarajan
-* P. Rajesh
-* S. Srinivasan
-* S. Sampath
-* R. Prabha
-* R. Thangavel
-* S. Girirajan
-* R. Pradeep
-* S. Prabakaran
-* R. Sivakumar
-* P. Pavithra
-* S. Suresh
-* M. Vignesh
-* S. Sathiyaraja
-* K. Ramesh
-* G. Sasikumar
-* R. Arunachalam
-* S. Mohan
-* R. Rajavel
-* M. Ezhilarasan
-* K. Karthick
-* S. Saravanan
-* J. Kumar
-* G. Muruganandam
-* T. Maran
-* S. Suresh
-* M. Thangaraj
-* V. Vasanth Kumar
-* M. Nagarajan
-* D. Vijayakumar
-* T. Muneeswaran
-* S. Karthiban
-* R. Loganathan
-* S. Sivaprakash
-* G. Ramachandran
-* G. Saravana Kumar
-* S. Senthilkumar
-* S. Janarthanan
-* A. Saravanan
-* K. Aravind Manoharan
-* B. Balaji
-* K. Kavinilavu
-* B. Karthikeyan
-* V. Mathalagan
-* R. Mohammed Aslam
-* K. Mohanraj
-* P. Muthupandi
-* T. Niranjan
-* S. Nithyanandhan
-* D. Pandian
-* S. Parthiban
-* P. Paulraj
-* S. Rajesh
-* S. Rajkumar
-* K. Ramkumar
-* R. Ramesh
-* S. Rauf
-* S. Ravichandran
-* A. Ravindran
-* M. Santhanam
-* D. Saravanakumar
-* M. Saravanan
-* R. Sathishkumar
-* S. Sathiyaraj
-* M. Selvaraj
-* P. Selvaraj
-* S. Senthil Kumar
-* T. Senthilkumar
-* J. Shanmugaraj
-* S. Shivabalan
-* K. Sivachidambaram
-* S. Sivakumar
-* S. Sivakumar
-* T. Sivakumar
-* V. Sivakumar
-* M. Sivanantham
-* V. Sivaprakasam
-* S. Sivaraj
-* T. Sivarajan
-* S. Sivaramanan
-* S. Sivarathinam
-* G. Sivasubramaniam
-* S. Sridhar
-* R. Srinivasan
-* S. Srinivasan
-* S. Srinivasan
-* T. Srinivasan
-* T. Srinivasan
-* V. Srinivasan
-* A. Sudhakar
-* M. Sudhakar
-* R. Sudhakar
-* S. Sundar
-* R. Suresh
-* S. Suresh
-* T. Suresh
-* V. Suresh
-* S. Suseendran
-* T. Thayalan
-* S. Thenmozhi
-* S. Uthayasankar
-* S. Vijayakumar
-* S. Vijayakumar
-* V. Vijayakumar
-* S. Viswanathan
-* S. Viswanathan
-* T. Viswanathan
-* V. Viswanathan
+- A. Emmanuel Selvaraj
+- A. Ravindran
+- A. Saravanan
+- A. Sudhakar
+- A. Vignesh
+- B. Balaji
+- B. Karthikeyan
+- B. Ramakrishnan
+- D. Ajith
+- D. Pandian
+- D. Saravanakumar
+- D. Sudharsan
+- D. Vijayakumar
+- G. Muruganandam
+- G. Ramachandran
+- G. Saravana Kumar
+- G. Sasikumar
+- G. Sivasubramaniam
+- J. Kumar
+- J. Shanmugaraj
+- K. Aravind Manoharan
+- K. Hamsapriya
+- K. Karthick
+- K. Kavinilavu
+- K. Mohanraj
+- K. Ramesh
+- K. Ramkumar
+- K. S. Oviya
+- K. Selvakumar
+- K. Sivachidambaram
+- K. Venkatesan
+- L. Selvarani
+- M. Ezhilarasan
+- M. Gowtham
+- M. Nagarajan
+- M. Parthasarathy
+- M. Ram Mohan
+- M. Ranjith
+- M. Santhanam
+- M. Saravanan
+- M. Sathiya Narayanan
+- M. Selvaraj
+- M. Sivanantham
+- M. Sudhakar
+- M. Thangaraj
+- M. Vetrivel
+- M. Vignesh
+- N. Rajakumar
+- N. Vigneshwaran
+- P. Dillibabu
+- P. Muthupandi
+- P. Paulraj
+- P. Pavithra
+- P. Rajesh
+- P. Ramakrishnan
+- P. Selvaraj
+- R. Arunachalam
+- R. Kannan
+- R. Loganathan
+- R. Mohammed Aslam
+- R. Paramasivan
+- R. Prabha
+- R. Pradeep
+- R. Rajavel
+- R. Rajeshkannan
+- R. Rajkumar
+- R. Sathishkumar
+- R. Sivakumar
+- R. Srinivasan
+- R. Sudhakar
+- R. Suresh
+- R. Thangavel
+- R. Vinoth Kumar
+- S. Ajay
+- S. Dhanapandiyan
+- S. Girirajan
+- S. Janarthanan
+- S. Karthiban
+- S. Karthick
+- S. Kiruthika
+- S. Malathi
+- S. Manikandan
+- S. Meenakshi Sundaram
+- S. Mohan
+- S. Nagarajan
+- S. Nandhini
+- S. Nithyanandhan
+- S. Parthiban
+- S. Prabakaran
+- S. Rajesh
+- S. Rajkumar
+- S. Rauf
+- S. Ravichandran
+- S. Renganathan
+- S. Sampath
+- S. Santhosh Kumar
+- S. Sathish
+- S. Sathiyaraj
+- S. Sathiyaraja
+- S. Senthil Kumar
+- S. Senthilkumar
+- S. Shivabalan
+- S. Sivakumar
+- S. Sivaprakash
+- S. Sivaraj
+- S. Sivaramanan
+- S. Sivarathinam
+- S. Sridhar
+- S. Subbiah
+- S. Sundar
+- S. Suresh
+- S. Suseendran
+- S. Thenmozhi
+- S. Uthayasankar
+- S. Vijayakumar
+- S. Viswanathan
+- Sanjib Bhattacharyya
+- T. Arul Prakash
+- T. Arulselvi
+- T. Maran
+- T. Muneeswaran
+- T. Niranjan
+- T. Senthilkumar
+- T. Sivakumar
+- T. Sivarajan
+- T. Srinivasan
+- T. Suresh
+- T. Thayalan
+- T. Vasantha Kumar
+- T. Viswanathan
+- V. Durairaj
+- V. Karthik
+- V. Lakshmanan
+- V. Mathalagan
+- V. Saminathan
+- V. Sivakumar
+- V. Sivaprakasam
+- V. Srinivasan
+- V. Suresh
+- V. Vasanth Kumar
+- V. Viswanathan
 
 SR University:
-- Dr. Rao
-- Dr. Patel
-- Dr. Smith
 - Dr. Lee
 - Dr. Martinez
+- Dr. Patel
+- Dr. Rao
+- Dr. Smith
 
 R.V. College of Engineering:
-- Dr. Kumaraswamy
-- Dr. A.S.N. Murthy
-- Dr. K.N. Shankara
-- Dr. R.G. Sreenivas
-- Dr. R. Ramesh
-- Dr. S.N. Murthy
-- Dr. S.M. Sivakumar
-- Dr. G.V. Rao
 - Dr. A.K. Roy
-- Dr. B.S. Murthy
-- Dr. S.R. Mahajan
-- Dr. C.R. Hiremath
-- Dr. B.G. Ranganath
-- Dr. R.V. Kulkarni
-- Dr. H.V. Ravishankar
-- Dr. K.N. Viswanath
-- Dr. G.R. Iyer
-- Dr. V.B. Joshi
-- Dr. G.K. Prabhat
-- Dr. R.N. Shetty
-- Dr. C.N. Srinivas
-- Dr. B.S. Sudha
-- Dr. M.N. Vinay
-- Dr. C.S. Manohar
-- Dr. V.S. Murthy
-- Dr. B.S. Ananth
-- Dr. S.N. Sharad
-- Dr. V.V. Rao
-- Dr. S.S. Iyer
-- Dr. K.K. Vishwanath
-- Dr. R.K. Rao
-- Dr. C.V. Srinivas
-- Dr. B.V. Sudha
-- Dr. N.V. Vinay
-- Dr. C.D. Manohar
-- Dr. V.D. Murthy
-- Dr. B.E. Ananth
-- Dr. S.F. Sharad
-- Dr. V.G. Rao
-- Dr. S.H. Iyer
-- Dr. K.J. Vishwanath
-- Dr. R.L. Rao
-- Dr. C.M. Srinivas
-- Dr. B.N. Sudha
-- Dr. O.V. Vinay
-- Dr. C.P. Manohar
-- Dr. V.R. Murthy
-- Dr. B.T. Ananth
-- Dr. S.U. Sharad
-- Dr. V.W. Rao
-- Dr. S.X. Iyer
-- Dr. K.Y. Vishwanath
-- Dr. R.Z. Rao
-- Dr. C.A. Srinivas
+- Dr. A.S.N. Murthy
 - Dr. B.C. Sudha
+- Dr. B.E. Ananth
+- Dr. B.G. Ranganath
+- Dr. B.N. Sudha
+- Dr. B.S. Ananth
+- Dr. B.S. Murthy
+- Dr. B.S. Sudha
+- Dr. B.T. Ananth
+- Dr. B.V. Sudha
+- Dr. C.A. Srinivas
+- Dr. C.D. Manohar
+- Dr. C.M. Srinivas
+- Dr. C.N. Srinivas
+- Dr. C.P. Manohar
+- Dr. C.R. Hiremath
+- Dr. C.S. Manohar
+- Dr. C.V. Srinivas
+- Dr. G.K. Prabhat
+- Dr. G.R. Iyer
+- Dr. G.V. Rao
+- Dr. H.V. Ravishankar
+- Dr. K.J. Vishwanath
+- Dr. K.K. Vishwanath
+- Dr. K.N. Shankara
+- Dr. K.N. Viswanath
+- Dr. K.Y. Vishwanath
+- Dr. Kumaraswamy
+- Dr. M.N. Vinay
 - Dr. N.V. Vinay
+- Dr. O.V. Vinay
+- Dr. R.G. Sreenivas
+- Dr. R.K. Rao
+- Dr. R.L. Rao
+- Dr. R.N. Shetty
+- Dr. R.V. Kulkarni
+- Dr. R.Z. Rao
+- Dr. S.F. Sharad
+- Dr. S.H. Iyer
+- Dr. S.M. Sivakumar
+- Dr. S.N. Murthy
+- Dr. S.N. Sharad
+- Dr. S.R. Mahajan
+- Dr. S.S. Iyer
+- Dr. S.U. Sharad
+- Dr. S.X. Iyer
+- Dr. V.B. Joshi
+- Dr. V.D. Murthy
+- Dr. V.G. Rao
+- Dr. V.R. Murthy
+- Dr. V.S. Murthy
+- Dr. V.V. Rao
+- Dr. V.W. Rao
 
 Siddaganga Institute of Technology:
-- Dr. H. B. Kekre
-- Dr. M. R. Sreenivasa
-- Dr. H. S. Umeshaiah
-- Dr. S. Suresh
-- Dr. B. L. Deekshatha
+- Dr. B. B. Meshram
 - Dr. B. G. Siddalingamurthy
-- Dr. S. K. Sairam
+- Dr. B. L. Deekshatha
+- Dr. B. S. Gowthami
+- Dr. B. V. Ravishankar
 - Dr. C. N. Ramesh
-- Dr. K. M. Mahadevaswamy
-- Dr. S. G. Padakatti
-- Dr. R. M. Rudresh
+- Dr. G. R. Chandrasekhar
 - Dr. G. S. Uma
+- Dr. H. S. Shivakumar
+- Dr. H. S. Umeshaiah
+- Dr. K. M. Mahadevaswamy
+- Dr. K. R. Chandrashekar
+- Dr. K. S. Vijaya
+- Dr. M. R. Sreenivasa
+- Dr. M. R. Srinivasa
+- Dr. M. S. Rajalakshmi
+- Dr. N. R. Bhat
 - Dr. N. S. Harish
 - Dr. N. V. Vinay
+- Dr. R. M. Rudresh
 - Dr. S. B. Hiremath
-- Dr. S. M. Mallikarjuna
-- Dr. K. R. Chandrashekar
+- Dr. S. C. Metri
+- Dr. S. D. Patil
 - Dr. S. G. Aravinda
-- Dr. S. R. Savadatti
-- Dr. B. V. Ravishankar
-- Dr. G. R. Chandrasekhar
-- Dr. S. M. Shetty
-- Dr. S. R. Nalavade
-- Dr. B. S. Gowthami
-- Dr. H. S. Shivakumar
-- Dr. K. S. Vijaya
-- Dr. M. S. Rajalakshmi
+- Dr. S. G. Hiremath
+- Dr. S. G. Hosamani
+- Dr. S. G. Padakatti
+- Dr. S. G. Patil
 - Dr. S. H. Nataraj
+- Dr. S. K. Sairam
+- Dr. S. M. Basavaraj
+- Dr. S. M. Khadri
+- Dr. S. M. Mallikarjuna
+- Dr. S. M. Metri
+- Dr. S. M. Shetty
+- Dr. S. N. Basavaraj
+- Dr. S. N. Hiremath
+- Dr. S. R. Hiremath
+- Dr. S. R. Nalavade
+- Dr. S. R. Prabhakar
+- Dr. S. R. Savadatti
 - Dr. S. R. Suresh
 - Dr. S. S. Hebbal
-- Dr. N. R. Bhat
-- Dr. M. R. Srinivasa
-- Dr. B. B. Meshram
 - Dr. S. S. Hiremath
-- Dr. S. R. Prabhakar
-- Dr. S. D. Patil
-- Dr. S. C. Metri
-- Dr. S. R. Patil
-- Dr. S. G. Patil
 - Dr. S. S. Jadhav
-- Dr. S. N. Hiremath
-- Dr. S. M. Basavaraj
-- Dr. S. R. Hiremath
+- Dr. S. S. Mantur
 - Dr. S. S. Metri
-- Dr. S. G. Hosamani
-- Dr. S. S. Mantur
-- Dr. S. M. Khadri
-- Dr. S. R. Savadatti
-- Dr. S. G. Hiremath
 - Dr. S. S. Patil
-- Dr. S. N. Basavaraj
-- Dr. S. M. Metri
-- Dr. S. R. Hiremath
-- Dr. S. S. Mantur
-- Dr. S. M. Khadri
-- Dr. S. R. Savadatti
-- Dr. S. G. Hiremath
-- Dr. S. S. Patil
-- Dr. S. N. Basavaraj
-- Dr. S. M. Metri
-- Dr. S. R. Hiremath
-- Dr. S. S. Mantur
+

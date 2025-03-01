@@ -16490,3 +16490,5855 @@ h-index: 26
 i10-index: 33
 Citations: 19699
 ----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: Amit Agarwal
+Affiliation: Associate  professor, Pediatrics., University of Arkansas for medical Sciences
+h-index: 9
+i10-index: 9
+Citations: 11279
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: BIKASH RANJAN DASH
+Affiliation: ITER-INDIA, Institute for plasma reaserch
+h-index: 3
+i10-index: 0
+Citations: 25
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: PAWAN KUMAR
+Affiliation: Assistant professor of mathematics; sri sai college of engineering and technology
+h-index: 64
+i10-index: 457
+Citations: 21976
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: Pradipta Biswas
+Affiliation: Indian Institute of Science
+h-index: 25
+i10-index: 69
+Citations: 2199
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: rajiv kumar
+Affiliation: assistant professor of mechanical engineering
+h-index: 96
+i10-index: 568
+Citations: 49351
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: Srikumar Banerjee
+Affiliation: Bhabha Atomic Research Centre
+h-index: 79
+i10-index: 463
+Citations: 25501
+----------------------------------------
+Institution: Indian Institute of Technology Bhilai
+Name: Srinivasa Rao Bolla
+Affiliation: Assistant Professor, Department of Biomedical Sciences, Nazarbayev University School of Medicne
+h-index: 29
+i10-index: 46
+Citations: 23648
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Veluchamy A. Barathi
+Affiliation: Associate Professor; Singapore Eye Research Institute/NUS/DUKE-NUS
+h-index: 43
+i10-index: 104
+Citations: 7713
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Satish Nadathur
+Affiliation: Meta/Facebook
+h-index: 44
+i10-index: 78
+Citations: 11643
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name:  Ranjani Harish
+Affiliation: Sr. Scientist Translational Research, Madras Diabetes Research Foundation, Chennai, India
+h-index: 30
+i10-index: 50
+Citations: 3358
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Vinay Nangia
+Affiliation: Suraj Eye Institute
+h-index: 94
+i10-index: 185
+Citations: 190775
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Subramanian Sundarrajan
+Affiliation: Senior Research Fellow, National University of Singapore
+h-index: 50
+i10-index: 93
+Citations: 8356
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Dr. Subash Gopinath, Ph.D., Professor
+Affiliation: FKTKimia & Institute of Nano Electronic Engineering, Universiti Malaysia Perlis (UniMAP)
+h-index: 67
+i10-index: 381
+Citations: 19710
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Ramakrishnan Srikant
+Affiliation: Google Fellow, Google
+h-index: 33
+i10-index: 33
+Citations: 74091
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Srinivasa Vittal Katikireddi
+Affiliation: MRC/CSO Social and Public Health Sciences Unit, University of Glasgow
+h-index: 89
+i10-index: 252
+Citations: 108968
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Narasimha Murty M/ M. N. Murty/M. N. Narasimha Murthy
+Affiliation: honorary professor, computer science and automation, indian institute of science
+h-index: 35
+i10-index: 98
+Citations: 29221
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: P Balaram
+Affiliation: Molecular Biophysics Unit, Indian Institute of Science, Bangalore India
+h-index: 77
+i10-index: 414
+Citations: 24060
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Krothapalli Sreenivasa Rao
+Affiliation: Professor, Department of Computer Science and Engineering, IIT Kharagpur
+h-index: 40
+i10-index: 146
+Citations: 6798
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Aravind L
+Affiliation: Senior Investigator, National Institutes of Health
+h-index: 152
+i10-index: 366
+Citations: 121915
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: R. RAMESH
+Affiliation: University of California, Berkeley
+h-index: 165
+i10-index: 730
+Citations: 125263
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Sridha Sridharan
+Affiliation: Professor
+h-index: 73
+i10-index: 378
+Citations: 21075
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Ramakrishnan Srikant
+Affiliation: Google Fellow, Google
+h-index: 33
+i10-index: 33
+Citations: 74091
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Ramaswamy Govindan
+Affiliation: Washington University School of Medicine
+h-index: 120
+i10-index: 365
+Citations: 87496
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: R. RAMESH
+Affiliation: University of California, Berkeley
+h-index: 165
+i10-index: 730
+Citations: 125263
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Sarita Sinha
+Affiliation: National Botanical Research Institute
+h-index: 79
+i10-index: 434
+Citations: 29880
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Srinivasa Vittal Katikireddi
+Affiliation: MRC/CSO Social and Public Health Sciences Unit, University of Glasgow
+h-index: 89
+i10-index: 252
+Citations: 108968
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: R Srinivasan
+Affiliation: texas
+h-index: 99
+i10-index: 396
+Citations: 60568
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Sudarshan Karki
+Affiliation: Postdoctoral Scholar, Missouri University of Science and Technology
+h-index: 100
+i10-index: 186
+Citations: 98745
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Jaya raja Kumar
+Affiliation: Research coordinator
+h-index: 91
+i10-index: 690
+Citations: 37764
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Vivek Jayaraman
+Affiliation: Senior Group Leader & Head of Mechanistic Cognitive Neuroscience, Janelia Research Campus, HHMI
+h-index: 33
+i10-index: 36
+Citations: 22475
+----------------------------------------
+Institution: International Institute of Information Technology Bangalore
+Name: Vinay Nangia
+Affiliation: Suraj Eye Institute
+h-index: 94
+i10-index: 185
+Citations: 190775
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: B. Ramachandra Bhat
+Affiliation: NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL
+h-index: 30
+i10-index: 73
+Citations: 2972
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Dr Tangellapalli Srinivas
+Affiliation: Dr B R Ambedkar National Institute of Technology Jalandhar
+h-index: 27
+i10-index: 59
+Citations: 2345
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Chandrasekhar Reddy Gade
+Affiliation: Research scholar, vit university
+h-index: 3
+i10-index: 1
+Citations: 53
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Dr. C. Rama Krishna
+Affiliation: Professor, Department of Computer Science & Engineering, NITTTR, Chandigarh
+h-index: 27
+i10-index: 68
+Citations: 3147
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Vasudeva Murthy.C.R.
+Affiliation: Forensic Pathologist, Ministry of Health, Brunei
+h-index: 13
+i10-index: 14
+Citations: 423
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Dr. Prabu M
+Affiliation: Assistant Professor (Sl.Gr), Department of Computer Science and Engineering, AMRITA Vishwa
+h-index: 7
+i10-index: 5
+Citations: 168
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Gokul Ramaswami
+Affiliation: Data Scientist, CAMP4 Therapeutics
+h-index: 35
+i10-index: 42
+Citations: 10524
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: GAVINOLLA SRINIVAS REDDY
+Affiliation: Presidency University
+h-index: 12
+i10-index: 12
+Citations: 584
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: K.N.Balasubramanya Murthy
+Affiliation: PES University
+h-index: 16
+i10-index: 22
+Citations: 1105
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Sridhar N Koka
+Affiliation: Andhra University
+h-index: 2
+i10-index: 0
+Citations: 17
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Krothapalli Sreenivasa Rao
+Affiliation: Professor, Department of Computer Science and Engineering, IIT Kharagpur
+h-index: 40
+i10-index: 146
+Citations: 6798
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Kandikere R. Sridhar
+Affiliation: Professor, Mangalore University, India
+h-index: 54
+i10-index: 251
+Citations: 11779
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Dr. KVS Hari Kumar
+Affiliation: Endocrinologist, Army Hospital (R&R), Delhi
+h-index: 32
+i10-index: 131
+Citations: 6227
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Mandalam Seshadri
+Affiliation: Professor of Endocrinology Diabetes and Metabolism Christian Medical College Vellore
+h-index: 27
+i10-index: 55
+Citations: 2431
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Vasudev Upadhye
+Affiliation: Assistant Professor, Civil Engineering Department, MIT, Aurangabad, MS, India
+h-index: 2
+i10-index: 0
+Citations: 7
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Lakshmi Narayana Yaddanapudi
+Affiliation: Professor of Anaesthesia and Intensive Care, Postgraduate Institute of Medical Education & Research
+h-index: 23
+i10-index: 41
+Citations: 3219
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Dr.Ram Shankar Gupta
+Affiliation: Unknown affiliation
+h-index: 42
+i10-index: 212
+Citations: 30572
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Srinivasa Rao Bolla
+Affiliation: Assistant Professor, Department of Biomedical Sciences, Nazarbayev University School of Medicne
+h-index: 29
+i10-index: 46
+Citations: 23648
+----------------------------------------
+Institution: M. S. Ramaiah Institute of Technology
+Name: Umashankar Male
+Affiliation: Senior Research Officer
+h-index: 18
+i10-index: 26
+Citations: 874
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Sukhpal Singh Gill
+Affiliation: Queen Mary University of London, UK
+h-index: 53
+i10-index: 129
+Citations: 12022
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Satnam Singh
+Affiliation: Unknown affiliation
+h-index: 51
+i10-index: 165
+Citations: 9749
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Surinder P. Singh,
+Affiliation: CSIR-National Physical Laboratory, New Delhi
+h-index: 47
+i10-index: 123
+Citations: 19937
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Vikas Sharma
+Affiliation: Chandigarh Egnineering College
+h-index: 47
+i10-index: 360
+Citations: 14261
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Vijay Kumar Kuchroo
+Affiliation: vkuchroo@evergrande.hms.harvard.edu
+h-index: 172
+i10-index: 446
+Citations: 138451
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: vishal sharma
+Affiliation: Asst proffessor cs
+h-index: 58
+i10-index: 256
+Citations: 14798
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Manjeet singh
+Affiliation: EDITOR
+h-index: 70
+i10-index: 488
+Citations: 23644
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Rajbir Singh
+Affiliation: ADG (AAFCC) Natural Resource Management Division of ICAR, KAB-II, Pusa, New Delhi
+h-index: 32
+i10-index: 73
+Citations: 6579
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: JITENDRA V SINGH
+Affiliation: Saul P. Steinberg Emeritus Professor of Management, The Wharton School, University of Pennsylvania
+h-index: 50
+i10-index: 142
+Citations: 23176
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: jasmeet singh
+Affiliation: Research Associate at California state university, northridge
+h-index: 48
+i10-index: 311
+Citations: 12491
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Navjot Singh
+Affiliation: Research Scholar
+h-index: 55
+i10-index: 297
+Citations: 15441
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Sardar Parminder Singh
+Affiliation: Unknown affiliation
+h-index: 27
+i10-index: 122
+Citations: 5122
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: A J A RANJIT SINGH
+Affiliation: sri paramakalyani college
+h-index: 38
+i10-index: 155
+Citations: 10956
+----------------------------------------
+Institution: Sant Longowal Institute of Engineering and Technology
+Name: Sanjeev Kumar
+Affiliation: Unknown affiliation
+h-index: 113
+i10-index: 1386
+Citations: 79166
+----------------------------------------
+Institution: COEP Technological University
+Name: Anil Deshpande
+Affiliation: Eurofins Advinus
+h-index: 12
+i10-index: 16
+Citations: 465
+----------------------------------------
+Institution: COEP Technological University
+Name: Aniruddha P.  Kulkarni
+Affiliation: Cavendish Renewable Technology, Fortescue Future Industries, Ex-CSIRO
+h-index: 26
+i10-index: 38
+Citations: 4364
+----------------------------------------
+Institution: COEP Technological University
+Name: Bhushan R. Patil
+Affiliation: Postdoc, Mads Clausen Institute, University of Southern Denmark
+h-index: 19
+i10-index: 28
+Citations: 1136
+----------------------------------------
+Institution: COEP Technological University
+Name: Ganesh Hegde
+Affiliation: Advanced Logic Lab, Samsung Semiconductor Inc
+h-index: 10
+i10-index: 10
+Citations: 484
+----------------------------------------
+Institution: COEP Technological University
+Name: Jyoti Puri
+Affiliation: Simmons College
+h-index: 13
+i10-index: 17
+Citations: 1319
+----------------------------------------
+Institution: COEP Technological University
+Name: Madhavi joshi
+Affiliation: Research scholar, Himachal Pradesh University Shimla
+h-index: 6
+i10-index: 4
+Citations: 141
+----------------------------------------
+Institution: COEP Technological University
+Name: Mohan Bhandari
+Affiliation: Lecturer
+h-index: 11
+i10-index: 11
+Citations: 484
+----------------------------------------
+Institution: COEP Technological University
+Name: Nilesh Kulkarni
+Affiliation: Scientific Officer - F , TIFR, Mumbai.
+h-index: 13
+i10-index: 13
+Citations: 768
+----------------------------------------
+Institution: COEP Technological University
+Name: Parag Kulkarni
+Affiliation: UAE University
+h-index: 24
+i10-index: 41
+Citations: 5124
+----------------------------------------
+Institution: COEP Technological University
+Name: Praveen Joshi
+Affiliation: student of quality assurance,PCP,pune
+h-index: 9
+i10-index: 9
+Citations: 2213
+----------------------------------------
+Institution: COEP Technological University
+Name: Ramesh KulKarni
+Affiliation: Professor of Electronics &Telecommunication, Mumbai University
+h-index: 10
+i10-index: 11
+Citations: 590
+----------------------------------------
+Institution: COEP Technological University
+Name: Sachin  Atre Ph.D.
+Affiliation: Research Consultant and Faculty Dr. D.Y. Patil Medical College Pune
+h-index: 32
+i10-index: 42
+Citations: 43128
+----------------------------------------
+Institution: COEP Technological University
+Name: Sandeep Patil
+Affiliation: IBM
+h-index: 32
+i10-index: 121
+Citations: 4547
+----------------------------------------
+Institution: COEP Technological University
+Name: Sanjay Nagarkar
+Affiliation: CEO GLOBEX BIOTECH LTD HONG KONG
+h-index: 9
+i10-index: 9
+Citations: 484
+----------------------------------------
+Institution: COEP Technological University
+Name: Shrikant Deshpande
+Affiliation: Medical Physicist, Liverpool hospital  Liverpool NSW Australia
+h-index: 10
+i10-index: 14
+Citations: 367
+----------------------------------------
+Institution: COEP Technological University
+Name: Chinmay Subodh Kulkarni
+Affiliation: Student
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: COEP Technological University
+Name: Suresh G Joshi
+Affiliation: Professor, Drexel University, College of Medicine, & Drexel Biomed Cluster, Philadelphia, USA
+h-index: 31
+i10-index: 69
+Citations: 4529
+----------------------------------------
+Institution: COEP Technological University
+Name: Dr. Vaman Kulkarni
+Affiliation: Assistant Professor, Department of Community and Family Medicine, AIIMS, Bibinagar
+h-index: 33
+i10-index: 58
+Citations: 14854
+----------------------------------------
+Institution: COEP Technological University
+Name: Harshad Vijay Kulkarni
+Affiliation: Indian Institute of Technology Mandi
+h-index: 12
+i10-index: 13
+Citations: 709
+----------------------------------------
+Institution: COEP Technological University
+Name: Vinayak Deshpande
+Affiliation: Mann Family Distinguished Professor, University of North Carolina at Chapel Hill
+h-index: 24
+i10-index: 28
+Citations: 2281
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Kuldeep Singh, Ph.D.
+Affiliation: Research Triangle Institute, North Carolina, USA
+h-index: 8
+i10-index: 7
+Citations: 241
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Anushka Sharma
+Affiliation: PhD student, Centre for Chromosome Biology, University of Galway
+h-index: 1
+i10-index: 1
+Citations: 104
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: AARTI SHARMA
+Affiliation: Unknown affiliation
+h-index: 33
+i10-index: 53
+Citations: 6428
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Falguni Agarwal
+Affiliation: Research Scholar
+h-index: 8
+i10-index: 5
+Citations: 184
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Reema Sharma
+Affiliation: Unknown affiliation
+h-index: 22
+i10-index: 30
+Citations: 2396
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Dr Amrita Kumari
+Affiliation: Postdoc, University of Massachusetts Chan Medical School
+h-index: 4
+i10-index: 4
+Citations: 71
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Yendrembam Arunkumar Singh
+Affiliation: Manipur Institute of Technology
+h-index: 3
+i10-index: 0
+Citations: 18
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Dr. Deepak G Joshi
+Affiliation: Professor, Adarsh College of Pharmacy, Vita
+h-index: 2
+i10-index: 0
+Citations: 9
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Maninder Jeet Kaur
+Affiliation: Seneca College, Canada
+h-index: 18
+i10-index: 28
+Citations: 1528
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Navin Kumar Verma
+Affiliation: Nanyang Technological University, Singapore
+h-index: 40
+i10-index: 77
+Citations: 5795
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Yash Mathur
+Affiliation: PhD Scholar, Jamia Millia Islamia
+h-index: 3
+i10-index: 2
+Citations: 314
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Priyanka Sood
+Affiliation: National Institute of Plant Genome Research
+h-index: 9
+i10-index: 9
+Citations: 962
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Ram Gandikota
+Affiliation: Texas Instruments
+h-index: 2
+i10-index: 1
+Citations: 65
+----------------------------------------
+Institution: Banasthali Vidyapith
+Name: Rita Agarwal
+Affiliation: clinical Professor of Anesthesiology
+h-index: 15
+i10-index: 18
+Citations: 1119
+----------------------------------------
+Institution: University of Hyderabad
+Name: Prabhakar Rao
+Affiliation: Chief Scientist, CSIR-NIIST
+h-index: 31
+i10-index: 78
+Citations: 3017
+----------------------------------------
+Institution: University of Hyderabad
+Name: Dr. Anasuya Sesha Roopa Devi Bhima
+Affiliation: Professor in Applied Artificial Intelligence and Machine Learning
+h-index: 5
+i10-index: 1
+Citations: 52
+----------------------------------------
+Institution: University of Hyderabad
+Name: Someswara Rao N
+Affiliation: Professor of Analytical chemistry (Retd), Andhra university
+h-index: 24
+i10-index: 82
+Citations: 2441
+----------------------------------------
+Institution: University of Hyderabad
+Name: haragopal gampala
+Affiliation: Chatanya Bharathi Institute of Technology
+h-index: 1
+i10-index: 1
+Citations: 71
+----------------------------------------
+Institution: University of Hyderabad
+Name: Padmanabham Jijjavarapu
+Affiliation: Indian National Centre for Ocean Information Services
+h-index: 4
+i10-index: 4
+Citations: 151
+----------------------------------------
+Institution: University of Hyderabad
+Name: Sankaran Venkataraman
+Affiliation: MasterCard Professor of Business Administration, Darden Graduate School of Business, University of
+h-index: 44
+i10-index: 74
+Citations: 47400
+----------------------------------------
+Institution: University of Hyderabad
+Name: Bipro Nath Dubey
+Affiliation: Sheffield Hallam University
+h-index: 11
+i10-index: 11
+Citations: 430
+----------------------------------------
+Institution: University of Hyderabad
+Name: Vinod Subramaniam
+Affiliation: University of Twente
+h-index: 69
+i10-index: 188
+Citations: 15948
+----------------------------------------
+Institution: University of Hyderabad
+Name: Munna Ram
+Affiliation: Student at Nit Jalandhar
+h-index: 1
+i10-index: 0
+Citations: 3
+----------------------------------------
+Institution: University of Hyderabad
+Name: MOHAN RAO KOLLIPARA
+Affiliation: NORTH EASTERN HILL UNIVERSITY
+h-index: 28
+i10-index: 110
+Citations: 3349
+----------------------------------------
+Institution: University of Hyderabad
+Name: Gopal Narayanan
+Affiliation: Unknown affiliation
+h-index: 45
+i10-index: 89
+Citations: 17811
+----------------------------------------
+Institution: University of Hyderabad
+Name: Muralidhar Rangaswamy
+Affiliation: Technical Lead for Radar Sensing, Air Force Research Laboratory
+h-index: 43
+i10-index: 141
+Citations: 8423
+----------------------------------------
+Institution: University of Hyderabad
+Name: Professor Srinath Perera
+Affiliation: Professor of Built Environment & Construction Managemengt, Western Sydney University
+h-index: 43
+i10-index: 123
+Citations: 7600
+----------------------------------------
+Institution: University of Hyderabad
+Name: Seeram Ramakrishna
+Affiliation: National University of Singapore
+h-index: 210
+i10-index: 1723
+Citations: 206428
+----------------------------------------
+Institution: University of Hyderabad
+Name: Dr S Krishna Mohan Rao
+Affiliation: Gandhi Institute For Technology
+h-index: 19
+i10-index: 30
+Citations: 2028
+----------------------------------------
+Institution: University of Hyderabad
+Name: K.R. Subramanyam
+Affiliation: KPMG Foundation Professor of Accounting, Marshall School of Business, University of Southern
+h-index: 36
+i10-index: 47
+Citations: 26477
+----------------------------------------
+Institution: University of Hyderabad
+Name: Vijay Bhaskar Semwal
+Affiliation: Maulana Azad National Institute of Technology Bhopal (MANIT Bhopal)
+h-index: 37
+i10-index: 58
+Citations: 3901
+----------------------------------------
+Institution: University of Hyderabad
+Name: Shankar Sastry
+Affiliation: University of California
+h-index: 141
+i10-index: 602
+Citations: 121269
+----------------------------------------
+Institution: University of Hyderabad
+Name: AFZAL AHMAD ANSARI
+Affiliation: Research Scholar, University of Allahabad
+h-index: 48
+i10-index: 116
+Citations: 45646
+----------------------------------------
+Institution: University of Hyderabad
+Name: Muhammad Aslam Shahzad
+Affiliation: Research Associate
+h-index: 86
+i10-index: 696
+Citations: 34242
+----------------------------------------
+Institution: University of Hyderabad
+Name: Rammohan Rao
+Affiliation: Buck Institute
+h-index: 27
+i10-index: 39
+Citations: 8130
+----------------------------------------
+Institution: University of Hyderabad
+Name: Stephen Rao
+Affiliation: Director of Schey Center for Cognitive Neuroimaging, Cleveland Clinic
+h-index: 99
+i10-index: 226
+Citations: 44952
+----------------------------------------
+Institution: University of Hyderabad
+Name: Janaki Amin
+Affiliation: Professor of Public Health, Macqurie Univeristy
+h-index: 64
+i10-index: 168
+Citations: 13684
+----------------------------------------
+Institution: University of Hyderabad
+Name: Kameshwari Shankar
+Affiliation: City College of New York
+h-index: 6
+i10-index: 5
+Citations: 137
+----------------------------------------
+Institution: University of Hyderabad
+Name: Kummara Madhusudana Rao
+Affiliation: Yeungnam University, Gyeongbuk, 38541, South Korea
+h-index: 42
+i10-index: 97
+Citations: 5936
+----------------------------------------
+Institution: University of Hyderabad
+Name: Partha Sarathi Mukherjee
+Affiliation: Inorganic and Physical Chemistry Department, Indian Institute of Science
+h-index: 69
+i10-index: 193
+Citations: 17379
+----------------------------------------
+Institution: University of Hyderabad
+Name: Rajendra Nath Patra
+Affiliation: University of Jammu, Jammu
+h-index: 99
+i10-index: 286
+Citations: 28374
+----------------------------------------
+Institution: University of Hyderabad
+Name: D Srinivas Murty
+Affiliation: Gujarat Vidyapith
+h-index: 74
+i10-index: 180
+Citations: 63958
+----------------------------------------
+Institution: University of Hyderabad
+Name: Srinivasa T Reddy
+Affiliation: UCLA
+h-index: 82
+i10-index: 212
+Citations: 24610
+----------------------------------------
+Institution: University of Hyderabad
+Name: Machireddy Gnaneswara Reddy
+Affiliation: Acharya Nagarjuna University
+h-index: 41
+i10-index: 119
+Citations: 5252
+----------------------------------------
+Institution: University of Hyderabad
+Name: D Srinivas Murty
+Affiliation: Gujarat Vidyapith
+h-index: 74
+i10-index: 180
+Citations: 63958
+----------------------------------------
+Institution: University of Hyderabad
+Name: Vadlamudi Brahmananda Rao
+Affiliation: Scientist,INPE,Brazil
+h-index: 35
+i10-index: 82
+Citations: 5039
+----------------------------------------
+Institution: University of Hyderabad
+Name: Professor Vivek A. Sharma
+Affiliation: University of California, San DIego
+h-index: 259
+i10-index: 1755
+Citations: 354812
+----------------------------------------
+Institution: University of Hyderabad
+Name: Satyanarayana Bheesette
+Affiliation: Tata Institute of Fundamental Research
+h-index: 113
+i10-index: 390
+Citations: 73256
+----------------------------------------
+Institution: University of Hyderabad
+Name: Tyler Reddy
+Affiliation: Staff Scientist, Los Alamos National Laboratory
+h-index: 25
+i10-index: 34
+Citations: 60574
+----------------------------------------
+Institution: University of Hyderabad
+Name: John Wesley Hutchinson
+Affiliation: Professor of Marketing, Wharton School, University of Pennsylvania
+h-index: 40
+i10-index: 58
+Citations: 18627
+----------------------------------------
+Institution: University of Hyderabad
+Name: Haikady N Nagaraja
+Affiliation: Professor Emeritus, The Ohio State University
+h-index: 75
+i10-index: 197
+Citations: 39669
+----------------------------------------
+Institution: University of Hyderabad
+Name: D.S. Prasada Rao
+Affiliation: School of Economics, University of Queensland
+h-index: 47
+i10-index: 139
+Citations: 35039
+----------------------------------------
+Institution: University of Hyderabad
+Name: D Srinivas Murty
+Affiliation: Gujarat Vidyapith
+h-index: 74
+i10-index: 180
+Citations: 63958
+----------------------------------------
+Institution: University of Hyderabad
+Name: S V Subramanian
+Affiliation: Harvard University
+h-index: 136
+i10-index: 652
+Citations: 77413
+----------------------------------------
+Institution: University of Hyderabad
+Name: Raghavendra Gadagkar
+Affiliation: Professor, Centre for Ecological Sciences, Indian Institute of Science
+h-index: 43
+i10-index: 121
+Citations: 5954
+----------------------------------------
+Institution: University of Hyderabad
+Name: Arvind Kumar Singh
+Affiliation: Senior Scientist & Head Krishi Vigyan Kendra Piprakothi Dr Rajendra Prasad Central Agricultural University Pusa Samastipur Bihar
+h-index: 23
+i10-index: 81
+Citations: 3164
+----------------------------------------
+Institution: University of Hyderabad
+Name: Ramachandran B
+Affiliation: Professor of Electronics and Communication Engineering, SRM Institute of Science and Technology
+h-index: 15
+i10-index: 24
+Citations: 687
+----------------------------------------
+Institution: University of Hyderabad
+Name: Giuseppe Eugenio  Bruno
+Affiliation: Politecnico di Bari - Dipartimento di Fisica "M. Merlin" and INFN, Bari, Italy
+h-index: 279
+i10-index: 1498
+Citations: 336702
+----------------------------------------
+Institution: University of Hyderabad
+Name: Shyam Aravamudhan
+Affiliation: North Carolina A&T State University
+h-index: 21
+i10-index: 35
+Citations: 1661
+----------------------------------------
+Institution: University of Hyderabad
+Name: Sethumadhavan Chandrasekhar
+Affiliation: Retired Nokia Bell Labs
+h-index: 71
+i10-index: 345
+Citations: 19647
+----------------------------------------
+Institution: University of Hyderabad
+Name: Gopi Dandamudi MD MBA
+Affiliation: President, Heart & Vascular Institute, Prisma Health
+h-index: 32
+i10-index: 53
+Citations: 7126
+----------------------------------------
+Institution: University of Hyderabad
+Name: Y.C. Janardhan Reddy
+Affiliation: NIMHANS
+h-index: 61
+i10-index: 170
+Citations: 11874
+----------------------------------------
+Institution: University of Hyderabad
+Name: Oinam Krishnadas Singh
+Affiliation: PhD  Scholar, Punjab Agricultural University, Ludhiana.
+h-index: 4
+i10-index: 2
+Citations: 44
+----------------------------------------
+Institution: University of Hyderabad
+Name: M. Yusuf
+Affiliation: Mr. Guru Kelas SDN 05 Bukittinggi
+h-index: 93
+i10-index: 601
+Citations: 37111
+----------------------------------------
+Institution: University of Hyderabad
+Name: Nitin Puri
+Affiliation: Unknown affiliation
+h-index: 29
+i10-index: 47
+Citations: 3304
+----------------------------------------
+Institution: University of Hyderabad
+Name: Parimal Karmakar
+Affiliation: professor of Biotechnology
+h-index: 44
+i10-index: 103
+Citations: 21092
+----------------------------------------
+Institution: University of Hyderabad
+Name: Rhine Samajdar
+Affiliation: Princeton University
+h-index: 24
+i10-index: 35
+Citations: 4191
+----------------------------------------
+Institution: University of Hyderabad
+Name: Sanjay Rajagopalan
+Affiliation: Case Western Reserve University, University Hospitals
+h-index: 114
+i10-index: 379
+Citations: 87674
+----------------------------------------
+Institution: University of Hyderabad
+Name: Parthasarathy Ranganathan
+Affiliation: Google
+h-index: 81
+i10-index: 204
+Citations: 30119
+----------------------------------------
+Institution: University of Hyderabad
+Name: D Srinivas Murty
+Affiliation: Gujarat Vidyapith
+h-index: 74
+i10-index: 180
+Citations: 63958
+----------------------------------------
+Institution: University of Hyderabad
+Name: Sampath Parthasarathy
+Affiliation: University of Central Florida
+h-index: 98
+i10-index: 284
+Citations: 51774
+----------------------------------------
+Institution: University of Hyderabad
+Name: Dr. S.V.S. Narayana Murty
+Affiliation: Liquid Propulsion Systems Center, Trivandrum, India.
+h-index: 41
+i10-index: 131
+Citations: 5944
+----------------------------------------
+Institution: University of Hyderabad
+Name: Shailendra Kumar Singh - Ph.d(Law)
+Affiliation: Executive Alumnus - IIM Lucknow & IIM Kashipur
+h-index: 60
+i10-index: 315
+Citations: 16470
+----------------------------------------
+Institution: University of Hyderabad
+Name: Smita Chaudhry
+Affiliation: Professor and Director, Institute of Environmental Studies, Kurukshetra University, India
+h-index: 19
+i10-index: 36
+Citations: 1581
+----------------------------------------
+Institution: University of Hyderabad
+Name: Krishna Srikanth Gomadam
+Affiliation: Facebook
+h-index: 24
+i10-index: 38
+Citations: 3488
+----------------------------------------
+Institution: University of Hyderabad
+Name: Vd.Pradeep Kumar Prajapati
+Affiliation: Professor, All India Institute of Ayurveda and Director incharge PCIMH
+h-index: 32
+i10-index: 180
+Citations: 6355
+----------------------------------------
+Institution: University of Hyderabad
+Name: K L Narsimhan
+Affiliation: visiting Professor EE IIT Bombay
+h-index: 34
+i10-index: 106
+Citations: 4468
+----------------------------------------
+Institution: University of Hyderabad
+Name: Venkatesan Chakrapani
+Affiliation: Centre for Sexuality and Health Research and Policy (C-SHaRP), Chennai; NIAS, Bangalore & HST-Mumbai
+h-index: 37
+i10-index: 68
+Citations: 3749
+----------------------------------------
+Institution: University of Hyderabad
+Name: P V KANAKA RAO
+Affiliation: Associate Professor of Physics
+h-index: 3
+i10-index: 1
+Citations: 43
+----------------------------------------
+Institution: University of Hyderabad
+Name: Kummara Madhusudana Rao
+Affiliation: Yeungnam University, Gyeongbuk, 38541, South Korea
+h-index: 42
+i10-index: 97
+Citations: 5936
+----------------------------------------
+Institution: University of Hyderabad
+Name: Srinivasa T Reddy
+Affiliation: UCLA
+h-index: 82
+i10-index: 212
+Citations: 24610
+----------------------------------------
+Institution: University of Hyderabad
+Name: S V Subramanian
+Affiliation: Harvard University
+h-index: 136
+i10-index: 652
+Citations: 77413
+----------------------------------------
+Institution: University of Hyderabad
+Name: S N Raju Kutcherlapati
+Affiliation: CSIR-IICT Hyderabad
+h-index: 9
+i10-index: 9
+Citations: 436
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Vikas Bhujade
+Affiliation: Assistant Professor in Computer Science & Engineering Department
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Prof. J.B. Singh
+Affiliation: Distinguished Professor, University of Petroleum and Energy Studies,Dehradun and Panjab University
+h-index: 248
+i10-index: 1421
+Citations: 264796
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Bhushan Munjal
+Affiliation: Researcher 6, Department of Pharmaceutics, University of Minnesota
+h-index: 12
+i10-index: 13
+Citations: 680
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Mr. Lakshman Singh
+Affiliation: CHANDIGARH UNIVERSITY
+h-index: 39
+i10-index: 160
+Citations: 5937
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Nami Singh Rajput
+Affiliation: Student of Biotechnology
+h-index: 49
+i10-index: 138
+Citations: 7156
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Santosh Kumar
+Affiliation: Soban Singh Jeena University, Almora (Uttarakhand) India
+h-index: 36
+i10-index: 265
+Citations: 9208
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Siddharth Chatterjee
+Affiliation: Student at Vellore Institute of Technology
+h-index: 37
+i10-index: 56
+Citations: 5197
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Sidharth Verma
+Affiliation: Research Scholar of Disaster Management, Guru Gobind Singh Indraprastha University, Delhi
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: National Institute of Technology Raipur
+Name: Dr. Sanjay Kumar Agarwal
+Affiliation: All India Institute of Medical Sciences
+h-index: 59
+i10-index: 320
+Citations: 39204
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Akanksha Gupta
+Affiliation: CSULB
+h-index: 28
+i10-index: 96
+Citations: 4113
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Vijay  Gupta
+Affiliation: RTI International
+h-index: 16
+i10-index: 23
+Citations: 1017
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Rishi Gupta
+Affiliation: Wellstar Health System
+h-index: 76
+i10-index: 319
+Citations: 25041
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Dr. Abhijeet Gupta
+Affiliation: Post-Doctoral Researcher, Heinrich-Heine-Universität, Düsseldorf
+h-index: 7
+i10-index: 4
+Citations: 214
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Aishwarya gupta
+Affiliation: PhD Scholar, Jaypee Institute of Information Technology, Noida
+h-index: 4
+i10-index: 3
+Citations: 121
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Prabhat K. Gupta
+Affiliation: CSIR-National Physical Laboratory, New Delhi, India
+h-index: 73
+i10-index: 486
+Citations: 26047
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Rakhi Rajan
+Affiliation: Associate Professor -Chemistry and Biochemistry - University of Oklahoma
+h-index: 17
+i10-index: 23
+Citations: 1428
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Nitesh Kumar
+Affiliation: Teaching Faculty Computer Science
+h-index: 50
+i10-index: 313
+Citations: 13682
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Umesh Gupta
+Affiliation: Central University of Rajasthan, India
+h-index: 44
+i10-index: 80
+Citations: 8439
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Nikita Sharma
+Affiliation: University of Miskolc
+h-index: 7
+i10-index: 7
+Citations: 162
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Chandan Kumar-Sinha
+Affiliation: University of Michigan
+h-index: 51
+i10-index: 79
+Citations: 17488
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Reema Gupta
+Affiliation: MAPC COUNSELLING IGNOU
+h-index: 26
+i10-index: 68
+Citations: 4957
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Gurpreet Kaur
+Affiliation: Postdoctoral researcher at Stockholm University
+h-index: 67
+i10-index: 524
+Citations: 27423
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Punya Mishra
+Affiliation: Director Innovative Learning Futures, Mary Lou Fulton College, Arizona State University
+h-index: 67
+i10-index: 197
+Citations: 67156
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Nisha Sharma
+Affiliation: William Beaumont Hospital
+h-index: 40
+i10-index: 210
+Citations: 8407
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: enakshi khular sharma
+Affiliation: Delhi University
+h-index: 19
+i10-index: 36
+Citations: 1573
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Ahmet Faruk Aysan
+Affiliation: Hamad Bin Khalifa University,
+h-index: 38
+i10-index: 101
+Citations: 5130
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Hassan Darbandi Tamijani
+Affiliation: Department of Immunology, School of medicine, Shahid beheshti university of Medical Sciences
+h-index: 8
+i10-index: 8
+Citations: 280
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Pankhi Singh
+Affiliation: PhD Researcher, University of Strasbourg
+h-index: 2
+i10-index: 0
+Citations: 9
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Kalanand Mishra
+Affiliation: Capital One AI Foundations
+h-index: 200
+i10-index: 641
+Citations: 142821
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Sriman Kumar Bhattacharyya
+Affiliation: Vice-Chancellor, Shiv Nadar University Chennai, Professor of Civil Engineering, Indian Institute of
+h-index: 51
+i10-index: 196
+Citations: 14135
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Pankaj K. Agarwal
+Affiliation: Duke University
+h-index: 76
+i10-index: 357
+Citations: 27470
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Yash Pande
+Affiliation: MCS Student, Arizona State University
+h-index: 1
+i10-index: 1
+Citations: 126
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Kalanand Mishra
+Affiliation: Capital One AI Foundations
+h-index: 200
+i10-index: 641
+Citations: 142821
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Jainagesh Sekhar, J. A. Sekhar, Jai Sekhar, Jai A. Sekhar, J. Sekhar, Jainagesh A. Sekhar, JA Sekhar
+Affiliation: Emeritus Professor  University of Cincinnati
+h-index: 32
+i10-index: 123
+Citations: 3607
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Naresh M. Punjabi, MD. PhD
+Affiliation: Professor Medicine with Tenure
+h-index: 83
+i10-index: 183
+Citations: 37289
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Anshuman Tiwari
+Affiliation: MSc Student at TU Delft
+h-index: 9
+i10-index: 9
+Citations: 677
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Dr Akhilesh  Kumar Pandey
+Affiliation: Rani Durgavati University, Jabalpur
+h-index: 123
+i10-index: 552
+Citations: 92099
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Dr. Sandeep Kumar Srivastava
+Affiliation: Associate Professor (Central Institute of Technology Kokrajhar, India)
+h-index: 27
+i10-index: 49
+Citations: 1377
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: REETA YADAV
+Affiliation: Research Scholar
+h-index: 2
+i10-index: 1
+Citations: 25
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Shailendra Gupta
+Affiliation: Department of Systems Biology and Bioinformatics, University of Rostock, Rostock Germany
+h-index: 29
+i10-index: 59
+Citations: 3301
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Dr. Subodh Srivastava
+Affiliation: Asst. Prof. NIT Patna , Ph.D. IIT (BHU), Varanasi
+h-index: 18
+i10-index: 35
+Citations: 1401
+----------------------------------------
+Institution: Maulana Azad National Institute of Technology
+Name: Dr Sanjay Kumar Shukla
+Affiliation: Edith Cowan University
+h-index: 46
+i10-index: 149
+Citations: 7066
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Abhishek Anand
+Affiliation: Robotic Process Automation
+h-index: 29
+i10-index: 87
+Citations: 4551
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: AMITABH GUPTA
+Affiliation: Associate Professor, Dept. of Financial Studies,University of Delhi
+h-index: 50
+i10-index: 207
+Citations: 11594
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Dr. ANURADHA R
+Affiliation: Associate  Professor ,Community Medicine ,ESIC Medical College and PGIMSR, KK Nagar ,Chennai
+h-index: 9
+i10-index: 9
+Citations: 484
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Arun Bansal
+Affiliation: Post Graduate Institute of Medical Education and Research, Chandigarh
+h-index: 28
+i10-index: 68
+Citations: 2993
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: C Krishna Mohan
+Affiliation: IIT Hyderabad
+h-index: 55
+i10-index: 111
+Citations: 6255
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: David S. Rosenblum
+Affiliation: George Mason University
+h-index: 60
+i10-index: 128
+Citations: 16701
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: debashis mukherjee
+Affiliation: Indian Association for the Cultivation of Science
+h-index: 61
+i10-index: 212
+Citations: 14219
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Gautam Das
+Affiliation: Distinguished University Chair Professor, Associate Dean,  University of Texas at Arlington
+h-index: 66
+i10-index: 322
+Citations: 21763
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Hemanta K.Sahu
+Affiliation: Professor of Zoology
+h-index: 16
+i10-index: 30
+Citations: 1039
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Indranath Chatterjee
+Affiliation: Assistant Professor at Manchester Metropolitan University, UK
+h-index: 13
+i10-index: 18
+Citations: 555
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Jayant Haritsa
+Affiliation: Indian Institute of Science
+h-index: 38
+i10-index: 81
+Citations: 6784
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Jian Li
+Affiliation: Electrical, University of Florida, University of Kentucky, Ohio State University
+h-index: 109
+i10-index: 676
+Citations: 61652
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Jonathan Katz
+Affiliation: Professor of Computer Science, University of Maryland
+h-index: 94
+i10-index: 233
+Citations: 39443
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Venugopal K R
+Affiliation: Former Vice Chancellor, Bangalore University, IEEE Fellow, ACM Distinguished Educator
+h-index: 41
+i10-index: 197
+Citations: 8696
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Lisa Hellerstein
+Affiliation: Professor, New York University
+h-index: 30
+i10-index: 43
+Citations: 2752
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Manas Pratap Singh
+Affiliation: Student of Physics ,Graphic Era Hill University
+h-index: 1
+i10-index: 0
+Citations: 2
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Manish K. Gupta, PhD
+Affiliation: Assistant Professor
+h-index: 18
+i10-index: 22
+Citations: 1031
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Mithun Mukherjee
+Affiliation: Nanjing University of Information Science and Technology, China
+h-index: 32
+i10-index: 86
+Citations: 7784
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Nitin Saxena
+Affiliation: N.Rama.Rao.Professor & J.C.Bose.Fellow, CSE, IIT Kanpur; FNA FASc FNASc FNAE
+h-index: 25
+i10-index: 45
+Citations: 4319
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Dr. P. R. Sahu
+Affiliation: IIT Bhubaneswar
+h-index: 18
+i10-index: 39
+Citations: 939
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Prahladh Harsha
+Affiliation: Tata Institute of Fundamental Research, Mumbai
+h-index: 21
+i10-index: 30
+Citations: 1964
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Kannan Radhakrishnan
+Affiliation: Professor of Chemical Engineering
+h-index: 4
+i10-index: 4
+Citations: 76
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: R C Tripathi, Ramesh Chandra, Ramesh Chandra Tripathi
+Affiliation: MGCGV Chitrakoot
+h-index: 9
+i10-index: 9
+Citations: 470
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: SANTHOSH KUMAR
+Affiliation: VELTECH RANGARAJAN DR.SAGUNTHALA R&D INSTITUTE OF SCIENCE & TECHNOLOGY
+h-index: 33
+i10-index: 152
+Citations: 13331
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: SANDEEP KUMAR SHUKLA
+Affiliation: PhD scholar
+h-index: 71
+i10-index: 354
+Citations: 23251
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Saswata Shannigrahi
+Affiliation: Independent Researcher and Educator
+h-index: 7
+i10-index: 5
+Citations: 191
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Shardul Singh Chauhan
+Affiliation: Assistant Professor of CSE, JSS Academy of Technical Education
+h-index: 1
+i10-index: 1
+Citations: 52
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Sihem Amer-Yahia
+Affiliation: Research Director, CNRS, LIG, France
+h-index: 46
+i10-index: 156
+Citations: 9031
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Sudipta Das
+Affiliation: IIIT Allahabad
+h-index: 55
+i10-index: 317
+Citations: 12904
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: T. N. Vijaykumar
+Affiliation: Professor of ECE, Purdue
+h-index: 54
+i10-index: 87
+Citations: 13565
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Dr Tangellapalli Srinivas
+Affiliation: Dr B R Ambedkar National Institute of Technology Jalandhar
+h-index: 27
+i10-index: 59
+Citations: 2345
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: Vinay Srinivasan
+Affiliation: Emergency Medicine Resident, Johns Hopkins
+h-index: 19
+i10-index: 19
+Citations: 55659
+----------------------------------------
+Institution: Indraprastha Institute of Information Technology
+Name: William H Sanders
+Affiliation: Carnegie Mellon University
+h-index: 57
+i10-index: 187
+Citations: 13206
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Ashish Pandey
+Affiliation: Professor and Former Head, Department of Water Resources Development and Management, IIT Roorkee
+h-index: 46
+i10-index: 103
+Citations: 7215
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Abhishek Ghosh
+Affiliation: Orthopedic Surgery
+h-index: 65
+i10-index: 395
+Citations: 22661
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Chittaranjan Hota
+Affiliation: Senior Professor of Comp. Science at BITS, Hyderabad
+h-index: 20
+i10-index: 37
+Citations: 1716
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Debashis Ghosh
+Affiliation: Professor, Colorado School of Public Health
+h-index: 71
+i10-index: 195
+Citations: 37327
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Durgesh Kumar Mishra
+Affiliation: Professor of Computer Engineering and Director Microsoft Innovation Center, Sri Aurobindo Institute of Technilogy, Indore, MP, I
+h-index: 32
+i10-index: 97
+Citations: 6501
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Gaurav Harit
+Affiliation: Unknown affiliation
+h-index: 18
+i10-index: 29
+Citations: 1006
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Gaurav Pandey
+Affiliation: Icahn School of Medicine at Mount Sinai
+h-index: 36
+i10-index: 51
+Citations: 6614
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Gautam Das
+Affiliation: Distinguished University Chair Professor, Associate Dean,  University of Texas at Arlington
+h-index: 66
+i10-index: 322
+Citations: 21763
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Gyanendra Prasad Joshi
+Affiliation: Associate Professor, Kangwon National University, Department of AI-Software
+h-index: 30
+i10-index: 71
+Citations: 4030
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Indrajit Mandal, Ph.D.
+Affiliation: Data Scientist, Manager
+h-index: 18
+i10-index: 22
+Citations: 1032
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Krishnendu Chakrabarty
+Affiliation: Fulton  Professor of Microelectronics, School of  Electrical and Computer and Energy Engineering
+h-index: 94
+i10-index: 650
+Citations: 39445
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Md Nasrul Hoda
+Affiliation: Augusta University
+h-index: 44
+i10-index: 75
+Citations: 6866
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Professor Madhumita Bhattacharya
+Affiliation: Formerly Tokyo Institute of Technology
+h-index: 17
+i10-index: 28
+Citations: 1377
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Mitali Gupta
+Affiliation: Asst. professor, Dr. Ambedkar Institute of Management Studies and Research,deekshabhoomi,Nagpur
+h-index: 1
+i10-index: 1
+Citations: 182
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Navneet Kumar Upadhyay
+Affiliation: Associate Professor, Amity Institute of Pharmacy, Amity University Rajasthan
+h-index: 16
+i10-index: 20
+Citations: 689
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Neeraj Mishra
+Affiliation: Amity Institute of Pharmacy, Amity University Madhya Pradesh, Gwalior
+h-index: 35
+i10-index: 67
+Citations: 3953
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Nitesh Saxena
+Affiliation: Full Professor at the Texas A&M University
+h-index: 46
+i10-index: 129
+Citations: 6389
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Parimal Parag
+Affiliation: Indian Institute of Science
+h-index: 16
+i10-index: 26
+Citations: 1048
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Piyush Gupta
+Affiliation: Qualcomm
+h-index: 26
+i10-index: 36
+Citations: 18970
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Raghvendra Kumar
+Affiliation: GIET University, India
+h-index: 50
+i10-index: 196
+Citations: 10388
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Prof. Rajinder K. Gupta
+Affiliation: Delhi Technological University
+h-index: 48
+i10-index: 145
+Citations: 8264
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Ramesh Chand
+Affiliation: Associate Professor in Geography
+h-index: 67
+i10-index: 329
+Citations: 17006
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Ramesh Chandra Joshi
+Affiliation: Professor of Department of Geography, Kumaun University, Nainital
+h-index: 8
+i10-index: 7
+Citations: 317
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Sajjan Singh Rao
+Affiliation: NBSS&LUP
+h-index: 18
+i10-index: 32
+Citations: 1047
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Sanjay Kumar Gupta
+Affiliation: Assistant Professor
+h-index: 76
+i10-index: 581
+Citations: 31512
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Sanjay Misra, MD FSIR, FAHA
+Affiliation: Mayo Clinic
+h-index: 58
+i10-index: 160
+Citations: 22648
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Santanu Chaudhury
+Affiliation: IIT Delhi
+h-index: 38
+i10-index: 155
+Citations: 6859
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Satyanarayan Sahoo
+Affiliation: Associate Professor
+h-index: 9
+i10-index: 9
+Citations: 506
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Vivek Srivastava
+Affiliation: Associate Professor (Biochemistry), Department of Chemistry & Biochemistry, SSBSR, Sharda University
+h-index: 9
+i10-index: 9
+Citations: 496
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: shweta jain
+Affiliation: Research Scholar, Delhi School of Economics, Delhi University
+h-index: 54
+i10-index: 302
+Citations: 28267
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Dr. Shweta Shrivastava
+Affiliation: Associate Professor, School of Pharmacy, ARKA JAIN UNIVERSITY
+h-index: 19
+i10-index: 20
+Citations: 1600
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Subhash Chandra Sharma
+Affiliation: Assistant Professor of Clinical Psychology, Kathmandu University
+h-index: 12
+i10-index: 14
+Citations: 466
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: VINOD KUMAR
+Affiliation: Associate Professor, Netaji Subhas University of Technology
+h-index: 31
+i10-index: 205
+Citations: 7269
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Sudhir Kumar Das
+Affiliation: W.B.University of Animal & Fishery Science, Kolkata
+h-index: 31
+i10-index: 138
+Citations: 5567
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Sumit Ganguly
+Affiliation: Senior Fellow, The Hoover Institution, Stanford University
+h-index: 47
+i10-index: 141
+Citations: 7735
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: T. A. Venkatesh
+Affiliation: Stony Brook University, Tulane University, MIT
+h-index: 28
+i10-index: 43
+Citations: 4195
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Tarun Gupta
+Affiliation: Professor, Indian Institute of Technology Kanpur
+h-index: 51
+i10-index: 157
+Citations: 20091
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Vijay Chauhan
+Affiliation: Unknown affiliation
+h-index: 37
+i10-index: 77
+Citations: 4622
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Vinay Gupta
+Affiliation: Dept. of Physics & Astrophysics, University of Delhi
+h-index: 69
+i10-index: 343
+Citations: 18203
+----------------------------------------
+Institution: Indian Institute of Information Technology Allahabad
+Name: Vivek Pandey
+Affiliation: Chief Scientist, NBRI
+h-index: 33
+i10-index: 64
+Citations: 4917
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Uday Bhaskar
+Affiliation: Government College (A) Anantapuram , AP India
+h-index: 9
+i10-index: 8
+Citations: 172
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Ravinder Reddy Butreddy
+Affiliation: Asso. Prof of Physics, Osmania University
+h-index: 8
+i10-index: 7
+Citations: 198
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Dr. J SRINIVAS RAO
+Affiliation: Research Co-ordinator and Associate Professor
+h-index: 6
+i10-index: 5
+Citations: 107
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: G. Praveen Raju
+Affiliation: Unknown affiliation
+h-index: 12
+i10-index: 12
+Citations: 1560
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: C Krishna Mohan
+Affiliation: IIT Hyderabad
+h-index: 55
+i10-index: 111
+Citations: 6255
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: NK SRINIVASA RAO
+Affiliation: Principal Scientist,IIHR,Bangalore
+h-index: 71
+i10-index: 545
+Citations: 24485
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Rama Krishna Reddy K
+Affiliation: Professor, PG Department & Research studies in Chemistry, Government Science College, Bengaluru
+h-index: 11
+i10-index: 12
+Citations: 278
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Dr. Madhugiri Nageswara-Rao
+Affiliation: Molecular Biology, Genomics, Genetics, QAQC
+h-index: 24
+i10-index: 57
+Citations: 3386
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Meka Sreedhar Rao
+Affiliation: Professor of Ayurveda, Swaminarayan University
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Murali Venkatrao
+Affiliation: Unknown affiliation
+h-index: 4
+i10-index: 4
+Citations: 4026
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: MNV PRASAD
+Affiliation: University of Hyderabad
+h-index: 85
+i10-index: 294
+Citations: 32815
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Munirathnam Srikanth
+Affiliation: Unknown affiliation
+h-index: 18
+i10-index: 25
+Citations: 1392
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Dr. P. Ramu Sridhar
+Affiliation: Professor
+h-index: 23
+i10-index: 46
+Citations: 2037
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: R V Sreedhar
+Affiliation: Principal Scientist, Plant Cell Biotechnology Department, CSIR-CFTRI, Associate Professor- AcSIR
+h-index: 19
+i10-index: 23
+Citations: 1690
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Dr. SLDV Ramana Murty Kadali
+Affiliation: Associate Professor
+h-index: 5
+i10-index: 3
+Citations: 98
+----------------------------------------
+Institution: Jawaharlal Nehru Technological University
+Name: Dr. V.Kamaraju
+Affiliation: Asst.Professor, Dept.of EEE, BITS-VIZAG.
+h-index: 1
+i10-index: 0
+Citations: 4
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Bibudhendu Pati
+Affiliation: Head of the Department, Department of Computer Science, Rama Devi Women' University, Bhubaneswar
+h-index: 26
+i10-index: 69
+Citations: 2095
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Dr. C.V. Suresh Babu
+Affiliation: Professor of Information Technology, Hindustan Institute of Technology and Science
+h-index: 8
+i10-index: 7
+Citations: 254
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Chebolu Lakshmana Rao
+Affiliation: Unknown affiliation
+h-index: 16
+i10-index: 22
+Citations: 1368
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Dr A Kiran Kumar
+Affiliation: Technical Officer, CSIR-Indisn Institute of Chemical Technology
+h-index: 45
+i10-index: 230
+Citations: 10505
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: I. Rajasekhar Reddy
+Affiliation: Unknown affiliation
+h-index: 3
+i10-index: 1
+Citations: 40
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Dr. K V V Satyanarayana
+Affiliation: Professor in Computer Science and Engineering, KLUniversity
+h-index: 6
+i10-index: 6
+Citations: 186
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Leena Dennis Joseph
+Affiliation: Professor of Pathology,Sri Ramachandra Institute of Higher Education and Research
+h-index: 19
+i10-index: 34
+Citations: 4531
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: M H Suryanarayana
+Affiliation: Retd Professor
+h-index: 23
+i10-index: 37
+Citations: 1719
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: N.V.S. Raju
+Affiliation: Professor of mechanical engineering
+h-index: 8
+i10-index: 7
+Citations: 207
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Sridhar P Arjunan
+Affiliation: Self
+h-index: 28
+i10-index: 76
+Citations: 2778
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: R V Sreedhar
+Affiliation: Principal Scientist, Plant Cell Biotechnology Department, CSIR-CFTRI, Associate Professor- AcSIR
+h-index: 19
+i10-index: 23
+Citations: 1690
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: Vaishali Ravindranath
+Affiliation: Data Scientist - Advanced Analytics
+h-index: 5
+i10-index: 4
+Citations: 301
+----------------------------------------
+Institution: Vignan's Foundation for Science, Technology and Research
+Name: V.V.S. Murty
+Affiliation: Professor of Physics, Government Autonomous Holkar science college, Indore Madhya Pradesh, India
+h-index: 16
+i10-index: 19
+Citations: 848
+----------------------------------------
+Institution: Christ University
+Name: Ankur Sarin
+Affiliation: Indian Institute of Management, Ahmedabad
+h-index: 13
+i10-index: 15
+Citations: 1035
+----------------------------------------
+Institution: Christ University
+Name: Asha Kamath
+Affiliation: Manipal Academy of Higher Education
+h-index: 49
+i10-index: 178
+Citations: 8326
+----------------------------------------
+Institution: Christ University
+Name: George Rosario Jagadeesh
+Affiliation: Artificial Intelligence / Data Analytics Strategic Technology Centre, ST Engineering
+h-index: 9
+i10-index: 9
+Citations: 704
+----------------------------------------
+Institution: Christ University
+Name: Krishna
+Affiliation: Student of Aryabhatta Knowledge University, Patna
+h-index: 211
+i10-index: 1658
+Citations: 190490
+----------------------------------------
+Institution: Christ University
+Name: Dr J Viswanatha Rao
+Affiliation: Professor in EEE Department, VNR Vignana Jyothi Institute of Engineering & Technology
+h-index: 9
+i10-index: 9
+Citations: 286
+----------------------------------------
+Institution: Christ University
+Name: K. NARAYAN PRABHU
+Affiliation: Professor, Department of Metallurgical and Materials Engineering, NITK
+h-index: 30
+i10-index: 78
+Citations: 4401
+----------------------------------------
+Institution: Christ University
+Name: Krishnan Jayaraman
+Affiliation: Professor, Department of Mechanical and Mechatronics Engineering, University of Auckland
+h-index: 38
+i10-index: 98
+Citations: 7582
+----------------------------------------
+Institution: Christ University
+Name: Dr Mani Venkatesh
+Affiliation: Associate Professor, Asper School of Business, University of Manitoba
+h-index: 39
+i10-index: 65
+Citations: 8662
+----------------------------------------
+Institution: Christ University
+Name: Munindar P Singh
+Affiliation: Professor of Computer Science, North Carolina State University
+h-index: 83
+i10-index: 366
+Citations: 32617
+----------------------------------------
+Institution: Christ University
+Name: Arvind Gangoli Rao
+Affiliation: Professor, Sustainable Aircraft Propulsion, Delft University of Technology
+h-index: 27
+i10-index: 54
+Citations: 3621
+----------------------------------------
+Institution: Christ University
+Name: Dr PK Banerjee
+Affiliation: Outstanding Scientist & Outstanding Professor (AcSIR), CSIR-CIMFR Dhanbad and Ex-CTO, HINDALCO
+h-index: 25
+i10-index: 50
+Citations: 2056
+----------------------------------------
+Institution: Christ University
+Name: P N Vinay Kumar
+Affiliation: Professor of Mathematics, GOVERNMENT SCIENCE COLLEGE
+h-index: 11
+i10-index: 12
+Citations: 564
+----------------------------------------
+Institution: Christ University
+Name: Rakesh K Gupta
+Affiliation: West Virginia University
+h-index: 70
+i10-index: 422
+Citations: 29632
+----------------------------------------
+Institution: Christ University
+Name: Ram Kumar
+Affiliation: Student
+h-index: 68
+i10-index: 435
+Citations: 39300
+----------------------------------------
+Institution: Christ University
+Name: Dr. Umesh Chand
+Affiliation: IME_A-Star, Singapore
+h-index: 20
+i10-index: 28
+Citations: 2489
+----------------------------------------
+Institution: Christ University
+Name: SV Krishna Jagadish
+Affiliation: Texas Tech University
+h-index: 73
+i10-index: 170
+Citations: 16822
+----------------------------------------
+Institution: Christ University
+Name: Sunil Kumar Singh
+Affiliation: Assistant professor of Mechanical Engineering Department, SIEM, Siliguri
+h-index: 59
+i10-index: 437
+Citations: 20387
+----------------------------------------
+Institution: Christ University
+Name: Shiyali Ramamrita Ranganathan
+Affiliation: University of Madaras; University College London; BHU; University of Delhi; DRTC, Bengaluru
+h-index: 29
+i10-index: 63
+Citations: 6815
+----------------------------------------
+Institution: Christ University
+Name: Vijay Kumar Chopra
+Affiliation: Heckman Global Advisors
+h-index: 6
+i10-index: 5
+Citations: 2524
+----------------------------------------
+Institution: Christ University
+Name: Vinod Kumar Gupta, FWIF,FNASc, FRSC
+Affiliation: Professor Abdulazeez University; Jedeha, Saudi Arabia;Thomson Highly Cited Researcher
+h-index: 202
+i10-index: 907
+Citations: 141196
+----------------------------------------
+Institution: Christ University
+Name: Dr. S.V.S. Narayana Murty
+Affiliation: Liquid Propulsion Systems Center, Trivandrum, India.
+h-index: 41
+i10-index: 131
+Citations: 5944
+----------------------------------------
+Institution: Christ University
+Name: Y. S. Ramakrishna
+Affiliation: AWS/Amazon
+h-index: 18
+i10-index: 27
+Citations: 1527
+----------------------------------------
+Institution: Chitkara University
+Name: Arvind Jha
+Affiliation: Welder
+h-index: 10
+i10-index: 10
+Citations: 1243
+----------------------------------------
+Institution: Chitkara University
+Name: Ashwani Kumar
+Affiliation: Guru kashi university
+h-index: 100
+i10-index: 805
+Citations: 48681
+----------------------------------------
+Institution: Chitkara University
+Name: Prof (Dr) Balram Dogra
+Affiliation: Independent Educational Strategist, Consultant & Mentor ( Former VC , Dean and Director )
+h-index: 6
+i10-index: 5
+Citations: 277
+----------------------------------------
+Institution: Chitkara University
+Name: Bhavana Bhagya Rao
+Affiliation: University of Pennsylvania Perelman School of Medicine
+h-index: 14
+i10-index: 17
+Citations: 541
+----------------------------------------
+Institution: Chitkara University
+Name: Dr. Deepak Kumar Goyal
+Affiliation: I.K. Gujral Punjab Technical University Main Campus, Kapurthala
+h-index: 21
+i10-index: 37
+Citations: 1628
+----------------------------------------
+Institution: Chitkara University
+Name: Dimpal Jain
+Affiliation: Professor, California State University, Northridge
+h-index: 12
+i10-index: 13
+Citations: 1147
+----------------------------------------
+Institution: Chitkara University
+Name: Divya Singhal
+Affiliation: Professor, Goa Institute of Management, Goa, India
+h-index: 11
+i10-index: 12
+Citations: 725
+----------------------------------------
+Institution: Chitkara University
+Name: Gaurav Gupta
+Affiliation: Netaji Subhas Institute Of Technology
+h-index: 98
+i10-index: 863
+Citations: 55364
+----------------------------------------
+Institution: Chitkara University
+Name: Gurpreet Singh
+Affiliation: Punjabi University Patiala
+h-index: 90
+i10-index: 680
+Citations: 40604
+----------------------------------------
+Institution: Chitkara University
+Name: Harpreet Singh
+Affiliation: LIbrarian
+h-index: 60
+i10-index: 390
+Citations: 19474
+----------------------------------------
+Institution: Chitkara University
+Name: Himani Sachdeva
+Affiliation: University of Vienna
+h-index: 11
+i10-index: 11
+Citations: 240
+----------------------------------------
+Institution: Chitkara University
+Name: Prof. (Dr.) Joginder Singh
+Affiliation: Nagaland University
+h-index: 53
+i10-index: 190
+Citations: 12196
+----------------------------------------
+Institution: Chitkara University
+Name: Jaspreet Singh, PhD
+Affiliation: Professor at School of Food and Advanced Technology, Massey University, NZ
+h-index: 51
+i10-index: 95
+Citations: 12793
+----------------------------------------
+Institution: Chitkara University
+Name: Kamal Kumar
+Affiliation: Assistant Professor & HOD at MASCOT GROUP OF INSTITUTIONS BAREILLY
+h-index: 79
+i10-index: 512
+Citations: 34365
+----------------------------------------
+Institution: Chitkara University
+Name: Kanika Sharma
+Affiliation: Professor of Botany, Mohanlal sukhadia university, Udaipur
+h-index: 21
+i10-index: 37
+Citations: 2826
+----------------------------------------
+Institution: Chitkara University
+Name: kapil dev sharma
+Affiliation: Asstt. Professor of Electrical Engg., DGI, Gr. Noida India
+h-index: 38
+i10-index: 136
+Citations: 7992
+----------------------------------------
+Institution: Chitkara University
+Name: Karan Rajpal
+Affiliation: Unknown affiliation
+h-index: 1
+i10-index: 1
+Citations: 62
+----------------------------------------
+Institution: Chitkara University
+Name: Kavita Chauhan
+Affiliation: Professor, Jamia Millia Islamia
+h-index: 11
+i10-index: 11
+Citations: 528
+----------------------------------------
+Institution: Chitkara University
+Name: Kuldeep Singh
+Affiliation: Assistant professor, Zucker School of Medicine, Staten Island University Hospital
+h-index: 55
+i10-index: 347
+Citations: 17514
+----------------------------------------
+Institution: Chitkara University
+Name: MANISH KUMAR
+Affiliation: B.Tech student
+h-index: 121
+i10-index: 1263
+Citations: 76363
+----------------------------------------
+Institution: Chitkara University
+Name: Dr Meenakshi Sharma
+Affiliation: Professor
+h-index: 71
+i10-index: 484
+Citations: 47645
+----------------------------------------
+Institution: Chitkara University
+Name: Mukesh Kumar
+Affiliation: Graphic Era deemed to be University
+h-index: 68
+i10-index: 493
+Citations: 26271
+----------------------------------------
+Institution: Chitkara University
+Name: Navdeep Singh
+Affiliation: Unknown affiliation
+h-index: 56
+i10-index: 342
+Citations: 15736
+----------------------------------------
+Institution: Chitkara University
+Name: Parvinder Pal Singh
+Affiliation: Scientist, Medicinal Chemistry Division, CSIR-Indian Institute of Integrative Medicine, Jammu
+h-index: 40
+i10-index: 152
+Citations: 15405
+----------------------------------------
+Institution: Chitkara University
+Name: Pooja Kaushik
+Affiliation: Jamia Hamdard
+h-index: 10
+i10-index: 10
+Citations: 413
+----------------------------------------
+Institution: Chitkara University
+Name: Prateek Jain
+Affiliation: Google Research India
+h-index: 64
+i10-index: 144
+Citations: 19941
+----------------------------------------
+Institution: Chitkara University
+Name: Poonam Singh  Nigam
+Affiliation: University of Ulster, UK
+h-index: 77
+i10-index: 194
+Citations: 42830
+----------------------------------------
+Institution: Chitkara University
+Name: Prof. Rajiv Ranjan, MAE, FIEEE, FAAIA
+Affiliation: Newcastle University           Director (National Edge AI Hub and International EV Security Centre)
+h-index: 81
+i10-index: 284
+Citations: 32789
+----------------------------------------
+Institution: Chitkara University
+Name: Ramandeep Singh
+Affiliation: Translational Health Science and Technology Institute
+h-index: 47
+i10-index: 247
+Citations: 12497
+----------------------------------------
+Institution: Chitkara University
+Name: Cheedrala Ravi Kumar
+Affiliation: Unknown affiliation
+h-index: 107
+i10-index: 872
+Citations: 75736
+----------------------------------------
+Institution: Chitkara University
+Name: Rohit Sharma
+Affiliation: Student of poornima university
+h-index: 80
+i10-index: 555
+Citations: 38494
+----------------------------------------
+Institution: Chitkara University
+Name: Roopali Sharma
+Affiliation: Junior Research Officer; GBPUAT-Pantnagar
+h-index: 31
+i10-index: 142
+Citations: 7235
+----------------------------------------
+Institution: Chitkara University
+Name: Rupinder Singh
+Affiliation: NITTTR Chandigarh
+h-index: 60
+i10-index: 306
+Citations: 17035
+----------------------------------------
+Institution: Chitkara University
+Name: Sandeep Kumar
+Affiliation: Ministry of Labour and Employment
+h-index: 128
+i10-index: 1309
+Citations: 84589
+----------------------------------------
+Institution: Chitkara University
+Name: Dr.Sanjeev Sharma
+Affiliation: HoD ECE, New Horizon College of Engineering
+h-index: 46
+i10-index: 304
+Citations: 13181
+----------------------------------------
+Institution: Chitkara University
+Name: Dr. Sapna Gupta
+Affiliation: Assistant Professor, RTU, Kota
+h-index: 4
+i10-index: 1
+Citations: 61
+----------------------------------------
+Institution: Chitkara University
+Name: Sarabjeet Singh
+Affiliation: Assistant Professor of Radiology, Harvard Medical School
+h-index: 53
+i10-index: 238
+Citations: 14127
+----------------------------------------
+Institution: Chitkara University
+Name: Sarabjeet Singh
+Affiliation: Assistant Professor of Radiology, Harvard Medical School
+h-index: 53
+i10-index: 238
+Citations: 14127
+----------------------------------------
+Institution: Chitkara University
+Name: Satinder Pal Singh
+Affiliation: Chandigarh University
+h-index: 35
+i10-index: 163
+Citations: 6147
+----------------------------------------
+Institution: Chitkara University
+Name: Shweta Goyal
+Affiliation: Professor
+h-index: 26
+i10-index: 48
+Citations: 2402
+----------------------------------------
+Institution: Chitkara University
+Name: Shuchi Gupta
+Affiliation: Research Engineer at Anteryon B.V.
+h-index: 19
+i10-index: 20
+Citations: 2767
+----------------------------------------
+Institution: Chitkara University
+Name: suman gupta
+Affiliation: ICAR-IARI
+h-index: 31
+i10-index: 60
+Citations: 2994
+----------------------------------------
+Institution: Chitkara University
+Name: Sunil Kumar
+Affiliation: Health Fist
+h-index: 134
+i10-index: 1419
+Citations: 90269
+----------------------------------------
+Institution: Chitkara University
+Name: Surendra Singh
+Affiliation: AT&T Foundation Professor of Marketing
+h-index: 31
+i10-index: 98
+Citations: 11523
+----------------------------------------
+Institution: Chitkara University
+Name: Shweta Singh
+Affiliation: Unknown affiliation
+h-index: 58
+i10-index: 362
+Citations: 19502
+----------------------------------------
+Institution: Chitkara University
+Name: Dr. Tushar Gupta
+Affiliation: Assistant Professor, Department of Education, University of Allahabad
+h-index: 6
+i10-index: 5
+Citations: 3549
+----------------------------------------
+Institution: Chitkara University
+Name: Dr. D uday kumar
+Affiliation: Deputy Manager(Finance), Housing & Urban Development Corporation Ltd.
+h-index: 51
+i10-index: 338
+Citations: 15417
+----------------------------------------
+Institution: Chitkara University
+Name: Vandana Sharma
+Affiliation: Govt. Senior Secondary  School Govt. of Rajasthan
+h-index: 52
+i10-index: 308
+Citations: 14181
+----------------------------------------
+Institution: Chitkara University
+Name: Vikash P. Chauhan
+Affiliation: LSRF Postdoctoral Fellow, MIT
+h-index: 21
+i10-index: 23
+Citations: 11113
+----------------------------------------
+Institution: Chitkara University
+Name: Vipul Gupta
+Affiliation: Rutgers Univ/SUNY Binghamton/Sun Microsystems/Oracle/Rubixis
+h-index: 31
+i10-index: 51
+Citations: 5773
+----------------------------------------
+Institution: Chitkara University
+Name: YADWINDER SINGH BRAR
+Affiliation: IKGPTU Kapurthala
+h-index: 20
+i10-index: 31
+Citations: 1242
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Ajit Kumar
+Affiliation: Sandip university
+h-index: 109
+i10-index: 533
+Citations: 72857
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Thomas M. Smith
+Affiliation: Dean, School of Education, University of California, Davis
+h-index: 41
+i10-index: 72
+Citations: 14917
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Prof. Bhari Mallanna Nagaraja
+Affiliation: Prof. Bhari Mallanna Nagaraja, Professor & Group Leader, Centre for Nano & Material Sciences
+h-index: 31
+i10-index: 64
+Citations: 4288
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: S.Vimala
+Affiliation: Department of Computer Science, Mother Teresa Women's University, Kodaikanal
+h-index: 12
+i10-index: 21
+Citations: 764
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: R Geetha Balakrishna
+Affiliation: Centre for Nano and Material Sciences Jain University
+h-index: 43
+i10-index: 147
+Citations: 7001
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Dr. K. V. Geetha
+Affiliation: Sri S. Ramasamy Naidu Memorial College, Sattur
+h-index: 10
+i10-index: 10
+Citations: 553
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Srubabati Goswami
+Affiliation: Physical Research Laboratory, HarishChandra Research Institute
+h-index: 55
+i10-index: 153
+Citations: 10740
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Dr Anil Kumar
+Affiliation: Kamla Nehru Institute of Technology, Sultanpur
+h-index: 16
+i10-index: 27
+Citations: 2131
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Nagendra GunduRao
+Affiliation: Sir M Visvesvaraya Institute of Technology
+h-index: 15
+i10-index: 18
+Citations: 655
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: DAYASHANKAR SINGH
+Affiliation: Madan Mohan Malaviya University of Technology
+h-index: 26
+i10-index: 166
+Citations: 5936
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Dr.Mahesh S S
+Affiliation: Professor, Acharya Institute of Technology, Bangalore-560 090, India.
+h-index: 9
+i10-index: 8
+Citations: 227
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Venkata Sai Mahesh Vuppalapati
+Affiliation: Video and Data Products - Industry Subject Matter Expert
+h-index: 6
+i10-index: 5
+Citations: 285
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Dr. T. M. Manjunath
+Affiliation: Veteran Agriculture Entomologist
+h-index: 6
+i10-index: 6
+Citations: 260
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: B.R. Manjunatha
+Affiliation: Professor, Department of Marine Geology, Mangalore University
+h-index: 20
+i10-index: 41
+Citations: 1476
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: S Meenakshi sundar
+Affiliation: Associate Professor of Physics, Sri Paramakalyani College, Alwarkurichi
+h-index: 16
+i10-index: 19
+Citations: 576
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: N. G. Belsare
+Affiliation: Department of Physics,   Vidya Bharati Mahavidyalaya, Amravati,C.K. Naidu Road, Camp,  Amravati, (M
+h-index: 6
+i10-index: 4
+Citations: 98
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Raj K. Narayan
+Affiliation: Chief of Neurosurgery, St. Francis Hospital, Roslyn, NY
+h-index: 53
+i10-index: 117
+Citations: 16113
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: NAVEEN KUMAR A
+Affiliation: Krupanidhi Group of Institutions
+h-index: 21
+i10-index: 89
+Citations: 3492
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Prashant Ingole
+Affiliation: Professor, Dept of Electronics and Telecomm. Engg,  Prof Ram Meghe Institute of Technology and
+h-index: 6
+i10-index: 4
+Citations: 217
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Barath Prashanth Sivasubramanian
+Affiliation: Internal Medicine Resident at Northeast Georgia Medical Center, GA, USA
+h-index: 4
+i10-index: 1
+Citations: 55
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Anita R. Linnemann
+Affiliation: Associate Professor, Food Quality & Design, Wageningen University
+h-index: 49
+i10-index: 119
+Citations: 7567
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Hemanth Kumar V. R
+Affiliation: Professor, Department of anaesthesiology, Mahatma Gandhi Medical College and Research
+h-index: 24
+i10-index: 53
+Citations: 2498
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Prof. R.P. Vijayalakshmi
+Affiliation: Department of Physics, Sri Venkateswara University, Tirupati
+h-index: 25
+i10-index: 51
+Citations: 2144
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: SHARANAGOUDA PATIL OR S S Patil OR Sharanagouda S Patil OR Patil S S OR Sharan Patil OR Sharan S
+Affiliation: National Institute of Veterinary Epidemiology and Disease Informatics or NIVEDI or PD_ADMAS
+h-index: 22
+i10-index: 58
+Citations: 1989
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: S Ramesh
+Affiliation: Associate Professor
+h-index: 102
+i10-index: 643
+Citations: 40696
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: b.p.chandra
+Affiliation:  Emeritus Professor School of Studies in Physics &Astrophysics, Pt.Ravishankar Shukla University Raipur C.G ,India
+h-index: 45
+i10-index: 148
+Citations: 6470
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Abbaraju Krishna sailaja
+Affiliation: Professor, RBVRR women's college of Pharmacy,Hyderabad
+h-index: 13
+i10-index: 25
+Citations: 1085
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: S. Shankaranarayanan
+Affiliation: Professor of Phyics, IIT Bombay
+h-index: 28
+i10-index: 66
+Citations: 3335
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Bk Shivakumar
+Affiliation: Associate professor, Adichuchanagiri Institute of Medical sciences
+h-index: 4
+i10-index: 2
+Citations: 58
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Sridhar Idapalapati, I Sridhar, S Idapalapati
+Affiliation: Nanyang Technological University
+h-index: 40
+i10-index: 79
+Citations: 4649
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Sai Sudha Valisekka
+Affiliation: Resident Physician at the University of Minnesota
+h-index: 6
+i10-index: 6
+Citations: 123
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Nukala Sujata Gupta
+Affiliation: Assistant Professor, Chaitanya Bharathi Institute of Technology
+h-index: 4
+i10-index: 2
+Citations: 95
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: G. V. Suneel Kumar
+Affiliation: Senior Scientist (Entomology)
+h-index: 9
+i10-index: 8
+Citations: 376
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Suresh Kumar
+Affiliation: Chaudhary Devi Lal University
+h-index: 82
+i10-index: 806
+Citations: 39622
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: M. S. Suresh
+Affiliation: professor and principal
+h-index: 56
+i10-index: 269
+Citations: 12970
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: A  Veena Shetty
+Affiliation: Professor, Dept of Microbiology  KSHEMA  Nitte(Deemed to be University)
+h-index: 22
+i10-index: 46
+Citations: 1737
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Veerabhadrappa G Mendagudli
+Affiliation: Principal BLDEA'S College of Nursing, Jamkhandi Dist : Bagalkot.Karnataka.India.
+h-index: 4
+i10-index: 0
+Citations: 48
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Sethu Vijayakumar
+Affiliation: Professor of Robotics, University of Edinburgh; Programme Director at The Alan Turing Institute, UK
+h-index: 49
+i10-index: 176
+Citations: 13048
+----------------------------------------
+Institution: Jain University, Bangalore
+Name: Dr. B.Vishnu Vardhan
+Affiliation: Senior Professor in Computer Science Engineering, JNTUH
+h-index: 16
+i10-index: 28
+Citations: 1377
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr Anil Kumar
+Affiliation: Professor, SSCET Badhani Pathankot
+h-index: 91
+i10-index: 1203
+Citations: 57561
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr. Anil K Sharma
+Affiliation: Prof&Head School of Biol.Sci.,Dean Sci,Chair R&D and Director IQAC Amity University Punjab Mohali
+h-index: 45
+i10-index: 165
+Citations: 10722
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: RANE ZAB ANISH KUMAR
+Affiliation: Assistant professor in biochemistry PRIST University
+h-index: 28
+i10-index: 90
+Citations: 5382
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Ashutosh Sharma
+Affiliation: Chemical Engineering, IITK, IIT Kanpur, Indian Institute of Technology Kanpur
+h-index: 89
+i10-index: 406
+Citations: 26662
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Vipin Kumar
+Affiliation: University of Minnesota
+h-index: 139
+i10-index: 766
+Citations: 132335
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Chhuttan Lal Meena
+Affiliation: National Institute of Immunology
+h-index: 15
+i10-index: 22
+Citations: 587
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Debabrata Panda
+Affiliation: Central University of Orissa
+h-index: 26
+i10-index: 62
+Citations: 2902
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Thanki Dhaval
+Affiliation: Assistant Professor
+h-index: 1
+i10-index: 0
+Citations: 2
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr. Maroti Deshmukh
+Affiliation: Assistant Professor (Grade-I) and HoD at National Institute of Technology, Uttarakhand
+h-index: 12
+i10-index: 17
+Citations: 507
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: G Srinivasan
+Affiliation: Indian Institute of Technology Madras
+h-index: 40
+i10-index: 131
+Citations: 8181
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Sandeep Bhatia
+Affiliation: ICAR-NATIONAL INSTITUTE OF HIGH SECURITY ANIMAL DISEASES
+h-index: 23
+i10-index: 46
+Citations: 1701
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: AKHILESH KUMAR PANDEY
+Affiliation: Resarch Scholar
+h-index: 43
+i10-index: 201
+Citations: 9354
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr K K Raina
+Affiliation: Distinguished Professor, Vice Chancellor, M S Ramaiah University of Applied Sciences, Bangalore
+h-index: 37
+i10-index: 142
+Citations: 4815
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Meenu Bhatia
+Affiliation: K L MEHTA DAYANAND COLLGE FOR WOMEN FARIDABAD
+h-index: 5
+i10-index: 4
+Citations: 144
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mohd Ashraf Rather
+Affiliation: College of Fisheries, Sher-e-Kashmir University of Agricultural Sciences & Technology- Kashmir
+h-index: 25
+i10-index: 54
+Citations: 1814
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: M A Sheikh
+Affiliation: University of Manchester
+h-index: 36
+i10-index: 72
+Citations: 4541
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mudasir Maqbool
+Affiliation: PhD Research scholar in Clinical Pharmacy Department of Pharmaceutical Sciences, University of
+h-index: 25
+i10-index: 75
+Citations: 2069
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mudasir Rashid Rather
+Affiliation: Central University of Kashmir
+h-index: 3
+i10-index: 0
+Citations: 23
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mahendra Kumar Garg
+Affiliation: Medicine, Endocrinology
+h-index: 40
+i10-index: 119
+Citations: 7237
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr Manju Bala
+Affiliation: Professor & Director at Khalsa college of Engg .& Technology
+h-index: 16
+i10-index: 21
+Citations: 741
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Manzoor Ahmad Khan
+Affiliation: Research scholar, department of sociology University of Kashmir
+h-index: 22
+i10-index: 65
+Citations: 2641
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mehraj Ud Din Sheikh
+Affiliation: Postdoctoral Fellow, CPMU, Nanocatalysis Lab. JNCASR Bangalore
+h-index: 13
+i10-index: 18
+Citations: 786
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: A. Mohammed Abubakar
+Affiliation: Central Connecticut State University, Antalya Bilim University
+h-index: 35
+i10-index: 54
+Citations: 6522
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: MOHAMMAD ASHRAF MIR
+Affiliation: jamia milia islama and NIT Srinagar
+h-index: 2
+i10-index: 1
+Citations: 16
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mohd Ashraf Rather
+Affiliation: College of Fisheries, Sher-e-Kashmir University of Agricultural Sciences & Technology- Kashmir
+h-index: 25
+i10-index: 54
+Citations: 1814
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Aslam Shahzad
+Affiliation: Research Associate
+h-index: 86
+i10-index: 696
+Citations: 34242
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Ali
+Affiliation: Department of Biotechnology, Quaid-i-Azam University, Islamabad
+h-index: 47
+i10-index: 78
+Citations: 27458
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Farooq
+Affiliation: Sultan Qaboos University, Muscat, Oman
+h-index: 116
+i10-index: 473
+Citations: 60533
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Engr. Dr. Muhammad Hanif
+Affiliation: Assistant Professor, Ghulam Ishaq Khan Institute of Engineering Sciences and Technology
+h-index: 16
+i10-index: 22
+Citations: 1692
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Nadeem
+Affiliation: Allama Iqbal Open University Islamabad
+h-index: 103
+i10-index: 845
+Citations: 46694
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Khalid Mehmood PhD Scholar
+Affiliation: MOHI UD DIN UNIVERSITY NERIAN SHARIF AZAD JAMMU AND KASHMIR
+h-index: 80
+i10-index: 1146
+Citations: 45564
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: kabir Muhammad
+Affiliation: Unknown affiliation
+h-index: 32
+i10-index: 76
+Citations: 4618
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Naeem
+Affiliation: Audit Officer
+h-index: 90
+i10-index: 680
+Citations: 36684
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Rashid
+Affiliation: Unknown affiliation
+h-index: 81
+i10-index: 536
+Citations: 43505
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Saleem
+Affiliation: University of Agriculture Faisalabad Pakistan
+h-index: 57
+i10-index: 484
+Citations: 17195
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Shafiq
+Affiliation: Plant Production Department, King Saud University, Riyadh (Saudi Arabia)
+h-index: 68
+i10-index: 556
+Citations: 26752
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Shariq Usman
+Affiliation: Physician, UT Southwestern Medical Center
+h-index: 31
+i10-index: 65
+Citations: 3374
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Shoaib
+Affiliation: CERN, Institute of Physics, The Islamia University of Bahawalpur
+h-index: 205
+i10-index: 1020
+Citations: 173854
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Siddiq
+Affiliation: Quaid-i-Azam University Islamabad, Pakistan
+h-index: 50
+i10-index: 205
+Citations: 9130
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Sulaiman Majeed
+Affiliation: Student of Telecommunication
+h-index: 48
+i10-index: 116
+Citations: 7254
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Bilal Tahir
+Affiliation: Khwaja Fareed University of Engineering and information Technology Rahim Yar Khan Pakistan
+h-index: 89
+i10-index: 735
+Citations: 35861
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muhammad Tariq
+Affiliation: Research scholar, Jiangsu University
+h-index: 75
+i10-index: 628
+Citations: 30006
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Mohammad Younis
+Affiliation: State University of New York, Binghamton;   KAUST
+h-index: 50
+i10-index: 181
+Citations: 12730
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Muzamil Ahmad, Ph.D.
+Affiliation: Principal Scientist
+h-index: 35
+i10-index: 42
+Citations: 4532
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: NK Verma
+Affiliation: ICAR-National Bureau of Animal genetic resources, Karnal
+h-index: 36
+i10-index: 94
+Citations: 5636
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr. Nazir Ahmad Khan, Professor
+Affiliation: The University of Agriculture Peshawar
+h-index: 29
+i10-index: 63
+Citations: 2934
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Nitin Kumar
+Affiliation: Bennett University
+h-index: 64
+i10-index: 431
+Citations: 20551
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Pradeep Kumar Gupta
+Affiliation: IIT Delhi, RRCAT, Indore, BARC, Mumbai
+h-index: 56
+i10-index: 263
+Citations: 11522
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Pardeep Kumar
+Affiliation: Washington University in St. Louis
+h-index: 47
+i10-index: 274
+Citations: 44073
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Pradip Sharma, SMIEEE
+Affiliation: Associate Professor of Cybersecurity, University of Aberdeen, UK
+h-index: 44
+i10-index: 83
+Citations: 8323
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Ravindra  Kumar Gupta
+Affiliation: University of Cambridge
+h-index: 62
+i10-index: 148
+Citations: 29056
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Rakesh Kumar Sharma
+Affiliation: Assistant Professor of computer science, Amrapali University
+h-index: 84
+i10-index: 620
+Citations: 35560
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Rafi Ahmad Togoo
+Affiliation: Professor  of Pediatric Dentistry
+h-index: 21
+i10-index: 37
+Citations: 1455
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Rakesh Singh; RK Singh; R Singh
+Affiliation: Food Science, University of Georgia
+h-index: 64
+i10-index: 365
+Citations: 20903
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Ronald C Kessler
+Affiliation: McNeil Family Professor of Health Care Policy, Harvard Medical School
+h-index: 346
+i10-index: 1313
+Citations: 592788
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Rehan Ali Qureshi
+Affiliation: Mehran University of Engineering & Technology
+h-index: 2
+i10-index: 1
+Citations: 39
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Showkat ahmad lone
+Affiliation: Associate professor of Mathematics & Statistics, Saudi Electronic University
+h-index: 23
+i10-index: 68
+Citations: 2055
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Tanveer A Wani
+Affiliation: Professor, College of Pharmacy, King Saud University
+h-index: 37
+i10-index: 84
+Citations: 3345
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Sanjib Kumar Sharma MD,DM,FRCP, FISN,FESC,FACC
+Affiliation: Professor of Medicine (Cardiology, Nephrology and Snakebite)
+h-index: 53
+i10-index: 190
+Citations: 33416
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Sarma L. Rani
+Affiliation: University of Alabama in Huntsville
+h-index: 15
+i10-index: 21
+Citations: 1044
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr. Shabir Ahmad Bhat
+Affiliation: Central University of Kashmir
+h-index: 8
+i10-index: 7
+Citations: 403
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Shabbir Ahmed
+Affiliation: Professor of Industrial & Systems Engineering, Georgia Institute of Technology
+h-index: 56
+i10-index: 154
+Citations: 15063
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Ali-Asghar Kolahi, MD, Professor
+Affiliation: Dep. Community Medicine &Social Determinants of Health Center, Shahid Beheshti University of Medical
+h-index: 54
+i10-index: 145
+Citations: 19152
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Ajaz Ahmad Sheikh (Sheikh Ajaz Ahmad/ S Aijaz)
+Affiliation: Associate Professor of Neurology
+h-index: 8
+i10-index: 8
+Citations: 396
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Altaf Ahmed Sheikh
+Affiliation: University of Adelaide
+h-index: 3
+i10-index: 1
+Citations: 29
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: DR. MOHAMMAD NAZIR HOSSAIN
+Affiliation: Professor, Department of Genetic Engineering and Biotechnology, Bangabandhu Sheikh Mujibur Rahman
+h-index: 15
+i10-index: 21
+Citations: 760
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Shivendra Singh
+Affiliation: Professor of Nephrology
+h-index: 28
+i10-index: 72
+Citations: 2849
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Sohail Ahmad
+Affiliation: Student of UET Peshawar
+h-index: 47
+i10-index: 173
+Citations: 14407
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Sudarshan Sharma
+Affiliation: University of Minnesota
+h-index: 9
+i10-index: 9
+Citations: 195
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Suresh Soni
+Affiliation: Curator, Regional Science Centre (National Council of Science Museums), Guwahati
+h-index: 1
+i10-index: 1
+Citations: 11
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: S. Ejaz Ahmed
+Affiliation: Professor of Statistics, Brock University
+h-index: 31
+i10-index: 100
+Citations: 3094
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr.Syed Altaf Hussain
+Affiliation: Professor of Mechanical Engineering
+h-index: 15
+i10-index: 19
+Citations: 863
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Tabrez Alam Khan
+Affiliation: Professor, Department of Chemistry, Jamia Millia Islamia
+h-index: 43
+i10-index: 81
+Citations: 7797
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr. Tanveer Ahmad
+Affiliation: Jamia Milia Islamia
+h-index: 34
+i10-index: 52
+Citations: 5193
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Dr Tariq Ahmad Bhat
+Affiliation: Department of Education, Govt of Jammu and Kashmir
+h-index: 24
+i10-index: 34
+Citations: 1295
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Tariq Ahmad
+Affiliation: University of Exeter
+h-index: 77
+i10-index: 145
+Citations: 51365
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Umesh Rai
+Affiliation: University of Delhi
+h-index: 25
+i10-index: 58
+Citations: 1936
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Abrar Ahmad Zafar
+Affiliation: Associate Professor of Physics, University of the Punjab, Lahore Pakistan
+h-index: 79
+i10-index: 372
+Citations: 25228
+----------------------------------------
+Institution: National Institute of Technology Srinagar
+Name: Zahoor Ahmad Bhat
+Affiliation: Formerly Department of Education, University of Kashmir
+h-index: 4
+i10-index: 1
+Citations: 50
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Anil K. Jain
+Affiliation: Michigan State University
+h-index: 220
+i10-index: 819
+Citations: 276340
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Ashish Kumar Mishra
+Affiliation: Bhagalpur University
+h-index: 66
+i10-index: 446
+Citations: 24385
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Dr Akhilesh  Kumar Pandey
+Affiliation: Rani Durgavati University, Jabalpur
+h-index: 123
+i10-index: 552
+Citations: 92099
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Ajay Kumar Singh
+Affiliation: Harvard, Brigham and Women's
+h-index: 97
+i10-index: 742
+Citations: 52336
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Arun Kumar Verma
+Affiliation: HOD Radiation oncology SICMAR, Subharti Medical College Meerut
+h-index: 65
+i10-index: 382
+Citations: 19384
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Gautam Biswas
+Affiliation: Cornelius Vanderbilt Professor of Engineering; Professor of  Computer Science and Engineering
+h-index: 66
+i10-index: 377
+Citations: 19721
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Dr Krishna Pandey
+Affiliation: Director & Scientist-G, ICMR-RMRIMS, Patna
+h-index: 39
+i10-index: 124
+Citations: 5776
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Tarunveer Singh Ahluwalia
+Affiliation: Senior Researcher/PI (Clinical Omics and Bioinformatics) Steno Diabetes Center Copenhagen, Gentofte
+h-index: 60
+i10-index: 123
+Citations: 17098
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Gaurav K. Gupta
+Affiliation: Memorial Sloan Kettering Cancer Center
+h-index: 25
+i10-index: 31
+Citations: 2626
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: G.N. Singh
+Affiliation: Indian Pharmacopoeia Commission
+h-index: 56
+i10-index: 403
+Citations: 18305
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Dr. A. K. Saluja
+Affiliation: A. R. College of Pharmacy & G.H. Patel Institute of Pharmacy
+h-index: 28
+i10-index: 65
+Citations: 4686
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Dr. Rajesh Barik
+Affiliation: BITS Pilani K K Birla Goa Campus
+h-index: 6
+i10-index: 6
+Citations: 435
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Anand Awasthi
+Affiliation: University of Massachusetts medical school
+h-index: 7
+i10-index: 6
+Citations: 237
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Muhammad Ali Khan
+Affiliation: Memorial Hermann Cypress and Katy
+h-index: 43
+i10-index: 147
+Citations: 43656
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Manoj Kumar Mishra
+Affiliation: University of Calgary
+h-index: 30
+i10-index: 41
+Citations: 3519
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Manoj K Sharma
+Affiliation: Unknown affiliation
+h-index: 70
+i10-index: 421
+Citations: 24910
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Manish Mohan Sharma
+Affiliation: Unknown affiliation
+h-index: 46
+i10-index: 236
+Citations: 12422
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Shrikant Pawar MS, Ph.D.
+Affiliation: Assistant Professor, Claflin University; Co-founder, ChestAi.org & GRC; Research Affiliate, Yale
+h-index: 44
+i10-index: 69
+Citations: 14500
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Masood Alam Khan
+Affiliation: Associate Professor, College of Applied Medical Sciences, Qassim University, Buraydah, KSA
+h-index: 31
+i10-index: 78
+Citations: 3545
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Nagendra Kumar Singh
+Affiliation: President,The Genomics Foundation; JC Bose National Fellow, ICAR-NIPB New Delhi
+h-index: 83
+i10-index: 332
+Citations: 34120
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Pramoda Kumar Sahoo
+Affiliation: Director, ICAR- Central Institute of Freshwater Aquaculture,, Bhubaneswar, India
+h-index: 44
+i10-index: 118
+Citations: 8610
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Gagan Raj Gupta
+Affiliation: AT&T Labs
+h-index: 34
+i10-index: 74
+Citations: 5052
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Rakesh Singh
+Affiliation: R.K.University
+h-index: 111
+i10-index: 971
+Citations: 62268
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Rajat Das Gupta
+Affiliation: PhD Student, Department of Epidemiology and Biostatistics, University of South Carolina
+h-index: 49
+i10-index: 88
+Citations: 64775
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Sanjay Kumar Gupta
+Affiliation: Assistant Professor
+h-index: 76
+i10-index: 581
+Citations: 31512
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Sangram Kishor Patel
+Affiliation: Deputy Director, Population Council Institute
+h-index: 32
+i10-index: 48
+Citations: 30438
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Sanjib Kumar Sharma MD,DM,FRCP, FISN,FESC,FACC
+Affiliation: Professor of Medicine (Cardiology, Nephrology and Snakebite)
+h-index: 53
+i10-index: 190
+Citations: 33416
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Sunil Kumar Singh
+Affiliation: Assistant professor of Mechanical Engineering Department, SIEM, Siliguri
+h-index: 59
+i10-index: 437
+Citations: 20387
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Sudhir Kumar Yadav
+Affiliation: Student of Education,Hnbgu Srinagar
+h-index: 44
+i10-index: 170
+Citations: 8289
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Santosh S. Hosmani
+Affiliation: Professor at Department of Metallurgical Engineering and Materials Science, IIT Indore
+h-index: 22
+i10-index: 32
+Citations: 1139
+----------------------------------------
+Institution: Rajiv Gandhi Institute of Petroleum Technology
+Name: Vikesh K. Singh, MD, MSc
+Affiliation: Johns Hopkins University School of Medicine
+h-index: 69
+i10-index: 219
+Citations: 19144
+----------------------------------------
+Institution: National Institute of Technology Kurukshetra
+Name: Narendra Bahadur Singh
+Affiliation: Asst. Professor, Institute of Agriculture and Animal Science, Tribhuvan University, Nepal
+h-index: 30
+i10-index: 104
+Citations: 5354
+----------------------------------------
+Institution: National Institute of Technology Kurukshetra
+Name: sandeep garg
+Affiliation: Director Professor of Medicine, MAMC
+h-index: 18
+i10-index: 29
+Citations: 965
+----------------------------------------
+Institution: National Institute of Technology Kurukshetra
+Name: Sandeep Gupta
+Affiliation: Unknown affiliation
+h-index: 62
+i10-index: 470
+Citations: 22568
+----------------------------------------
+Institution: National Institute of Technology Kurukshetra
+Name: Sandeep Sharma
+Affiliation: Guest faculty
+h-index: 77
+i10-index: 495
+Citations: 26452
+----------------------------------------
+Institution: National Institute of Technology Kurukshetra
+Name: Reeta Rani Singhania
+Affiliation: National Kaohsiung University for Science and Technology
+h-index: 66
+i10-index: 160
+Citations: 16286
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Abhijit Chatterjee
+Affiliation: Bose Institute, Kolkata and Darjeeling
+h-index: 31
+i10-index: 61
+Citations: 2642
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: suman kumar das
+Affiliation: Phd scholar
+h-index: 3
+i10-index: 1
+Citations: 95
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Dr. Uttam Kumar Das
+Affiliation: Weizmann Institute of Science
+h-index: 14
+i10-index: 15
+Citations: 861
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Nazrul Islam
+Affiliation: Queensland University of Technology
+h-index: 75
+i10-index: 483
+Citations: 41158
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Dip Kumar Saha
+Affiliation: Assistant Professor (On Leave), RUET , PhD Candidate at University of Sussex
+h-index: 11
+i10-index: 11
+Citations: 997
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Sanjay Kumar Swain
+Affiliation: NISER
+h-index: 211
+i10-index: 1247
+Citations: 211010
+----------------------------------------
+Institution: National Institute of Technology Agartala
+Name: Aviral Kumar Tiwari
+Affiliation: Indian Institute of Management Bodh Gaya, Bodh Gaya, Bihar, India
+h-index: 83
+i10-index: 377
+Citations: 26810
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: Anjana Devanand
+Affiliation: CSIRO
+h-index: 9
+i10-index: 9
+Citations: 485
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: R. P. Jagadeesh Chandra Bose
+Affiliation: Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands
+h-index: 28
+i10-index: 44
+Citations: 5819
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: Murali Krishna Gumma
+Affiliation: Principal Scientist &Cluster Leader – Geospatial Sciences and Big Data at ICRISAT (IRRI, IWMI, JNTU)
+h-index: 50
+i10-index: 105
+Citations: 9970
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: V.VIJAYAN
+Affiliation: K.Ramakrishnan College of Technology
+h-index: 41
+i10-index: 109
+Citations: 5690
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: M S LAKSHMI DEVI
+Affiliation: Assistant Professor in Computer Science, Government First Grade College, Varthur, Bangalore
+h-index: 1
+i10-index: 0
+Citations: 6
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: Prof. Dr.-Ing. V. V. S. S. Srikanth
+Affiliation: School of Engineering Sciences and Technology, University of Hyderabad
+h-index: 33
+i10-index: 79
+Citations: 2940
+----------------------------------------
+Institution: Sri Krishna College of Engineering and Technology
+Name: Prof. Dr. Rama Rao.T
+Affiliation: Professor, SRMIST, Kattankulathur, Chennai, India
+h-index: 24
+i10-index: 66
+Citations: 2064
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Er. Ashwani Kumar Dixit
+Affiliation: Professor
+h-index: 62
+i10-index: 462
+Citations: 22022
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Ajay Kumar Singh
+Affiliation: Harvard, Brigham and Women's
+h-index: 97
+i10-index: 742
+Citations: 52336
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: DR. Vineet V. Tyagi
+Affiliation: School of Physics, Shri Mata Vaishno Devi University, J & K
+h-index: 67
+i10-index: 193
+Citations: 27385
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Nitesh Pandey
+Affiliation: Amrita School of Business, Coimbatore
+h-index: 34
+i10-index: 51
+Citations: 13811
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Prof. J.B. Singh
+Affiliation: Distinguished Professor, University of Petroleum and Energy Studies,Dehradun and Panjab University
+h-index: 248
+i10-index: 1421
+Citations: 264796
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Rajiv Chowdhury
+Affiliation: Chair and Professor of Global Health, Florida International University, US
+h-index: 81
+i10-index: 120
+Citations: 117415
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: William S. Cleveland
+Affiliation: Shanti S. Gupta Professor of Statistics, Purdue
+h-index: 58
+i10-index: 107
+Citations: 59602
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Satya Kushwaha
+Affiliation: Johns Hopkins University
+h-index: 36
+i10-index: 58
+Citations: 7097
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Malik S. S.
+Affiliation: Professor of Physics, G.N.D. University, Amritsar, India
+h-index: 98
+i10-index: 923
+Citations: 52508
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Sachchida Nand Tripathi
+Affiliation: Professor of Civil Engineering and Sustainable Energy Engineering
+h-index: 67
+i10-index: 210
+Citations: 14705
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Vijay P. Singh
+Affiliation: Texas A&M University
+h-index: 142
+i10-index: 1327
+Citations: 117722
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Husn Ara Chauhan
+Affiliation: University of New South Wales, Sydney
+h-index: 2
+i10-index: 2
+Citations: 53
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Sharad Kumar
+Affiliation: Centre for Cancer Biology, University of South Australia, Adelaide, Australia
+h-index: 102
+i10-index: 252
+Citations: 61917
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Narayana Mithur Upadhyaya
+Affiliation: Honorary Fellow, CSIRO Agriculture and Food, Canberra, ACT 2601, Australia
+h-index: 45
+i10-index: 85
+Citations: 6835
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Bheshaj Kumar Ashley Hoolash
+Affiliation: Lecturer in Mathematics and Statistics
+h-index: 2
+i10-index: 1
+Citations: 17
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Ranvir Singh
+Affiliation: Professor in Environmental Hydrology at Te Kunenga ki Pūrehuroa Massey University, New Zealand
+h-index: 23
+i10-index: 36
+Citations: 2805
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Naresh Chandra Murmu, PhD
+Affiliation: CSIR-Central Mechanical Engineering Research Institute, Durgapur
+h-index: 51
+i10-index: 135
+Citations: 8263
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Ashutosh Pandey
+Affiliation: Broadcom Corporation, ClearOne Communications, University of Utah, IT-BHU
+h-index: 39
+i10-index: 90
+Citations: 6730
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Mohit Sunil Pathak
+Affiliation: University of Salerno
+h-index: 15
+i10-index: 28
+Citations: 590
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Deepak Sharma
+Affiliation: Assistant Professor , Electrical Engineering ,Arya College of Engineering & IT
+h-index: 77
+i10-index: 616
+Citations: 28836
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Amandeep Singh
+Affiliation: Asst Proff  ,Sri Sai Iqbal College Of Management & IT
+h-index: 42
+i10-index: 250
+Citations: 9837
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Cheryl Rita Kaur
+Affiliation: Maritime Institute of Malaysia
+h-index: 4
+i10-index: 3
+Citations: 91
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Tapan Kumar Nayak
+Affiliation: NISER, Bhubaneswar and CERN, Geneva
+h-index: 184
+i10-index: 790
+Citations: 129865
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anil Kumar
+Affiliation: Unknown affiliation
+h-index: 111
+i10-index: 1285
+Citations: 75981
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anil K Sharma
+Affiliation: AICTE
+h-index: 59
+i10-index: 268
+Citations: 16716
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Jai Prakash
+Affiliation: Illinois Institute of Technology
+h-index: 56
+i10-index: 134
+Citations: 12128
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Mani Ratnam Rai
+Affiliation: Research Associate at TU Delft
+h-index: 15
+i10-index: 20
+Citations: 922
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Ajeet Singh
+Affiliation: Istituto Italiano di Tecnologia
+h-index: 6
+i10-index: 6
+Citations: 153
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Sangeeta Bagga-Gupta
+Affiliation: Professor of Education, Jönköping University, Sweden
+h-index: 28
+i10-index: 62
+Citations: 2214
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Tanmay Singh
+Affiliation: PhD Candidate in Economics, Jönköping University, Sweden
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Aditya Kumar Gond
+Affiliation: Kanpur Institute of Technology, Kanpur
+h-index: 20
+i10-index: 60
+Citations: 3407
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Dr. Ritu Kumari singh
+Affiliation: professor
+h-index: 18
+i10-index: 53
+Citations: 2247
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Yash Munnalal Gupta
+Affiliation: PhD, Naresuan University
+h-index: 7
+i10-index: 5
+Citations: 114
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Satinder Singh
+Affiliation: Google DeepMind / U. of Michigan
+h-index: 83
+i10-index: 214
+Citations: 47141
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Upma Singh
+Affiliation: Maharaja Surajmal Institute of Technology, Janakpuri, Delhi
+h-index: 7
+i10-index: 5
+Citations: 367
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anuradha Singh
+Affiliation: Unknown affiliation
+h-index: 41
+i10-index: 165
+Citations: 8053
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anuradha Srivastava
+Affiliation: Scientist (Food Technology), ICAR
+h-index: 9
+i10-index: 8
+Citations: 184
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anuradha Tewari
+Affiliation: Unknown affiliation
+h-index: 4
+i10-index: 3
+Citations: 93
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Meenal Gupta
+Affiliation: University of Utah
+h-index: 17
+i10-index: 21
+Citations: 1355
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Amitesh Kumar
+Affiliation: Indian Institute of Technology Indore
+h-index: 22
+i10-index: 64
+Citations: 2891
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Nikhil Singh
+Affiliation: University of North Carolina, Chapel Hill, University of Utah
+h-index: 18
+i10-index: 23
+Citations: 996
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: lavi singh
+Affiliation: student of arena animation
+h-index: 60
+i10-index: 295
+Citations: 15706
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Dr.Neha Srivastava
+Affiliation: Excelra Knowledge Solution Pvt Ltd, NSL Arena, Uppal,  Hyderabad – 500039
+h-index: 4
+i10-index: 2
+Citations: 84
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: JAI-SING YANG
+Affiliation: China Medical University Hospital, Taiwan, R.O.C.
+h-index: 83
+i10-index: 277
+Citations: 19286
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Dr. Santosh K. Tiwari
+Affiliation: GIFT, GU, China, NMAMIT, India, NAWA Fellow, University of Warsaw, Poland
+h-index: 29
+i10-index: 52
+Citations: 3809
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Soumitro Banerjee
+Affiliation: Indian Institute of Science Education & Research Kolkata
+h-index: 68
+i10-index: 450
+Citations: 22700
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Swagatam Das
+Affiliation: Professor, Electronics and Communication Sciences Unit, Indian Statistical Institute, Kolkata
+h-index: 88
+i10-index: 304
+Citations: 34965
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Saranya Samik Ghosh
+Affiliation: Assistant Professor, Department of Physics, Indian Institute of Technology Hyderabad
+h-index: 160
+i10-index: 754
+Citations: 106652
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Partha Sarathi Mukherjee
+Affiliation: Inorganic and Physical Chemistry Department, Indian Institute of Science
+h-index: 69
+i10-index: 193
+Citations: 17379
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Bikas K Chakrabarti
+Affiliation: Emeritus Prof. (Phys.) Saha Inst. Nucl. Physics & Visiting Prof. (Econ.) Indian Staistical Inst.
+h-index: 49
+i10-index: 168
+Citations: 13747
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Deepayan Sarkar
+Affiliation: Associate Professor at Indian Statistical Institute, Delhi, India
+h-index: 50
+i10-index: 93
+Citations: 17675
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Pushpendra singh
+Affiliation: Research scholar(PhD student) at Indian Institute of science, Bangalore
+h-index: 75
+i10-index: 556
+Citations: 35541
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Vimal Chandra srivastava
+Affiliation: Professor of Chemical Egineering, Indian Institute of Technology Roorkee, Roorkee
+h-index: 72
+i10-index: 210
+Citations: 21586
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Kumud Tripathi
+Affiliation: Assistant Professor, Department of Chemistry, Indian Institute of Petroleum & Energy, India
+h-index: 43
+i10-index: 71
+Citations: 5167
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Pallab Roy
+Affiliation: Senior Analyst Engineer, NAB
+h-index: 13
+i10-index: 18
+Citations: 645
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Abhik Ghosh
+Affiliation: UiT – The Arctic University of Norway
+h-index: 65
+i10-index: 220
+Citations: 13177
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Balbir Singh
+Affiliation: Professor of Molecular Parasitology, Malaria Research Centre, Universiti Malaysia Sarawak
+h-index: 44
+i10-index: 77
+Citations: 11778
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Tulay Adali
+Affiliation: Distinguished University Professor, University of Maryland, Baltimore County
+h-index: 76
+i10-index: 266
+Citations: 29444
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Vishu Agarwal
+Affiliation: Westborough High School
+h-index: 1
+i10-index: 0
+Citations: 3
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Dr Shyam Sundar Agrawal
+Affiliation: RANI RASHMONI HIGH SCHOOL (H.S.)
+h-index: 5
+i10-index: 2
+Citations: 40
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Anand Shah
+Affiliation: Unionville High School
+h-index: 4
+i10-index: 3
+Citations: 46
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: phoenica salazar
+Affiliation: student at aurora national high school
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Andika Arya Dwi P.
+Affiliation: High School
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: KALYAN CHOWDHURY
+Affiliation: Assistant Teacher in Physics, Beko Anchal High School (HS), Beko Kashipur Purulia West Bengal India
+h-index: 2
+i10-index: 0
+Citations: 7
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Kunal Das
+Affiliation: SASHINARA HIGH SCHOOL
+h-index: 26
+i10-index: 67
+Citations: 2786
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Shlok Dubey
+Affiliation: West Windsor-Plainsboro High School South
+h-index: 1
+i10-index: 0
+Citations: 2
+----------------------------------------
+Institution: Madan Mohan Malaviya University of Technology
+Name: Arnav Gupta
+Affiliation: High School Senior, Dougherty Valley
+h-index: 2
+i10-index: 1
+Citations: 28
+----------------------------------------
+Institution: SR University
+Name: Haijun Yang
+Affiliation: Professor of Physics, Shanghai Jiao Tong University and Tsung-Dao Lee Institute
+h-index: 300
+i10-index: 2056
+Citations: 443468
+----------------------------------------
+Institution: SR University
+Name: Mario Martinez
+Affiliation: ICREA/IFAE-Barcelona
+h-index: 208
+i10-index: 1164
+Citations: 174229
+----------------------------------------
+Institution: SR University
+Name: Vikram Patel
+Affiliation: Unknown affiliation
+h-index: 169
+i10-index: 734
+Citations: 171129
+----------------------------------------
+Institution: SR University
+Name: C. N. R. Rao
+Affiliation: Professor of Chemistry
+h-index: 163
+i10-index: 1210
+Citations: 121212
+----------------------------------------
+Institution: SR University
+Name: George Davey Smith
+Affiliation: University of Bristol
+h-index: 297
+i10-index: 1799
+Citations: 452789
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Ajit K. Roy
+Affiliation: Air Force Research Laboratory
+h-index: 79
+i10-index: 252
+Citations: 23719
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: ASN Murty
+Affiliation: Senior Principal Scientist, NGRI
+h-index: 14
+i10-index: 21
+Citations: 454
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Ananth Subramanian
+Affiliation: imec
+h-index: 25
+i10-index: 35
+Citations: 2924
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr Ranganath BG
+Affiliation: Professor of Community Medicine & Med. Superintendent, Apollo Inst of Medical Sciences & Research
+h-index: 5
+i10-index: 4
+Citations: 118
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Anand Paul
+Affiliation: Bsc Mathematics
+h-index: 52
+i10-index: 156
+Citations: 10491
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: BS Murty
+Affiliation: IIT Madras
+h-index: 79
+i10-index: 352
+Citations: 27566
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: B. Sudha Kalyani
+Affiliation: IKP Knowledge Park
+h-index: 5
+i10-index: 5
+Citations: 137
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Srinivas Vanka
+Affiliation: University of British Columbia
+h-index: 25
+i10-index: 34
+Citations: 2498
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr.  Srinivasa Rao Konda
+Affiliation: The GPL Photonics Laboratory, CIOMP, and  ACRHEM, University of Hyderabad
+h-index: 17
+i10-index: 28
+Citations: 764
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: C. R. Hiremath
+Affiliation: BLDEACET, Vijayapur
+h-index: 4
+i10-index: 3
+Citations: 69
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: C S Manohar
+Affiliation: Indian Institute of Science, Bangalore, India
+h-index: 30
+i10-index: 65
+Citations: 2970
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: C Venkata Srinivas
+Affiliation: Scientist, Indira Gandhi Centre for Atomic Research, Professor, Homi Bhabha National Institute
+h-index: 32
+i10-index: 83
+Citations: 3301
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Gopalkrishnan R. Iyer
+Affiliation: Unknown affiliation
+h-index: 34
+i10-index: 50
+Citations: 8182
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr G V Narasimha Rao
+Affiliation: International Advanced Research Center for Powder Metallurgy & New Maerials
+h-index: 21
+i10-index: 36
+Citations: 1552
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Kaushik N. Shankar
+Affiliation: University of Pennsylvania
+h-index: 4
+i10-index: 2
+Citations: 61
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr. K N VISHWANATH
+Affiliation: PROFESSOR & HEAD, CIVIL VTU
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Mohan Kumaraswamy
+Affiliation: Professor
+h-index: 64
+i10-index: 180
+Citations: 16857
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Vinay Suvarna M N
+Affiliation: Research scholar
+h-index: 4
+i10-index: 1
+Citations: 36
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: N VINAY KUMAR
+Affiliation: Sr. Machine Learning Engineer, T&A , Standard Chartered - GBS
+h-index: 9
+i10-index: 5
+Citations: 207
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Srinivas Peeta
+Affiliation: Frederick R. Dickerson Chair and Professor, School of Civil & Env Engg, School of Ind & Sys Engg
+h-index: 63
+i10-index: 187
+Citations: 13201
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr. Rama Rao KARRI (CEng MIET, UK)
+Affiliation: Universiti Teknologi Brunei
+h-index: 53
+i10-index: 140
+Citations: 8605
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr. Rashmi N shetty
+Affiliation: Rajiv gandhi university of health sciences
+h-index: 6
+i10-index: 5
+Citations: 142
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Raghavendra V. Kulkarni
+Affiliation: Professor, Department of Computer Science & Engg., Graphic Era Deemed to be University, Dehradun
+h-index: 16
+i10-index: 18
+Citations: 3613
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Rao Zahid Abbas
+Affiliation: University of Agriculture Faisalabad
+h-index: 44
+i10-index: 139
+Citations: 6885
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Sharad Wadhwani, MD MPH
+Affiliation: University of California San Francisco
+h-index: 13
+i10-index: 14
+Citations: 501
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Sivakumar M. Srinivasan
+Affiliation: Department of Applied Mechanics, Indian Institute of Technology Madras, Chennai.  INDIA
+h-index: 29
+i10-index: 70
+Citations: 2662
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Subramanyam N Murthy
+Affiliation: Professor, Southern University and A&M College, Baton Rouge, LA 70813
+h-index: 29
+i10-index: 53
+Citations: 3130
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Sharad Narayan Pawar
+Affiliation: Assistant Professor in Chemistry
+h-index: 1
+i10-index: 0
+Citations: 3
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Hemant Mahajan
+Affiliation: Sr. Research Analyst and Data Scientist, Godwit Technologies, Pune. PhD Research Scholar, DMIMS
+h-index: 22
+i10-index: 23
+Citations: 1762
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: SUBRAMANIAN S. IYER
+Affiliation: University of California at Los Angeles,
+h-index: 64
+i10-index: 284
+Citations: 17518
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Vijaya B Joshi, PhD
+Affiliation: Zoetis
+h-index: 16
+i10-index: 17
+Citations: 1274
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: VISHAL GOVIND RAO
+Affiliation: Associate Professor, Department of Chemistry, IIT Kanpur
+h-index: 29
+i10-index: 55
+Citations: 2934
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: VALLABHANENI BALAKRISHNA MURTHY
+Affiliation: Professor of Mechanical Engineering Department, V. R. SIDDHARTHA ENGINEERING COLLEGE
+h-index: 19
+i10-index: 32
+Citations: 2125
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr. S.V.S. Narayana Murty
+Affiliation: Liquid Propulsion Systems Center, Trivandrum, India.
+h-index: 41
+i10-index: 131
+Citations: 5944
+----------------------------------------
+Institution: R.V. College of Engineering
+Name: Dr. Lakshmana Rao Atmakuri
+Affiliation: Principal, V. V. Institute of Pharmaceutical Sciences, Gudlavalleru.
+h-index: 22
+i10-index: 65
+Citations: 2548
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: B B Meshram
+Affiliation: Professor of Computer Engineers , Mumbai University
+h-index: 21
+i10-index: 53
+Citations: 2035
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Dr. Ramesh Kannan Perumal
+Affiliation: School of Material Science and Engineering, Zhejiang Sci-Tech University
+h-index: 12
+i10-index: 13
+Citations: 564
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Chandrashekar Bananakere Nanjegowda
+Affiliation: Assistant Professor, Sri Adichunchanagiri First Grade College, University of Mysore, Karnataka
+h-index: 35
+i10-index: 49
+Citations: 3734
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Angel I. Perez Gomez (orcid.org/0000-0001-8291-0849)
+Affiliation: Catedrático Emérito (UMA)
+h-index: 84
+i10-index: 105
+Citations: 29960
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Dr Kuppam Chandrasekhar
+Affiliation: Department of Biotechnology, Vignan's Foundation for Science, Technology and Research
+h-index: 43
+i10-index: 77
+Citations: 6924
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Vijay Kumar Kuchroo
+Affiliation: vkuchroo@evergrande.hms.harvard.edu
+h-index: 172
+i10-index: 446
+Citations: 138451
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Mr. VENKATA SRINIVAS SALADI
+Affiliation: Member of Royal society
+h-index: 25
+i10-index: 67
+Citations: 2707
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: SRINIVASA M R
+Affiliation: P E S College of Engineering
+h-index: 6
+i10-index: 2
+Citations: 68
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Ms.Ranjitha.K .
+Affiliation: Rajalakshmi Institute of Technology
+h-index: 5
+i10-index: 2
+Citations: 124
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Kaushal Patel
+Affiliation: Institute for Plasma Research, Nr. Indira Bridge, Bhat Village, Gandhinagar-382428
+h-index: 11
+i10-index: 11
+Citations: 459
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Harish N S Krishnamoorthy
+Affiliation: Reader, Tata Institute of Fundamental Research (TIFR) Hyderabad
+h-index: 18
+i10-index: 22
+Citations: 2572
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: N VINAY KUMAR
+Affiliation: Sr. Machine Learning Engineer, T&A , Standard Chartered - GBS
+h-index: 9
+i10-index: 5
+Citations: 207
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Angga Kurniawan, S.E., M.Sc.
+Affiliation: Universitas Muhammadiyah Metro
+h-index: 6
+i10-index: 2
+Citations: 167
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Deepak P. Patil
+Affiliation: San Diego CA
+h-index: 18
+i10-index: 21
+Citations: 7301
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Aravind Dasari
+Affiliation: Associate Professor, Materials Science and Engineering, Nanyang Technological University
+h-index: 48
+i10-index: 95
+Citations: 7361
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Shishir G. Patil
+Affiliation: UC Berkeley
+h-index: 12
+i10-index: 15
+Citations: 4170
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Shubha H Nataraj
+Affiliation: Principal Investigator, Indian Institute of Science
+h-index: 4
+i10-index: 4
+Citations: 148
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Sairam Kaliraj Anbareeswaran
+Affiliation: Indian Institute of Technology Ropar
+h-index: 9
+i10-index: 8
+Citations: 178
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Shahnaz M Qadri
+Affiliation: Texas A&M College of Pharmacy
+h-index: 17
+i10-index: 20
+Citations: 1380
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Shaama Mallikarjun Sharada
+Affiliation: Associate Professor, Mork Family Department of Chemical Engineering and Materials Science
+h-index: 20
+i10-index: 27
+Citations: 5557
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Siti Mariya Ulva
+Affiliation: Mahasiswa Institut Agama Islam Negeri Metro
+h-index: 1
+i10-index: 0
+Citations: 2
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Sannidhan M S
+Affiliation: Associate Professor, Dept of CSE, NMAM Institute of Technology, Nitte
+h-index: 9
+i10-index: 9
+Citations: 277
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: chandrashekharayya hiremath
+Affiliation: Professor &HOD Ent S N Medical college. Bagalkot
+h-index: 6
+i10-index: 1
+Citations: 80
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Channayya Hiremath
+Affiliation: Sr. Scientist  Plant Breeding
+h-index: 10
+i10-index: 11
+Citations: 339
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Amol Nalawade
+Affiliation: Sr Process Engineer, Intel Corporation
+h-index: 3
+i10-index: 2
+Citations: 29
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Guru Prabhakar
+Affiliation: Sr. Lecturer, UWE-Bristol
+h-index: 20
+i10-index: 26
+Citations: 3513
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Suresh R Naik
+Affiliation: Sinhgad Institue of Pharmaceutical Sciences
+h-index: 44
+i10-index: 89
+Citations: 7679
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: SHIVANAND SWAMY Hiremath
+Affiliation: KLES COLLEGE OF PHARMACY, HUBLI
+h-index: 8
+i10-index: 8
+Citations: 513
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Santosh  S. Jadhav
+Affiliation: D. S. M.'s Arts, Commerce and Science College, Jintur
+h-index: 29
+i10-index: 41
+Citations: 2943
+----------------------------------------
+Institution: Siddaganga Institute of Technology
+Name: Dr. Md. Rageeb Md. Usman
+Affiliation: Professor/HOD, Department of Pharmacognosy, Smt. S. S. Patil College of Pharmacy, Chopda
+h-index: 111
+i10-index: 1246
+Citations: 66639
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Bijay Kumar Sahoo
+Affiliation: Bhabha Atomic Research Centre
+h-index: 27
+i10-index: 64
+Citations: 2602
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Debashis Jana
+Affiliation: CEO Of Pc Solution- Common Service Center
+h-index: 10
+i10-index: 11
+Citations: 638
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: HIMANSHU SEKHAR DASH
+Affiliation: Unknown affiliation
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Jagannath Satpathy
+Affiliation: KU Leuven
+h-index: 0
+i10-index: 0
+Citations: 0
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Jaydeb Ray
+Affiliation: MSc Accounting and Finance, University of Surrey
+h-index: 1
+i10-index: 0
+Citations: 9
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: JOYDEEP MUKHERJEE
+Affiliation: School of Environmental Studies, Jadavpur University
+h-index: 34
+i10-index: 80
+Citations: 3677
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Manas Ranjan Mishra
+Affiliation: Sr Asst Professor in Mathematics, OP Jindal University
+h-index: 5
+i10-index: 4
+Citations: 133
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Dr. Manoj Kumar Nayak
+Affiliation: Asso Professor and Head, Centre for Sustainable Energy, Siksha'O' Anusandhan University, Bhubaneswar
+h-index: 44
+i10-index: 107
+Citations: 5183
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Naba Kishore Sahoo
+Affiliation: Distinguished Scientist, & Head, A&MPD, Bhabha Atomic Research Centre & Professor of Physics, HBNI
+h-index: 29
+i10-index: 77
+Citations: 3139
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Priyabrata Das
+Affiliation: McMaster University
+h-index: 12
+i10-index: 12
+Citations: 620
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Rajendra Prasad Mahapatra
+Affiliation: Professor(CSE) and Dean NCR Campus, SRMIST Delhi - NCR Campus
+h-index: 20
+i10-index: 33
+Citations: 1289
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Ranjeet Kumar Pathak
+Affiliation: Assistant Professor
+h-index: 2
+i10-index: 0
+Citations: 9
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Ratikanta Sahoo
+Affiliation: Shri Vishnu Engineering College for Women
+h-index: 4
+i10-index: 3
+Citations: 79
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Ratikanta Sahoo
+Affiliation: Shri Vishnu Engineering College for Women
+h-index: 4
+i10-index: 3
+Citations: 79
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Sasmita Mohanty
+Affiliation: Rama Devi Women's University, Bhubaneswar
+h-index: 25
+i10-index: 41
+Citations: 1796
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: SIBASISH DAS
+Affiliation: Qualcomm Technologies Inc
+h-index: 6
+i10-index: 4
+Citations: 206
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Subash Chandra Mohapatra
+Affiliation: Professor & Officer-in- Charge, AICRP on Agroforestry, OUAT Bhubaneswar, Odisha, India.
+h-index: 4
+i10-index: 3
+Citations: 86
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: suresh chandra nayak
+Affiliation: Professor, The Assam Royal Global University
+h-index: 2
+i10-index: 0
+Citations: 15
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Suresh Chandra Satapathy
+Affiliation: KIIT Deemed to be University,Bhubaneswar
+h-index: 60
+i10-index: 196
+Citations: 12491
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Sushil K Mishra
+Affiliation: Professor, Department of Mechanical Engineering, IIT Bombay
+h-index: 26
+i10-index: 58
+Citations: 2018
+----------------------------------------
+Institution: C.V. Raman Global University, Odisha
+Name: Umesh Kumar Mishra
+Affiliation: Chhattisgarh Kamdhenu Vishwavidyalaya, Anjora, Durg
+h-index: 5
+i10-index: 4
+Citations: 102
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Aishwarya Ravindran, M.D.
+Affiliation: Assistant Professor, Department of Pathology, University of Alabama at Birmingham
+h-index: 20
+i10-index: 37
+Citations: 2549
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr A Saravanan
+Affiliation: Assistant Dean - Research, Saveetha School of Engineering, SIMATS
+h-index: 57
+i10-index: 139
+Citations: 13223
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Palakolanu Sudhakar Reddy
+Affiliation: International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad
+h-index: 31
+i10-index: 59
+Citations: 3501
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Muthu Vignesh Vellayappan
+Affiliation: Singapore Institute of Manufacturing Technology (SIMTech), A*STAR
+h-index: 15
+i10-index: 19
+Citations: 1242
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Balaji Lakshminarayanan
+Affiliation: Senior Staff Research Scientist at Google DeepMind
+h-index: 47
+i10-index: 69
+Citations: 29188
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Karthik B. Jeganathan
+Affiliation: Assistant Professor Pediatric and Adolescent Medicine, Research - Supervisor, Mayo Clinic, Rochester
+h-index: 28
+i10-index: 35
+Citations: 8651
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Balakrishnan Ramakrishna
+Affiliation: Director, Gastroenterology, SRM Institutes for Medical Science, Vadapalani, Chennai 600 026
+h-index: 59
+i10-index: 152
+Citations: 12365
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. S. Ajith Arul Daniel
+Affiliation: Vels University, Assistant Professor
+h-index: 11
+i10-index: 16
+Citations: 817
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr Jeyaraj D Pandian MD DM FRACP FRCP FESO FWSO FNAMS
+Affiliation: Professor,  Department of Neurology, and Principal, Christian Medical College, Ludhiana, Punjab
+h-index: 72
+i10-index: 170
+Citations: 191210
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. R.C.Saravana Kumar
+Affiliation: Assistant Professor of Commerce
+h-index: 39
+i10-index: 179
+Citations: 9760
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr Kathi Sudarshan
+Affiliation: Radiochemistry Division, Bhabha Atomic Research Centre
+h-index: 29
+i10-index: 111
+Citations: 3235
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Vijay  Kumar  Gupta
+Affiliation: Professor, Operations Area, IMT Ghaziabad
+h-index: 73
+i10-index: 567
+Citations: 35447
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Gurumurthy Ramachandran
+Affiliation: Professor, Johns Hopkins University
+h-index: 44
+i10-index: 127
+Citations: 6423
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr G SARAVANA KUMAR
+Affiliation: Professor of ECE
+h-index: 19
+i10-index: 59
+Citations: 2319
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Geetha Sasikumar
+Affiliation: Principal Scientist, ICAR-Central Marine Fisheries Research Institute, Mangalore Regional Centre
+h-index: 15
+i10-index: 21
+Citations: 941
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Geetha Sivasubramanian
+Affiliation: UCSF Fresno
+h-index: 8
+i10-index: 8
+Citations: 358
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Jaya raja Kumar
+Affiliation: Research coordinator
+h-index: 91
+i10-index: 690
+Citations: 37764
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Karthik Narasimhan
+Affiliation: Associate Professor, Princeton University
+h-index: 41
+i10-index: 81
+Citations: 27593
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Kavinilavu A
+Affiliation: Assistant Professor-CSE, Sri Sai Ram Institute of Technology
+h-index: 2
+i10-index: 0
+Citations: 6
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. K. Mohanraj
+Affiliation: CYUT, Taiwan
+h-index: 22
+i10-index: 49
+Citations: 1543
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: K. Ramesh Reddy
+Affiliation: Graduate Researh Professor, University of Florida
+h-index: 101
+i10-index: 345
+Citations: 38802
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sureshbabu Ram Kumar Pandian
+Affiliation: Faculty of Biotechnology, Kalasalingam Academy of Research and Education
+h-index: 28
+i10-index: 38
+Citations: 6954
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Karuppaiah Selvakumar
+Affiliation: International Research Professor (Assistant Professor), Yeungnam University, South Korea
+h-index: 20
+i10-index: 31
+Citations: 1306
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Siva Vignesh Krishnan Chidambaram
+Affiliation: R&D Engineer, Aegis Rider
+h-index: 3
+i10-index: 1
+Citations: 74
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Kavitha Venkatesan
+Affiliation: Novartis Institutes for Biomedical Research, Boston University, Dana-farber Cancer Institute
+h-index: 22
+i10-index: 24
+Citations: 25912
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Manoj Kumar Gautam
+Affiliation: KU Leuven
+h-index: 34
+i10-index: 170
+Citations: 8247
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: NAGARAJAN M
+Affiliation: Unknown affiliation
+h-index: 31
+i10-index: 62
+Citations: 3728
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Madhusudan Parthasarathy
+Affiliation: Professor of Computer Science, University of Illinois at Urbana-Champaign
+h-index: 49
+i10-index: 99
+Citations: 9376
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rama Mohan Kurkalva
+Affiliation: CSIR-National Geophysical Research Institute, Hyderabad 500007, India
+h-index: 33
+i10-index: 80
+Citations: 5400
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr.E. Ranjith Kumar,.M.Sc.,Ph.D
+Affiliation: Professor of Physics, KPR Institute of Engineering and Technology
+h-index: 35
+i10-index: 96
+Citations: 3870
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Manu Santhanam
+Affiliation: Professor, IIT Madras
+h-index: 49
+i10-index: 116
+Citations: 11514
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Saravana M Dhanasekaran
+Affiliation: Research Scientist
+h-index: 63
+i10-index: 90
+Citations: 36048
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr Mithileysh Sathiyanarayanan
+Affiliation: Founder | CEO | Scientist @ MIT Square, London
+h-index: 20
+i10-index: 48
+Citations: 1504
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: MICHAEL GOMEZ SELVARAJ
+Affiliation: Leader Phenomics platform, Crop physiologist, International Center for Tropical Agriculture,CGIAR
+h-index: 34
+i10-index: 64
+Citations: 3792
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: M. Sivanantham
+Affiliation: Research and Development Cell, Department of Physics PRIST Deemed to be University, Thanjavur, India
+h-index: 6
+i10-index: 4
+Citations: 117
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Makarand Sudhakar Ballal (World's Top 2% Scientist)
+Affiliation: Professor (Electrical Engineering Department), Visvesvaraya National Institute of Technology, Nagpur
+h-index: 24
+i10-index: 63
+Citations: 2494
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Muthuramalingam Thangaraj
+Affiliation: Professor and Head, Mechatronics Engineering, SRM Institute of Science and Technology
+h-index: 46
+i10-index: 103
+Citations: 5685
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr M Vetrivel Sezhian
+Affiliation: Easwari Engineering College, Chennai
+h-index: 7
+i10-index: 7
+Citations: 226
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Muthu Vignesh Vellayappan
+Affiliation: Singapore Institute of Manufacturing Technology (SIMTech), A*STAR
+h-index: 15
+i10-index: 19
+Citations: 1242
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Nagalingam (Raj) Rajakumar
+Affiliation: University of Western Ontario
+h-index: 35
+i10-index: 61
+Citations: 4292
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Nadarajah Vigneswaran, BDS, DMD, Dr. Med.Dent
+Affiliation: Professor, Department of Diagnostic and Biomedical Sciences, UT Health School of Dentistry at
+h-index: 41
+i10-index: 88
+Citations: 18759
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Muthupandi P
+Affiliation: washington university in st. louis
+h-index: 14
+i10-index: 16
+Citations: 594
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Paulraj Kanmani
+Affiliation: University of Illinois at Chciago
+h-index: 36
+i10-index: 61
+Citations: 5831
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Pavitra Roychoudhury
+Affiliation: Research Assistant Professor, UW | Associate, Fred Hutch
+h-index: 40
+i10-index: 74
+Citations: 8539
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rajesh P. N. Rao
+Affiliation: Computer Science and Engineering, University of Washington
+h-index: 68
+i10-index: 190
+Citations: 26639
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: P Ramakrishnan
+Affiliation: Professor Emeritus, Dept. of Metallurgical Engineering and Material Science, IIT Bombay
+h-index: 28
+i10-index: 56
+Citations: 2329
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Periasamy Selvaraj
+Affiliation: Professor of Pathology, Emory University
+h-index: 40
+i10-index: 82
+Citations: 6000
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Ramanathan Arunachalam
+Affiliation: Associate Professor in Mechanical & Industrial Engineering Department, Sultan Qaboos University
+h-index: 28
+i10-index: 48
+Citations: 3855
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rangaramanujam Kannan
+Affiliation: Center for Nanomedicine, Johns Hopkins School of Medicine
+h-index: 64
+i10-index: 151
+Citations: 13065
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rajprasad Loganathan
+Affiliation: Wichita State University
+h-index: 14
+i10-index: 14
+Citations: 802
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Muhammad Rizwan Aslam
+Affiliation: PhD Zhejiang University
+h-index: 4
+i10-index: 4
+Citations: 206
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Ragul Paramasivam
+Affiliation: Monash University Australia; Chimertech Private Limited, Chimertech Innovations LLP
+h-index: 11
+i10-index: 13
+Citations: 546
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Rashmi Prabha Singh
+Affiliation: Sharda University
+h-index: 32
+i10-index: 124
+Citations: 5979
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr A R Pradeep
+Affiliation: Dean and Director, Professor and Head, Department of Periodontology, Government Dental college
+h-index: 58
+i10-index: 145
+Citations: 9909
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rajavel Elango
+Affiliation: University of British Columbia
+h-index: 39
+i10-index: 79
+Citations: 4776
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. Velu RAJESH KANNAN
+Affiliation: Professor of Microbiology
+h-index: 29
+i10-index: 49
+Citations: 2760
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Rajkumar Buyya
+Affiliation: School of Computing and Information Systems, The Uni of Melbourne; Fellow of IEEE & Academia Europea
+h-index: 171
+i10-index: 803
+Citations: 155988
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: R Sathish Kumar
+Affiliation: Sri Krishna College of Technology
+h-index: 28
+i10-index: 90
+Citations: 14623
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Raghupathy Sivakumar
+Affiliation: Wayne J. Holman Chair Professor, School of Electrical and Computer Engineering, Georgia Tech
+h-index: 54
+i10-index: 116
+Citations: 11721
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: R Srinivasan
+Affiliation: texas
+h-index: 99
+i10-index: 396
+Citations: 60568
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: DR.SUDHAKAR GUPTA
+Affiliation: Lovely Professional University
+h-index: 53
+i10-index: 205
+Citations: 17373
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Ramayanam Suresh
+Affiliation: Professor in CSE, Chadalawada Ramanamma Engineering College
+h-index: 51
+i10-index: 304
+Citations: 11526
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. R.Thangavel, Associate Professor,
+Affiliation: Department of Physics, IIT(ISM) Dhanbad
+h-index: 31
+i10-index: 79
+Citations: 2812
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: R Vinoth Kumar
+Affiliation: Unknown affiliation
+h-index: 36
+i10-index: 136
+Citations: 10334
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: FAST SPEED PACKER
+Affiliation: Ajay KUMAR
+h-index: 157
+i10-index: 656
+Citations: 112945
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: S. Dhanapandian
+Affiliation: Associate Professor, Department of Physics, Annamalai University
+h-index: 32
+i10-index: 53
+Citations: 2292
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Santhosh Girirajan
+Affiliation: T. Ming Chu Professor and Department Head of Biochemistry and Molecular Biology
+h-index: 48
+i10-index: 84
+Citations: 15259
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sailajah Janarthanan
+Affiliation: Internal Medicine Physician
+h-index: 3
+i10-index: 3
+Citations: 922
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. S.Karthik
+Affiliation: Professor and Dean, CSE, SNS College of Technology, Coimbatore
+h-index: 39
+i10-index: 197
+Citations: 7835
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr S.Krithika Roy
+Affiliation: University College London (UCL)
+h-index: 17
+i10-index: 27
+Citations: 2445
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: S.Malathi
+Affiliation: Professor & Dean
+h-index: 16
+i10-index: 29
+Citations: 988
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: M.Sabarimalai Manikandan
+Affiliation: Indian Institute of Technology Palakkad
+h-index: 33
+i10-index: 80
+Citations: 4781
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Prof. S.P.Meenakshisundaram
+Affiliation: CSIR Emeritus Scientist, Department of chemistry, Annamalai University
+h-index: 26
+i10-index: 72
+Citations: 2669
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr S Venkata Mohan
+Affiliation: Chief Scientist, Bioengineering and Environmental Sciences Lab, DEEE, CSIR-IICT
+h-index: 102
+i10-index: 461
+Citations: 36724
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Srikantan Nagarajan
+Affiliation: Professor, Department of Radiology and Biomedical Imaging, UCSF
+h-index: 89
+i10-index: 269
+Citations: 32788
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: S. Nandini
+Affiliation: Professor, National Autonomous University of Mexico Campus Iztacala
+h-index: 42
+i10-index: 183
+Citations: 7005
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Nithyanandan Manickam M.Sc. Ph.D.
+Affiliation: Associate Research Scientist, Kuwait Institute for Scientific Research
+h-index: 11
+i10-index: 11
+Citations: 1209
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Selvakumar Prakash Parthiban
+Affiliation: Assistant Professor, North Dakota State University
+h-index: 17
+i10-index: 22
+Citations: 1195
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Prabhakaran S
+Affiliation: Assistant Professor, Forensic Medicine
+h-index: 54
+i10-index: 186
+Citations: 14008
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr. V.R.S. Rajesh Kumar
+Affiliation: Professor and HOD/ECE Department - Sridevi Women's Engineering College
+h-index: 58
+i10-index: 292
+Citations: 20265
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sairam Raj Kumar
+Affiliation: Former Head, Division of Plant Physiology, Indian Agricultural Research Institute, New Delhi-110012
+h-index: 63
+i10-index: 248
+Citations: 25305
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Shahid Rauf
+Affiliation: Applied Materials, Inc.
+h-index: 46
+i10-index: 161
+Citations: 11795
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: K. S. Ravi Chandran
+Affiliation: Professor of Physical Metallurgy & Materials Science, University of Utah
+h-index: 46
+i10-index: 111
+Citations: 8041
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sarath Ranganathan
+Affiliation: Royal Children’s Hospital, University of Melbourne and Murdoch Children’s Research Institute
+h-index: 60
+i10-index: 172
+Citations: 13878
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sampath Parthasarathy
+Affiliation: University of Central Florida
+h-index: 98
+i10-index: 284
+Citations: 51774
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Santosh Kumar Divvala
+Affiliation: AI2, UW
+h-index: 29
+i10-index: 84
+Citations: 65064
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sathish Thirunavukkarasu
+Affiliation: Assistant Professor, Emory University, USA
+h-index: 48
+i10-index: 87
+Citations: 60837
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sathiyaraj Srinivasan
+Affiliation: Seoul Women's University
+h-index: 24
+i10-index: 65
+Citations: 1644
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sathiyaraj Srinivasan
+Affiliation: Seoul Women's University
+h-index: 24
+i10-index: 65
+Citations: 1644
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Senthilkumar Balakrishnan
+Affiliation: Tamil Nadu State Council for Science  and Technology
+h-index: 37
+i10-index: 69
+Citations: 26846
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Senthilkumar Balakrishnan
+Affiliation: Tamil Nadu State Council for Science  and Technology
+h-index: 37
+i10-index: 69
+Citations: 26846
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sivabalan Sakthivel
+Affiliation: King Fahd University of Petroleum and Minerals
+h-index: 19
+i10-index: 25
+Citations: 1091
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: SIVAKUMAR MANICKAM
+Affiliation: Professor of Chemical and Nanopharmaceutical Process Engineering, University Teknologi Brunei
+h-index: 70
+i10-index: 231
+Citations: 15445
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Shivaprakash M Rudramurthy
+Affiliation: Professor, Postgraduate Institute of Medical Education and Research
+h-index: 51
+i10-index: 189
+Citations: 12298
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: R. SIVARAJ RENGARAJ
+Affiliation: Professor & Head of Pharmacology
+h-index: 43
+i10-index: 117
+Citations: 9755
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sivaraman J
+Affiliation: National University of Singapore
+h-index: 49
+i10-index: 134
+Citations: 8112
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sridhar Komarneni
+Affiliation: Distinguished Professor of Clay Mineralogy
+h-index: 108
+i10-index: 710
+Citations: 47081
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Subbiah Alwarappan
+Affiliation: Senior Principal Scientist (CSIR-CECRI, India)
+h-index: 44
+i10-index: 84
+Citations: 6163
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Shyam Sundar
+Affiliation: Distinguished Professor of Medicine, Banaras Hindu University
+h-index: 107
+i10-index: 504
+Citations: 47611
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Suresh Doravari
+Affiliation: Scientific Officer, Inter-University Center for Astronomy and Astrophysics
+h-index: 101
+i10-index: 177
+Citations: 106284
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Suseendran Kanagarajan
+Affiliation: Assistant Professor in Agronomy
+h-index: 7
+i10-index: 5
+Citations: 193
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: M. S. Thenmozhi
+Affiliation: Saveetha Dental College & Hospitals, Saveetha University, Saveetha Institute of Medical and
+h-index: 12
+i10-index: 13
+Citations: 1295
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sethu Vijayakumar
+Affiliation: Professor of Robotics, University of Edinburgh; Programme Director at The Alan Turing Institute, UK
+h-index: 49
+i10-index: 176
+Citations: 13048
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: S V N Vishwanathan
+Affiliation: Associate Professor of Statistics and Computer Science, Purdue University
+h-index: 50
+i10-index: 104
+Citations: 16242
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Sanjib Bhattacharya
+Affiliation: Manager (QA), WBMSCL
+h-index: 36
+i10-index: 115
+Citations: 5361
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Arulprakash.T
+Affiliation: Researcher, National Research Centre on Plant Biotechnology, Pusa Campus, New Delhi
+h-index: 2
+i10-index: 2
+Citations: 37
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Timo Maran
+Affiliation: Professor of Ecosemiotics and Environmental Humanities, Department of Semiotics, University of Tartu
+h-index: 26
+i10-index: 55
+Citations: 2280
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Thillaichidambaram Muneeswaran
+Affiliation: Investigator Postdoctoral Researcher, University of Chile, Santiago, Chile
+h-index: 20
+i10-index: 30
+Citations: 1429
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Niranjan Thomas Abraham William
+Affiliation: Joan Kirner Women's and Children's at Sunshine Hospital, Western Health, Victoria.  Previous
+h-index: 24
+i10-index: 45
+Citations: 1789
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: S.T.Senthilkumar
+Affiliation: University of Sharjah, Sharjah, UAE.
+h-index: 28
+i10-index: 34
+Citations: 3219
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Kunigal Shivakumar
+Affiliation: North Carolina A & T State University
+h-index: 44
+i10-index: 109
+Citations: 7454
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Theepalakshmi Sivarajan
+Affiliation: ASSISTANT PROFESSOR
+h-index: 2
+i10-index: 0
+Citations: 9
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: T.G. Srinivasan
+Affiliation: Professor, HBNI
+h-index: 46
+i10-index: 141
+Citations: 6860
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Ananda Theertha Suresh
+Affiliation: Google Research, New York
+h-index: 40
+i10-index: 72
+Citations: 24976
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Thayalan Thaya
+Affiliation: Annamalai University
+h-index: 5
+i10-index: 3
+Citations: 62
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Thamiya Vasanthakumar
+Affiliation: Fred Hutch Cancer Center
+h-index: 4
+i10-index: 4
+Citations: 308
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Thiruselvam Viswanathan
+Affiliation: Instructor
+h-index: 6
+i10-index: 4
+Citations: 340
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Vinobalan Durairaj
+Affiliation: University of Kentucky
+h-index: 13
+i10-index: 13
+Citations: 2575
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Karthik Vaidyanathan Ramakrishnan
+Affiliation: Children's National Medical Center
+h-index: 17
+i10-index: 45
+Citations: 1734
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: T. V. Lakshman
+Affiliation: Bell Labs, Nokia
+h-index: 83
+i10-index: 218
+Citations: 28683
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Vanitha Swaminathan
+Affiliation: Thomas Marshall Professor of Marketing, University of Pittsburgh
+h-index: 30
+i10-index: 46
+Citations: 10448
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: V Sivakumar
+Affiliation: Reader  Queen's University Belfast, DSc
+h-index: 35
+i10-index: 72
+Citations: 5703
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Vinay Srinivasan
+Affiliation: Emergency Medicine Resident, Johns Hopkins
+h-index: 19
+i10-index: 19
+Citations: 55659
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Suresh V. Ambudkar
+Affiliation: Deputy Chief, LCB, CCR, National Cancer Institute, NIH
+h-index: 92
+i10-index: 267
+Citations: 39379
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Vasantha Kumar S
+Affiliation: Vellore Institute of Technology (VIT)
+h-index: 34
+i10-index: 156
+Citations: 18995
+----------------------------------------
+Institution: National Institute of Technology Puducherry
+Name: Dr.Vijay Viswanathan
+Affiliation: Prof. M Viswanathan Diabetes Research Center and MV Hospital for diabetes
+h-index: 75
+i10-index: 293
+Citations: 27253
+----------------------------------------
