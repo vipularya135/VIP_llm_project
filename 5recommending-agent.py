@@ -54,7 +54,7 @@ data_path = "C:\\Users\\krish\\OneDrive\\Desktop\\sem6\\llm\\project\\4_updated_
 df = load_data(data_path)
 
 # Example Usage
-user_input = "Lightweight Generative AI on Edge Devices: Pruning Strategies for VGG-16 and MobileNet on CIFAR"
+user_input = "medicle cancer images analysis"
 recommendations = recommend_professors(user_input, df)
 
 # Display results properly
