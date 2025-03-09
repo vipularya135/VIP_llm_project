@@ -84,8 +84,8 @@ if not API_KEY:
 TOGETHER_API_URL = "https://api.together.xyz/v1/chat/completions"
 
 # File Paths
-input_file = r"C:\Users\krish\OneDrive\Desktop\sem6\llm\project\test1.csv"
-output_file = r"C:\Users\krish\OneDrive\Desktop\sem6\llm\project\test_updated_professor_data.csv"
+input_file = r"C:\Users\krish\Desktop\sem6\llm\project\temp_professor_data.csv"
+output_file = r"C:\Users\krish\Desktop\sem6\llm\project\temp_professor_data.csv"
 
 # Function to extract college and research interests using DeepSeek-V3
 def get_college_and_research_interests(name, affiliation):

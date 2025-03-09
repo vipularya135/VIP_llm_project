@@ -42,4 +42,4 @@ def convert_txt_to_csv(input_file, output_file):
             csv_writer.writerow([name, affiliation, h_index, i10_index, citations])
 
 # Usage Example
-convert_txt_to_csv("3_professor_data.txt", "3_professor_data.csv")
+convert_txt_to_csv("temp_professor_data.txt", "temp_professor_data.csv")

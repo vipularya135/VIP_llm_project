@@ -527,6 +527,7 @@ Ananth Krishnamurthy
 Ananth S
 Ananthakrishnan B
 Ananthanarayana V S
+
 Ananthapadmanabha Achar
 Ananya Ghoshal
 Ananya S
@@ -1067,6 +1068,12 @@ B B Mandal
 B B P Rao
 B Bandyopadhyay
 B Banuprakash
+Atul Arun Pathak
+Atul Bhargav
+Atul Tayade
+Atul Thakur
+Atulan Guha
+Atulya Kumar Nagar
 B Bhattacharjee
 B C Meikap
 B C Ray
@@ -1779,6 +1786,7 @@ D K Ojha
 D K Pandey
 D K Parbat
 D K Pratihar
+done 
 D K Rai
 D K Roy
 D K Sarma
