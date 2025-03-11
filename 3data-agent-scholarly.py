@@ -33,7 +33,7 @@ def collect_data(professor_name):
         return pd.DataFrame()  # Return an empty DataFrame
 
 # Example use case
-professor_data = collect_data("Chitra Kalyanaraman")
+professor_data = collect_data("S.H.Shabbeer Basha")
 print(professor_data)
 
 
@@ -41,7 +41,7 @@ print(professor_data)
 # 0  Andrew Ng  Stanford University      150        361     273641
 # 1  zijun liu  Huazhong university        24         53       3728
 # 2  Varsha Apte  IIT Bombay                17         25        928
-
+# S.H. Shabbeer Basha  RV University, Bangalore        8          8        845
 
 # Name,Affiliation,h-index,i10-index,Citations
 # Prof Prafulla Kumar  Behera,"Professor of Physics, Indian Institute of Technology Madras",217,1481,244506

@@ -1786,7 +1786,6 @@ D K Ojha
 D K Pandey
 D K Parbat
 D K Pratihar
-done 
 D K Rai
 D K Roy
 D K Sarma
@@ -2538,6 +2537,10 @@ Dr Abu Nasar Ghazali
 Dr Achala Bhatnagar
 Dr Achintesh N Biswas
 Dr Achu Byju
+Dilip Kumar Sharma
+Dilip Prasad
+Dilleswar Pratap Singh
+Dillip Kumar Chand
 Dr Adam Junell
 Dr Adarsh S
 Dr Adepu Kumar
@@ -3405,6 +3408,7 @@ Dr DSJoshi
 Dr DSMilton Rhenius
 Dr DSRSS Srilatha
 Dr DSarkar
+done 
 Dr DSen
 Dr DV Kiran
 Dr DVLN Somayajulu
