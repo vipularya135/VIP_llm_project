@@ -47,14 +47,20 @@ def recommend_professors(user_input, df, top_n=3):
     similarities = util.pytorch_cos_sim(user_embedding, research_embeddings)[0]
     top_indices = similarities.argsort(descending=True)[:top_n]
     
-    return df.iloc[top_indices.tolist()][["Name", "Affiliation", "Citations", "h-index", "Research Interest 1", "Research Interest 2"]]
+    recommended_df = df.iloc[top_indices.tolist()]
+    
+    # Convert 'Citations' to numeric and sort in descending order
+    recommended_df["Citations"] = pd.to_numeric(recommended_df["Citations"], errors='coerce')
+    recommended_df = recommended_df.sort_values(by="Citations", ascending=False)
+    
+    return recommended_df[["Name", "Affiliation", "Citations", "h-index", "Research Interest 1", "Research Interest 2"]]
 
 # Load Data
 data_path = "C:\\Users\\krish\\OneDrive\\Desktop\\sem6\\llm\\project\\4_updated_professor_data.csv"
 df = load_data(data_path)
 
 # Example Usage
-user_input = "medicle cancer images analysis"
+user_input = "Analysis of COVID-19 from Lung CT Scans: A CNN-Based Approach with Generative Data Enhancement"
 recommendations = recommend_professors(user_input, df)
 
 # Display results properly
