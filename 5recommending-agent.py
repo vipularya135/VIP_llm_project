@@ -60,7 +60,7 @@ data_path = "C:\\Users\\krish\\OneDrive\\Desktop\\sem6\\llm\\project\\4_updated_
 df = load_data(data_path)
 
 # Example Usage
-user_input = "Analysis of COVID-19 from Lung CT Scans: A CNN-Based Approach with Generative Data Enhancement"
+user_input = "Analysis of COVID-19 from Lung CT Scan"
 recommendations = recommend_professors(user_input, df)
 
 # Display results properly
