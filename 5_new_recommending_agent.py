@@ -43,7 +43,7 @@ data_path = "C:\\Users\\krish\\OneDrive\\Desktop\\sem6\\llm\\project\\4_updated_
 df = load_data(data_path)
 
 # Example Usage
-user_query = "my interest domain is generative AI, i am confused to choose between IIT and other colleges. what should i take?" 
+user_query = "my interest domain is AI, i am confused to choose between IIT and other colleges. what should i take?" 
 recommendations = recommend_professors(user_query, df)
 
 pd.set_option('display.max_columns', None)
