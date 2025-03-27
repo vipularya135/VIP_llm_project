@@ -1,10 +1,11 @@
-scrape top 100 colleges - web scraping techniques - done
-find professors from each college - done   
-find the professors details - research interests, citations, h1 index  - done using google scholar
-recommending agent - use llama, perpexlity
-ui/ux - 
+scrape top 100 colleges - advance web scraping techniques - from nirf website 
+find professors from each college - using gemini pro and deepseek LLMs, i am getting all the 15k professors details by giving advance and effective prompts to botht he llm models
+find the professors details - research interests 1 and 2, citations, h1 index  - done using google scholar, deep seek, and together AI
+so now the dataset is ready - sample data-> 
+
+recommending agent - use bert transformers
+ui/ux - advance and visual treat for users
 
 
 
-prediction - train k means algo, cluster into groups, and predict their future citations, based on current research interests 
 consulting income
